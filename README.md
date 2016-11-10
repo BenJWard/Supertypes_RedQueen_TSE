@@ -83,7 +83,7 @@ mean and standard error of the JostD estimates.
 
 ### Supertype counting and computation of JostD
 
-Counting of of JostD and Pairwise JostD is done by the
+Supertype counting, computation of of JostD and Pairwise JostD is done by the
 [SuperTypeR](https://github.com/Ward9250/SuperTypeR) package.
 
 #### Random Bootstrap Simulations
