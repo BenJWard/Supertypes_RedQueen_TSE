@@ -18,12 +18,15 @@ by
 - Cock van Oosterhout
 
 This repository houses scripts used for the computation of a measure of
-differentiation called JostD, on the sample data, as well as bootstrap
-simulations of mean and standard error estimates of JostD.
+differentiation called JostD, on the sample data.
+In addition, random bootstrap simulations were performed, with the aim of
+randomizing supertype category allocations to sequenced alleles. To see if JostD
+estimated from the actual data differed significantly from the distribution of
+estimates of JostD computed for randomized simulations.
 
-Much of the computation of JostD and the simulations is handled by a package used
-in these scripts called SuperTypeR, so as other users wanting to use similar
-calculations in the future can include
+Much of the computation of JostD and the randomized simulations is handled by a
+package used in these scripts called SuperTypeR, so as other users wanting to
+use similar calculations in the future can include
 [SuperTypeR](https://github.com/Ward9250/SuperTypeR) in their own scripts.
 
 [SuperTypeR](https://github.com/Ward9250/SuperTypeR),
