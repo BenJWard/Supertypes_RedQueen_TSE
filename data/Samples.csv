@@ -1,0 +1,1587 @@
+Sample,Site,Drainage,G1,G2,G3,G4,G5,G6,G7,G8,G9,S1,S2,S3,S4,S5,S6,S7,S8,S9,Ai,STi
+DM1,Diego Martin,North Slope,Pore-DAB*603,Pore-DAB*558,Pore-DAB*582,Pore-DAB*104,Pore-DAB*103,,,,,8,8,14,9,9,,,,,5,3
+DM10,Diego Martin,North Slope,Pore-DAB*582,Pore-DAB*613,Pore-DAB*104,,,,,,,14,15,9,,,,,,,3,3
+DM11,Diego Martin,North Slope,Pore-DAB*582,Pore-DAB*613,Pore-DAB*104,,,,,,,14,15,9,,,,,,,3,3
+DM12,Diego Martin,North Slope,Pore-DAB*602,Pore-DAB*103,Pore-DAB*539,,,,,,,8,9,13,,,,,,,3,3
+DM13,Diego Martin,North Slope,Pore-DAB*626,Pore-DAB*582,Pore-DAB*637,Pore-DAB*103,,,,,,6,14,9,9,,,,,,4,3
+DM14,Diego Martin,North Slope,Pore-DAB*613,Pore-DAB*582,Pore-DAB*103,Pore-DAB*104,,,,,,15,14,9,9,,,,,,4,3
+DM15,Diego Martin,North Slope,Pore-DAB*582,Pore-DAB*104,Pore-DAB*539,,,,,,,14,9,13,,,,,,,3,3
+DM17,Diego Martin,North Slope,Pore-DAB*602,Pore-DAB*544,Pore-DAB*103,,,,,,,8,15,9,,,,,,,3,3
+DM18,Diego Martin,North Slope,Pore-DAB*603,Pore-DAB*613,Pore-DAB*558,,,,,,,8,15,8,,,,,,,3,2
+DM19,Diego Martin,North Slope,Pore-DAB*467,Pore-DAB*582,Pore-DAB*371,,,,,,,8,14,9,,,,,,,3,3
+DM2,Diego Martin,North Slope,Pore-DAB*103,Pore-DAB*582,Pore-DAB*613,,,,,,,9,14,15,,,,,,,3,3
+DM20,Diego Martin,North Slope,Pore-DAB*544,Pore-DAB*103,Pore-DAB*582,,,,,,,15,9,14,,,,,,,3,3
+DM21,Diego Martin,North Slope,Pore-DAB*613,Pore-DAB*582,Pore-DAB*104,,,,,,,15,14,9,,,,,,,3,3
+DM22,Diego Martin,North Slope,Pore-DAB*582,Pore-DAB*613,,,,,,,,14,15,,,,,,,,2,2
+DM23,Diego Martin,North Slope,Pore-DAB*613,Pore-DAB*582,,,,,,,,15,14,,,,,,,,2,2
+DM24,Diego Martin,North Slope,Pore-DAB*582,Pore-DAB*103,Pore-DAB*539,,,,,,,14,9,13,,,,,,,3,3
+DM25,Diego Martin,North Slope,Pore-DAB*544,Pore-DAB*582,Pore-DAB*104,,,,,,,15,14,9,,,,,,,3,3
+DM26,Diego Martin,North Slope,Pore-DAB*602,Pore-DAB*103,Pore-DAB*582,,,,,,,8,9,14,,,,,,,3,3
+DM3,Diego Martin,North Slope,Pore-DAB*467,Pore-DAB*637,,,,,,,,8,9,,,,,,,,2,2
+DM5,Diego Martin,North Slope,Pore-DAB*467,Pore-DAB*582,Pore-DAB*103,,,,,,,8,14,9,,,,,,,3,3
+DM6,Diego Martin,North Slope,Pore-DAB*544,Pore-DAB*613,,,,,,,,15,15,,,,,,,,2,1
+DM7,Diego Martin,North Slope,Pore-DAB*603,Pore-DAB*558,Pore-DAB*537,Pore-DAB*104,Pore-DAB*103,,,,,8,8,10,9,9,,,,,5,3
+DM8,Diego Martin,North Slope,Pore-DAB*582,Pore-DAB*613,Pore-DAB*104,Pore-DAB*103,,,,,,14,15,9,9,,,,,,4,3
+DM9,Diego Martin,North Slope,Pore-DAB*103,Pore-DAB*582,Pore-DAB*539,,,,,,,9,14,13,,,,,,,3,3
+Cur1,Curaguate,North Slope,Pore-DAB*592,Pore-DAB*590,Pore-DAB*202,Pore-DAB*319,,,,,,7,7,9,9,,,,,,4,2
+Cur10,Curaguate,North Slope,Pore-DAB*319,Pore-DAB*202,Pore-DAB*250,,,,,,,9,9,3,,,,,,,3,2
+Cur15,Curaguate,North Slope,Pore-DAB*593,Pore-DAB*202,Pore-DAB*319,,,,,,,7,9,9,,,,,,,3,2
+Cur18,Curaguate,North Slope,Pore-DAB*410,Pore-DAB*202,Pore-DAB*337,,,,,,,13,9,13,,,,,,,3,2
+Cur19,Curaguate,North Slope,Pore-DAB*319,Pore-DAB*832,,,,,,,,9,5,,,,,,,,2,2
+Cur2,Curaguate,North Slope,Pore-DAB*202,Pore-DAB*298,,,,,,,,9,7,,,,,,,,2,2
+Cur20,Curaguate,North Slope,Pore-DAB*319,Pore-DAB*833,Pore-DAB*337,Pore-DAB*832,,,,,,9,13,13,5,,,,,,4,3
+Cur22,Curaguate,North Slope,Pore-DAB*304,Pore-DAB*319,Pore-DAB*202,Pore-DAB*337,,,,,,7,9,9,13,,,,,,4,3
+Cur24,Curaguate,North Slope,Pore-DAB*202,Pore-DAB*291,,,,,,,,9,5,,,,,,,,2,2
+Cur5,Curaguate,North Slope,Pore-DAB*584,Pore-DAB*589,Pore-DAB*202,,,,,,,7,5,9,,,,,,,3,3
+Cur6,Curaguate,North Slope,Pore-DAB*592,Pore-DAB*319,Pore-DAB*202,Pore-DAB*410,,,,,,7,9,9,13,,,,,,4,3
+Cur7,Curaguate,North Slope,Pore-DAB*202,Pore-DAB*319,,,,,,,,9,9,,,,,,,,2,1
+Cur9,Curaguate,North Slope,Pore-DAB*202,Pore-DAB*319,Pore-DAB*410,Pore-DAB*337,Pore-DAB*302,,,,,9,9,13,13,14,,,,,5,3
+LC1,Las Cuevas,North Slope,Pore-DAB*305,Pore-DAB*202,Pore-DAB*319,,,,,,,7,9,9,,,,,,,3,2
+LC10,Las Cuevas,North Slope,Pore-DAB*304,Pore-DAB*306,Pore-DAB*319,Pore-DAB*202,,,,,,7,7,9,9,,,,,,4,2
+LC11,Las Cuevas,North Slope,Pore-DAB*294,Pore-DAB*281,Pore-DAB*319,Pore-DAB*202,,,,,,7,5,9,9,,,,,,4,3
+LC12,Las Cuevas,North Slope,Pore-DAB*410,Pore-DAB*202,Pore-DAB*319,,,,,,,13,9,9,,,,,,,3,2
+LC13,Las Cuevas,North Slope,Pore-DAB*291,Pore-DAB*319,Pore-DAB*202,,,,,,,5,9,9,,,,,,,3,2
+LC14,Las Cuevas,North Slope,Pore-DAB*306,Pore-DAB*202,Pore-DAB*410,,,,,,,7,9,13,,,,,,,3,3
+LC15,Las Cuevas,North Slope,Pore-DAB*309,Pore-DAB*319,Pore-DAB*202,,,,,,,7,9,9,,,,,,,3,2
+LC16,Las Cuevas,North Slope,Pore-DAB*202,,,,,,,,,9,,,,,,,,,1,1
+LC17,Las Cuevas,North Slope,Pore-DAB*319,Pore-DAB*202,Pore-DAB*337,,,,,,,9,9,13,,,,,,,3,2
+LC18,Las Cuevas,North Slope,Pore-DAB*319,Pore-DAB*376,Pore-DAB*337,,,,,,,9,9,13,,,,,,,3,2
+LC19,Las Cuevas,North Slope,Pore-DAB*278,Pore-DAB*202,,,,,,,,5,9,,,,,,,,2,2
+LC20,Las Cuevas,North Slope,Pore-DAB*319,Pore-DAB*202,,,,,,,,9,9,,,,,,,,2,1
+LC21,Las Cuevas,North Slope,Pore-DAB*383,Pore-DAB*337,Pore-DAB*319,Pore-DAB*202,,,,,,5,13,9,9,,,,,,4,3
+LC22,Las Cuevas,North Slope,Pore-DAB*283,Pore-DAB*410,Pore-DAB*376,Pore-DAB*202,,,,,,5,13,9,9,,,,,,4,3
+LC23,Las Cuevas,North Slope,Pore-DAB*306,Pore-DAB*319,Pore-DAB*337,Pore-DAB*202,,,,,,7,9,13,9,,,,,,4,3
+LC25,Las Cuevas,North Slope,Pore-DAB*337,Pore-DAB*319,Pore-DAB*202,,,,,,,13,9,9,,,,,,,3,2
+LC26,Las Cuevas,North Slope,Pore-DAB*298,Pore-DAB*319,Pore-DAB*337,Pore-DAB*202,Pore-DAB*302,,,,,7,9,13,9,14,,,,,5,4
+LC27,Las Cuevas,North Slope,Pore-DAB*306,Pore-DAB*319,Pore-DAB*202,,,,,,,7,9,9,,,,,,,3,2
+LC29,Las Cuevas,North Slope,Pore-DAB*307,Pore-DAB*302,Pore-DAB*202,Pore-DAB*319,,,,,,7,14,9,9,,,,,,4,3
+LC3,Las Cuevas,North Slope,Pore-DAB*294,Pore-DAB*202,,,,,,,,7,9,,,,,,,,2,2
+LC31,Las Cuevas,North Slope,Pore-DAB*249,Pore-DAB*202,,,,,,,,9,9,,,,,,,,2,1
+LC4,Las Cuevas,North Slope,Pore-DAB*298,Pore-DAB*290,Pore-DAB*376,Pore-DAB*319,,,,,,7,7,9,9,,,,,,4,2
+LC5,Las Cuevas,North Slope,Pore-DAB*202,Pore-DAB*319,,,,,,,,9,9,,,,,,,,2,1
+LC6,Las Cuevas,North Slope,Pore-DAB*202,Pore-DAB*307,Pore-DAB*300,,,,,,,9,7,7,,,,,,,3,2
+LC7,Las Cuevas,North Slope,Pore-DAB*380,Pore-DAB*319,Pore-DAB*337,,,,,,,5,9,13,,,,,,,3,3
+LC8,Las Cuevas,North Slope,Pore-DAB*202,Pore-DAB*337,,,,,,,,9,13,,,,,,,,2,2
+LC9,Las Cuevas,North Slope,Pore-DAB*202,Pore-DAB*337,,,,,,,,9,13,,,,,,,,2,2
+G021361,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021362,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021363,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021364,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021366,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021367,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021368,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021369,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021370,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021371,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021374,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021375,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021376,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021377,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021378,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021379,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021380,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021381,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021382,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021383,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021384,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021385,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021386,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021387,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021388,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021389,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021390,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021391,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021392,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021393,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021394,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021395,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021396,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021397,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021398,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021399,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G021400,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091135Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091135-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091138Y1,Yarra 1,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G091138-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091141Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091141-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091144Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,3,3,15,9,,,,,,4,3
+G091145Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091146Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091147Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091148Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091149Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091150Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091151Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091153Y1,Yarra 1,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G091155Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*375,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G091157Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*107,Pore-DAB*103,,,,,,,3,7,9,,,,,,,3,3
+G091158Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091163Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091163-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091164Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091164-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091165Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091165-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091166Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*103,,,,,,,3,9,9,,,,,,,3,2
+G091166-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*103,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G100267Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100268Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*277,,,,,,,3,9,13,,,,,,,3,3
+G100270Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100271Y1,Yarra 1,North slope,Pore-DAB*289,Pore-DAB*322,Pore-DAB*249,,,,,,,8,3,9,,,,,,,3,3
+G100272Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*216,Pore-DAB*120,Pore-DAB*249,,,,,,3,11,8,9,,,,,,4,4
+G100273Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100274Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100275Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*103,,,,,,,,3,9,,,,,,,,2,2
+G100276Y1,Yarra 1,North slope,Pore-DAB*216,Pore-DAB*322,Pore-DAB*120,Pore-DAB*249,,,,,,11,3,8,9,,,,,,4,4
+G100277Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*375,,,,,,,3,9,9,,,,,,,3,2
+G100278Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*107,Pore-DAB*103,Pore-DAB*375,,,,,,3,7,9,9,,,,,,4,3
+G100279Y1,Yarra 1,North slope,Pore-DAB*216,Pore-DAB*322,Pore-DAB*249,Pore-DAB*120,,,,,,11,3,9,8,,,,,,4,4
+G100280Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100281Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,3,3,15,9,,,,,,4,3
+G100282Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100283Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100284Y1,Yarra 1,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G100285Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100286Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*103,,,,,,,3,9,9,,,,,,,3,2
+G100287Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100288Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*277,Pore-DAB*249,,,,,,,3,13,9,,,,,,,3,3
+G100289Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*286,Pore-DAB*422,Pore-DAB*249,,,,,,3,15,6,9,,,,,,4,4
+G100290Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100291Y1,Yarra 1,North slope,Pore-DAB*133,Pore-DAB*322,Pore-DAB*106,Pore-DAB*335,Pore-DAB*375,,,,,11,3,8,9,9,,,,,5,4
+G100292Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*107,Pore-DAB*249,,,,,,,3,7,9,,,,,,,3,3
+G100293Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100294-Y1,Yarra 1,North Slope,Pore-DAB*322,Pore-DAB*103,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G100295Y1,Yarra 1,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G100296Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*286,Pore-DAB*422,Pore-DAB*103,,,,,,3,15,6,9,,,,,,4,4
+G100297Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G100298Y1,Yarra 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091128Y2,Yarra 2,North slope,Pore-DAB*326,Pore-DAB*249,Pore-DAB*347,,,,,,,12,9,15,,,,,,,3,3
+G091129Y2,Yarra 2,North slope,Pore-DAB*326,Pore-DAB*249,Pore-DAB*347,Pore-DAB*202,,,,,,12,9,15,9,,,,,,4,3
+G091130Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*416,Pore-DAB*249,Pore-DAB*202,,,,,,3,15,9,9,,,,,,4,3
+G091131,Yarra 2,North slope,Pore-DAB*329,Pore-DAB*381,Pore-DAB*279,Pore-DAB*412,Pore-DAB*104,Pore-DAB*202,,,,12,11,8,6,9,9,,,,6,5
+G091131-Y2,Yarra 2,North Slope,Pore-DAB*381,Pore-DAB*279,Pore-DAB*329,Pore-DAB*412,Pore-DAB*104,Pore-DAB*202,,,,11,8,12,6,9,9,,,,6,5
+G091132Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*347,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G091133Y2,Yarra 2,North slope,Pore-DAB*284,,,,,,,,,3,,,,,,,,,1,1
+G091134Y2,Yarra 2,North slope,Pore-DAB*347,Pore-DAB*249,Pore-DAB*202,,,,,,,15,9,9,,,,,,,3,2
+G091168Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091606Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G091607Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*349,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G091608Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G091609Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*322,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G091611Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G091612Y2,Yarra 2,North slope,Pore-DAB*334,Pore-DAB*284,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,7,3,3,9,9,,,,,5,3
+G101279Y2,Yarra 2,North slope,Pore-DAB*342,Pore-DAB*202,,,,,,,,15,9,,,,,,,,2,2
+G101280Y2,Yarra 2,North slope,Pore-DAB*202,Pore-DAB*342,Pore-DAB*284,,,,,,,9,15,3,,,,,,,3,3
+G101281Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G101282Y2,Yarra 2,North slope,Pore-DAB*342,Pore-DAB*349,Pore-DAB*202,,,,,,,15,15,9,,,,,,,3,2
+G101283Y2,Yarra 2,North slope,Pore-DAB*334,Pore-DAB*325,Pore-DAB*284,Pore-DAB*202,,,,,,7,14,3,9,,,,,,4,4
+G101284Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G101285Y2,Yarra 2,North slope,Pore-DAB*202,Pore-DAB*322,Pore-DAB*284,,,,,,,9,3,3,,,,,,,3,2
+G101286Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101287Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101288Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*349,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G101289Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G101290Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G101291,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*284,,,,,,,3,9,3,,,,,,,3,2
+G101292Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*342,,,,,,,3,9,15,,,,,,,3,3
+G101293Y2,Yarra 2,North slope,Pore-DAB*334,Pore-DAB*325,Pore-DAB*202,,,,,,,7,14,9,,,,,,,3,3
+G101294Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101295Y2,Yarra 2,North slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*322,Pore-DAB*202,,,,,,14,7,3,9,,,,,,4,4
+G101296Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*334,Pore-DAB*325,Pore-DAB*202,,,,,,3,7,14,9,,,,,,4,4
+G101297,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*347,Pore-DAB*249,Pore-DAB*103,,,,,,3,15,9,9,,,,,,4,3
+G101298Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101299Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101300Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*322,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G101301Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G101302Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*342,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G101303Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101304Y2,Yarra 2,North slope,Pore-DAB*334,Pore-DAB*325,Pore-DAB*202,Pore-DAB*417,,,,,,7,14,9,15,,,,,,4,4
+G101305Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*342,Pore-DAB*249,Pore-DAB*202,,,,,,3,15,9,9,,,,,,4,3
+G101306Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*342,Pore-DAB*249,Pore-DAB*202,,,,,,3,15,9,9,,,,,,4,3
+G101307Y2,Yarra 2,North slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*342,,,,,,,3,9,15,,,,,,,3,3
+G101308Y2,Yarra 2,North slope,Pore-DAB*202,Pore-DAB*284,,,,,,,,9,3,,,,,,,,2,2
+G101309Y2,Yarra 2,North slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*322,Pore-DAB*202,,,,,,14,7,3,9,,,,,,4,4
+G101310Y2,Yarra 2,North slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*322,,,,,,,3,9,3,,,,,,,3,2
+G090402Dam,Damier 1,North slope,Pore-DAB*202,Pore-DAB*326,Pore-DAB*277,,,,,,,9,12,13,,,,,,,3,3
+G090406Dam,Damier 1,North slope,Pore-DAB*284,Pore-DAB*342,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G090407Dam,Damier 1,North slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*415,,,,,,,3,9,15,,,,,,,3,3
+G090409-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G090409Dam1,Damier 1,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G090410-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*825,Pore-DAB*284,Pore-DAB*567,Pore-DAB*202,Pore-DAB*249,,,,3,2,3,6,9,9,,,,6,4
+G090411-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G090412Dam,Damier 1,North slope,Pore-DAB*415,Pore-DAB*249,Pore-DAB*202,,,,,,,15,9,9,,,,,,,3,2
+G090412-Dam,Damier 1,North Slope,Pore-DAB*415,Pore-DAB*202,Pore-DAB*249,Pore-DAB*827,,,,,,15,9,9,8,,,,,,4,3
+G090413Dam,Damier 1,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*250,Pore-DAB*267,Pore-DAB*251,Pore-DAB*240,Pore-DAB*202,,,3,3,3,11,15,4,9,,,7,5
+G090413-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*284,Pore-DAB*514,,,,,,3,9,3,10,,,,,,4,3
+G090414Dam,Damier 1,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G090414-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G090415-Dam,Damier 1,North Slope,Pore-DAB*334,Pore-DAB*325,Pore-DAB*202,,,,,,,7,14,9,,,,,,,3,3
+G090415Dam1,Damier 1,North slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*202,,,,,,,14,7,9,,,,,,,3,3
+G090416-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*834,Pore-DAB*418,Pore-DAB*249,Pore-DAB*202,,,,,3,13,15,9,9,,,,,5,4
+G090417-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,Pore-DAB*249,,,,,,3,3,9,9,,,,,,4,2
+G090418Dam,Damier 1,North slope,Pore-DAB*347,Pore-DAB*202,Pore-DAB*249,,,,,,,15,9,9,,,,,,,3,2
+G090418-Dam,Damier 1,North Slope,Pore-DAB*516,Pore-DAB*202,Pore-DAB*249,Pore-DAB*827,,,,,,15,9,9,8,,,,,,4,3
+G090419-Dam,Damier 1,North Slope,Pore-DAB*865,Pore-DAB*284,Pore-DAB*202,Pore-DAB*249,,,,,,3,3,9,9,,,,,,4,2
+G090420-Dam,Damier 1,North Slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*322,,,,,,,3,9,3,,,,,,,3,2
+G090421-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,Pore-DAB*514,,,,,,3,9,9,10,,,,,,4,3
+G090422Dam,Damier 1,North slope,Pore-DAB*295,Pore-DAB*347,Pore-DAB*412,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,Pore-DAB*284,,,8,15,6,3,9,9,3,,,7,5
+G090422-Dam,Damier 1,North Slope,Pore-DAB*295,Pore-DAB*516,Pore-DAB*412,Pore-DAB*202,Pore-DAB*249,Pore-DAB*322,,,,8,15,6,9,9,3,,,,6,5
+G090423-Dam,Damier 1,North Slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*516,Pore-DAB*202,Pore-DAB*249,,,,,14,7,15,9,9,,,,,5,4
+G090424-Dam,Damier 1,North Slope,Pore-DAB*249,Pore-DAB*202,Pore-DAB*514,,,,,,,9,9,10,,,,,,,3,2
+G090424Dam1,Damier 1,North slope,Pore-DAB*249,Pore-DAB*202,,,,,,,,9,9,,,,,,,,2,1
+G090425-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*514,,,,,,,3,9,10,,,,,,,3,3
+G090426-Dam,Damier 1,North Slope,Pore-DAB*284,Pore-DAB*516,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G090426Dam1,Damier 1,North slope,Pore-DAB*284,Pore-DAB*347,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G090427Dam,Damier 1,North slope,Pore-DAB*202,Pore-DAB*250,Pore-DAB*240,Pore-DAB*251,Pore-DAB*267,Pore-DAB*256,,,,9,3,4,15,11,9,,,,6,5
+G090427-Dam,Damier 1,North Slope,Pore-DAB*202,Pore-DAB*514,,,,,,,,9,10,,,,,,,,2,2
+G090428-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*415,Pore-DAB*202,Pore-DAB*249,,,,,,3,15,9,9,,,,,,4,3
+G090429-Dam,Damier 1,North Slope,Pore-DAB*515,Pore-DAB*205,Pore-DAB*202,,,,,,,6,1,9,,,,,,,3,3
+G090430Dam1,Damier 1,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G090431-Dam,Damier 1,North Slope,Pore-DAB*512,Pore-DAB*834,Pore-DAB*418,Pore-DAB*202,,,,,,15,13,15,9,,,,,,4,3
+G090432-Dam,Damier 1,North Slope,Pore-DAB*322,Pore-DAB*865,Pore-DAB*249,Pore-DAB*202,,,,,,3,3,9,9,,,,,,4,2
+G100613Dam1,Damier 1,North slope,Pore-DAB*349,Pore-DAB*249,Pore-DAB*416,Pore-DAB*202,,,,,,15,9,15,9,,,,,,4,2
+G100614Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,Pore-DAB*249,,,,,,3,3,9,9,,,,,,4,2
+G100615Dam1,Damier 1,North slope,Pore-DAB*202,Pore-DAB*284,Pore-DAB*322,Pore-DAB*347,Pore-DAB*249,,,,,9,3,3,15,9,,,,,5,3
+G100616Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*342,Pore-DAB*202,Pore-DAB*249,,,,,,3,15,9,9,,,,,,4,3
+G100617Dam1,Damier 1,North slope,Pore-DAB*347,Pore-DAB*284,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,15,3,3,9,9,,,,,5,3
+G100618Dam1,Damier 1,North slope,Pore-DAB*347,Pore-DAB*249,Pore-DAB*202,,,,,,,15,9,9,,,,,,,3,2
+G100619Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G100620Dam1,Damier 1,North slope,Pore-DAB*202,Pore-DAB*284,,,,,,,,9,3,,,,,,,,2,2
+G100621Dam1,Damier 1,North slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*349,Pore-DAB*249,Pore-DAB*202,,,,,14,7,15,9,9,,,,,5,4
+G100622Dam1,Damier 1,North slope,Pore-DAB*347,Pore-DAB*249,Pore-DAB*202,,,,,,,15,9,9,,,,,,,3,2
+G100624Dam1,Damier 1,North slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*322,,,,,,,3,9,3,,,,,,,3,2
+G100625Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G100626Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G100627Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*347,,,,,,,3,9,15,,,,,,,3,3
+G100628Dam1,Damier 1,North slope,Pore-DAB*349,Pore-DAB*347,Pore-DAB*249,Pore-DAB*202,,,,,,15,15,9,9,,,,,,4,2
+G100629Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*326,Pore-DAB*249,Pore-DAB*202,,,,,,3,12,9,9,,,,,,4,3
+G100630Dam1,Damier 1,North slope,Pore-DAB*415,Pore-DAB*202,,,,,,,,15,9,,,,,,,,2,2
+G100631Dam1,Damier 1,North slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*249,,,,,,,14,7,9,,,,,,,3,3
+G100632Dam1,Damier 1,North slope,Pore-DAB*284,Pore-DAB*342,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G100633Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*249,Pore-DAB*202,,,,,,3,3,9,9,,,,,,4,2
+G100634Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*349,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G100635Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G100636Dam1,Damier 1,North slope,Pore-DAB*284,Pore-DAB*249,Pore-DAB*347,,,,,,,3,9,15,,,,,,,3,3
+G100637Dam1,Damier 1,North slope,Pore-DAB*295,Pore-DAB*412,Pore-DAB*202,Pore-DAB*249,,,,,,8,6,9,9,,,,,,4,3
+G100638Dam1,Damier 1,North slope,Pore-DAB*349,Pore-DAB*202,,,,,,,,15,9,,,,,,,,2,2
+G100639Dam1,Damier 1,North slope,Pore-DAB*322,Pore-DAB*347,Pore-DAB*202,Pore-DAB*202,,,,,,3,15,9,9,,,,,,4,3
+G100640Dam1,Damier 1,North slope,Pore-DAB*284,Pore-DAB*277,Pore-DAB*202,,,,,,,3,13,9,,,,,,,3,3
+G100641Dam1,Damier 1,North slope,Pore-DAB*277,Pore-DAB*249,Pore-DAB*202,,,,,,,13,9,9,,,,,,,3,2
+G100642Dam1,Damier 1,North slope,Pore-DAB*249,Pore-DAB*349,,,,,,,,9,15,,,,,,,,2,2
+G100643Dam1,Damier 1,North slope,Pore-DAB*347,Pore-DAB*284,Pore-DAB*249,Pore-DAB*202,,,,,,15,3,9,9,,,,,,4,3
+G100644Dam1,Damier 1,North slope,Pore-DAB*325,Pore-DAB*334,Pore-DAB*249,Pore-DAB*202,,,,,,14,7,9,9,,,,,,4,3
+G091442-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*418,,,,,,,3,9,15,,,,,,,3,3
+G091443Dam2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G091443-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,Pore-DAB*514,,,,,,3,9,9,10,,,,,,4,3
+G091444-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G091445-Dam2,Damier 2,North Slope,Pore-DAB*418,Pore-DAB*202,Pore-DAB*249,,,,,,,15,9,9,,,,,,,3,2
+G091447Dam2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*249,,,,,,,3,3,9,,,,,,,3,2
+G091447-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*284,,,,,,,3,9,3,,,,,,,3,2
+G091448Dam2,Damier 2,North slope,Pore-DAB*284,Pore-DAB*249,Pore-DAB*202,Pore-DAB*240,Pore-DAB*267,Pore-DAB*251,Pore-DAB*250,,,3,9,9,4,11,15,3,,,7,5
+G091448-Dam2,Damier 2,North Slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*249,Pore-DAB*514,,,,,,3,9,9,10,,,,,,4,3
+G091449-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G091450-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*347,,,,,,,3,9,15,,,,,,,3,3
+G091451-Dam2,Damier 2,North Slope,Pore-DAB*284,Pore-DAB*512,Pore-DAB*249,Pore-DAB*202,,,,,,3,15,9,9,,,,,,4,3
+G091452-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G091453-Dam2,Damier 2,North Slope,Pore-DAB*415,Pore-DAB*249,Pore-DAB*202,,,,,,,15,9,9,,,,,,,3,2
+G091454-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G091455-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*342,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G091456Dam2,Damier 2,North slope,Pore-DAB*284,Pore-DAB*326,Pore-DAB*202,,,,,,,3,12,9,,,,,,,3,3
+G091456-Dam2,Damier 2,North Slope,Pore-DAB*284,Pore-DAB*326,Pore-DAB*202,,,,,,,3,12,9,,,,,,,3,3
+G091457-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*516,,,,,,,3,9,15,,,,,,,3,3
+G091458-Dam2,Damier 2,North Slope,Pore-DAB*284,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G091459-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G091460-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*515,Pore-DAB*205,,,,,,3,9,6,1,,,,,,4,4
+G091461Dam2,Damier 2,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G091461-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G091462-Dam2,Damier 2,North Slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G091463-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G091464-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G091465Dam2,Damier 2,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G091465-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G091466-Dam2,Damier 2,North Slope,Pore-DAB*277,Pore-DAB*249,Pore-DAB*202,Pore-DAB*514,,,,,,13,9,9,10,,,,,,4,3
+G091467-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*514,,,,,,,3,9,10,,,,,,,3,3
+G091468-Dam2,Damier 2,North Slope,Pore-DAB*415,Pore-DAB*202,Pore-DAB*249,Pore-DAB*514,Pore-DAB*322,,,,,15,9,9,10,3,,,,,5,4
+G091469-Dam2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G091470Dam2,Damier 2,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G091470-Dam2,Damier 2,North Slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G091471Dam2,Damier 2,North slope,Pore-DAB*218,Pore-DAB*219,Pore-DAB*342,Pore-DAB*202,,,,,,8,10,15,9,,,,,,4,4
+G091472-Dam2,Damier 2,North Slope,Pore-DAB*284,,,,,,,,,3,,,,,,,,,1,1
+G101014D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G101015D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101018D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101019D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*249,,,,,,,,3,9,,,,,,,,2,2
+G101020D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*342,,,,,,,3,9,15,,,,,,,3,3
+G101021-D2,Damier 2,North Slope,Pore-DAB*322,Pore-DAB*342,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G101024D2,Damier 2,North slope,Pore-DAB*415,Pore-DAB*202,,,,,,,,15,9,,,,,,,,2,2
+G101025D2,Damier 2,North slope,Pore-DAB*347,Pore-DAB*415,Pore-DAB*249,Pore-DAB*202,,,,,,15,15,9,9,,,,,,4,2
+G101026D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G101027D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G101028D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*347,Pore-DAB*202,,,,,,,3,15,9,,,,,,,3,3
+G101030D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101034D2,Damier 2,North slope,Pore-DAB*284,Pore-DAB*249,Pore-DAB*202,,,,,,,3,9,9,,,,,,,3,2
+G101035D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*415,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G101036D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*284,Pore-DAB*202,,,,,,,3,3,9,,,,,,,3,2
+G101037D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G101038D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101039-D2,Damier 2,North Slope,Pore-DAB*284,Pore-DAB*415,Pore-DAB*322,Pore-DAB*202,Pore-DAB*249,,,,,3,15,3,9,9,,,,,5,3
+G101040D2,Damier 2,North slope,Pore-DAB*322,Pore-DAB*202,,,,,,,,3,9,,,,,,,,2,2
+G101041D2,Damier 2,North slope,Pore-DAB*322,,,,,,,,,3,,,,,,,,,1,1
+G101042D2,Damier 2,North slope,Pore-DAB*284,Pore-DAB*202,Pore-DAB*342,,,,,,,3,9,15,,,,,,,3,3
+G101044D2,Damier 2,North slope,Pore-DAB*342,Pore-DAB*202,,,,,,,,15,9,,,,,,,,2,2
+G100714M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*249,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+G100715M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100716M16,Marianne 16,North slope,Pore-DAB*256,Pore-DAB*250,Pore-DAB*251,Pore-DAB*240,,,,,,9,3,15,4,,,,,,4,4
+G100717M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+G100718M16,Marianne 16,North slope,Pore-DAB*250,Pore-DAB*240,Pore-DAB*251,Pore-DAB*256,Pore-DAB*431,,,,,3,4,15,9,13,,,,,5,5
+G100719M16,Marianne 16,North slope,Pore-DAB*250,Pore-DAB*240,Pore-DAB*251,Pore-DAB*256,Pore-DAB*431,,,,,3,4,15,9,13,,,,,5,5
+G100720M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*249,Pore-DAB*249,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+G100721M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100722M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+G100723M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*249,,,,,,,4,9,9,,,,,,,3,2
+G100724-M16,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+G100725M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+G100726M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100727M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100728M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100729M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*249,Pore-DAB*256,,,,,,,4,9,9,,,,,,,3,2
+G100730M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100731M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,Pore-DAB*249,,,,,,4,9,13,9,,,,,,4,3
+G100732M16,Marianne 16,North slope,Pore-DAB*250,Pore-DAB*240,Pore-DAB*251,Pore-DAB*256,Pore-DAB*249,Pore-DAB*431,,,,3,4,15,9,9,13,,,,6,5
+G100732-M16,Marianne 16,North Slope,Pore-DAB*251,Pore-DAB*240,Pore-DAB*250,Pore-DAB*518,Pore-DAB*249,Pore-DAB*431,,,,15,4,3,9,9,13,,,,6,5
+G100733M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+G100734M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*249,Pore-DAB*256,,,,,,4,13,9,9,,,,,,4,3
+G100735M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*249,Pore-DAB*256,,,,,,4,13,9,9,,,,,,4,3
+G100736M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*249,Pore-DAB*256,,,,,,4,13,9,9,,,,,,4,3
+G100737M16,Marianne 16,North slope,Pore-DAB*256,Pore-DAB*251,Pore-DAB*250,Pore-DAB*240,,,,,,9,15,3,4,,,,,,4,4
+G100738M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100739M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100740M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100741M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100742M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100743M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100744M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+G100745M16,Marianne 16,North slope,Pore-DAB*240,Pore-DAB*256,,,,,,,,4,9,,,,,,,,2,2
+Marianne #16-p1_10A,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*518,Pore-DAB*249,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_10B,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*249,Pore-DAB*256,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_10C,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*518,,,,,,,4,13,9,,,,,,,3,3
+Marianne #16-p1_10D,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+Marianne #16-p1_10E,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+Marianne #16-p1_10F,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*256,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+Marianne #16-p1_10G,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+Marianne #16-p1_11A,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*249,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+Marianne #16-p1_11B,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*518,Pore-DAB*249,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_11C,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*256,Pore-DAB*518,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_11D,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*518,Pore-DAB*256,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_11E,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*256,Pore-DAB*518,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_11F,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*249,,,,,,,4,13,9,,,,,,,3,3
+Marianne #16-p1_11G,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*249,Pore-DAB*256,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_11H,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*518,,,,,,,4,13,9,,,,,,,3,3
+Marianne #16-p1_12A,Marianne 16,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*240,Pore-DAB*518,Pore-DAB*256,Pore-DAB*431,,,,15,3,4,9,9,13,,,,6,5
+Marianne #16-p1_12B,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*708,Pore-DAB*431,Pore-DAB*256,Pore-DAB*518,,,,,4,4,13,9,9,,,,,5,3
+Marianne #16-p1_12C,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*256,Pore-DAB*249,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_8D,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*518,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+Marianne #16-p1_8E,Marianne 16,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*240,Pore-DAB*256,Pore-DAB*249,Pore-DAB*431,,,,3,15,4,9,9,13,,,,6,5
+Marianne #16-p1_8F,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*256,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+Marianne #16-p1_8G,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*518,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+Marianne #16-p1_8H,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*431,,,,,,,4,9,13,,,,,,,3,3
+Marianne #16-p1_9A,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*256,Pore-DAB*518,Pore-DAB*431,,,,,,4,9,9,13,,,,,,4,3
+Marianne #16-p1_9B,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*708,Pore-DAB*431,Pore-DAB*249,Pore-DAB*518,,,,,4,4,13,9,9,,,,,5,3
+Marianne #16-p1_9C,Marianne 16,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*518,Pore-DAB*240,,,,,,15,3,9,4,,,,,,4,4
+Marianne #16-p1_9D,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*256,Pore-DAB*518,,,,,,4,13,9,9,,,,,,4,3
+Marianne #16-p1_9F,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*518,,,,,,,4,13,9,,,,,,,3,3
+Marianne #16-p1_9H,Marianne 16,North Slope,Pore-DAB*240,Pore-DAB*431,Pore-DAB*256,Pore-DAB*518,,,,,,4,13,9,9,,,,,,4,3
+G100911M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100911-M3,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100912M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100912-M3,Marianne 3,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100913M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100914M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100914-M3,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100915M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100915-M3,Marianne 3,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100916M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100916-M3,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100917M3,Marianne 3,North slope,Pore-DAB*249,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,,,,,,9,3,13,15,,,,,,4,4
+G100917-M3,Marianne 3,North Slope,Pore-DAB*249,Pore-DAB*251,Pore-DAB*250,Pore-DAB*277,,,,,,9,15,3,13,,,,,,4,4
+G100918M3,Marianne 3,North slope,Pore-DAB*249,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,,,,,,9,3,13,15,,,,,,4,4
+G100918-M3,Marianne 3,North Slope,Pore-DAB*249,Pore-DAB*250,Pore-DAB*251,Pore-DAB*277,,,,,,9,3,15,13,,,,,,4,4
+G100919-M3,Marianne 3,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100920M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100921M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100922M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100923M3,Marianne 3,North slope,Pore-DAB*249,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,,,,,,9,3,13,15,,,,,,4,4
+G100923-M3,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*249,Pore-DAB*251,Pore-DAB*277,,,,,,3,9,15,13,,,,,,4,4
+G100924M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100925M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100926M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100927M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100928M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100929-M3,Marianne 3,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100930M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100931M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100932M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100933M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100934M3,Marianne 3,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100935M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100936M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100937M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100938M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100939M3,Marianne 3,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100941-M3,Marianne 3,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+Marianne #3-p1_1A,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_1B,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_1C,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_1D,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_1E,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*277,Pore-DAB*249,,,,,,3,15,13,9,,,,,,4,4
+Marianne #3-p1_1F,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+Marianne #3-p1_1G,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_1H,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_2A,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*277,Pore-DAB*249,,,,,,3,15,13,9,,,,,,4,4
+Marianne #3-p1_2B,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_2C,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+Marianne #3-p1_2D,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_2E,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_2G,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_3A,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_3B,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_3C,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+Marianne #3-p1_3D,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+Marianne #3-p1_3E,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*277,,,,,,3,15,9,13,,,,,,4,4
+Marianne #3-p1_3F,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+Marianne #3-p1_3H,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*277,,,,,,3,15,9,13,,,,,,4,4
+Marianne #3-p1_4A,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+Marianne #3-p1_4B,Marianne 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100858M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100859-M4,Marianne 4,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100860M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100861M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100862M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100863M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100864M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100865M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100866M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100867M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100868M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100869M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100870M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100871M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*249,Pore-DAB*250,,,,,,,15,9,3,,,,,,,3,3
+G100873M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100874M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100875M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+G100876M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100877M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100878M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100879M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100880M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*249,,,,,,,,15,9,,,,,,,,2,2
+G100881M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100882M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*216,,,,,,3,15,9,11,,,,,,4,4
+G100883M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*249,,,,,,,,15,9,,,,,,,,2,2
+G100884M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G100885M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100886M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100887M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100888M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100889M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100940M4,Marianne 4,North slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100942M4,Marianne 4,North slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G101159M10,Marianne 10,North slope,Pore-DAB*247,Pore-DAB*229,,,,,,,,15,15,,,,,,,,2,1
+G101159-M10,Marianne 10,North Slope,Pore-DAB*247,Pore-DAB*229,,,,,,,,15,15,,,,,,,,2,1
+G101160M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*251,,,,,,,,15,15,,,,,,,,2,1
+G101161M10,Marianne 10,North slope,Pore-DAB*236,Pore-DAB*208,Pore-DAB*248,,,,,,,5,4,10,,,,,,,3,3
+G101161-M10,Marianne 10,North Slope,Pore-DAB*248,Pore-DAB*229,Pore-DAB*231,Pore-DAB*250,,,,,,10,15,15,3,,,,,,4,3
+G101162M10,Marianne 10,North slope,Pore-DAB*243,,,,,,,,,4,,,,,,,,,1,1
+G101163M10,Marianne 10,North slope,Pore-DAB*232,Pore-DAB*241,,,,,,,,4,4,,,,,,,,2,1
+G101164M10,Marianne 10,North slope,Pore-DAB*243,Pore-DAB*237,,,,,,,,4,4,,,,,,,,2,1
+G101165M10,Marianne 10,North slope,Pore-DAB*248,Pore-DAB*244,Pore-DAB*240,,,,,,,10,15,4,,,,,,,3,3
+G101165-M10,Marianne 10,North Slope,Pore-DAB*248,Pore-DAB*244,Pore-DAB*240,,,,,,,10,15,4,,,,,,,3,3
+G101166-M10,Marianne 10,North Slope,Pore-DAB*251,Pore-DAB*242,,,,,,,,15,4,,,,,,,,2,2
+G101167M10,Marianne 10,North slope,Pore-DAB*233,Pore-DAB*251,,,,,,,,4,15,,,,,,,,2,2
+G101168M10,Marianne 10,North slope,Pore-DAB*246,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+G101169M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*243,,,,,,,,15,4,,,,,,,,2,2
+G101170M10,Marianne 10,North slope,Pore-DAB*231,Pore-DAB*237,,,,,,,,15,4,,,,,,,,2,2
+G101170-M10,Marianne 10,North Slope,Pore-DAB*237,Pore-DAB*231,,,,,,,,4,15,,,,,,,,2,2
+G101171M10,Marianne 10,North slope,Pore-DAB*246,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+G101172M10,Marianne 10,North slope,Pore-DAB*230,Pore-DAB*229,,,,,,,,4,15,,,,,,,,2,2
+G101172-M10,Marianne 10,North Slope,Pore-DAB*230,Pore-DAB*229,,,,,,,,4,15,,,,,,,,2,2
+G101173M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*235,,,,,,,,15,4,,,,,,,,2,2
+G101173-M10,Marianne 10,North Slope,Pore-DAB*235,Pore-DAB*244,,,,,,,,4,15,,,,,,,,2,2
+G101175M10,Marianne 10,North slope,Pore-DAB*248,Pore-DAB*246,Pore-DAB*244,,,,,,,10,15,15,,,,,,,3,2
+G101176M10,Marianne 10,North slope,Pore-DAB*237,Pore-DAB*251,,,,,,,,4,15,,,,,,,,2,2
+G101177M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*243,,,,,,,,15,4,,,,,,,,2,2
+G101178M10,Marianne 10,North slope,Pore-DAB*248,Pore-DAB*244,Pore-DAB*239,,,,,,,10,15,4,,,,,,,3,3
+G101179M10,Marianne 10,North slope,Pore-DAB*233,Pore-DAB*238,,,,,,,,4,4,,,,,,,,2,1
+G101180M10,Marianne 10,North slope,Pore-DAB*246,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+G101181M10,Marianne 10,North slope,Pore-DAB*251,Pore-DAB*239,,,,,,,,15,4,,,,,,,,2,2
+G101182M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*238,,,,,,,,15,4,,,,,,,,2,2
+G101192M10,Marianne 10,North slope,Pore-DAB*251,Pore-DAB*228,,,,,,,,15,4,,,,,,,,2,2
+G101192-M10,Marianne 10,North Slope,Pore-DAB*228,Pore-DAB*251,,,,,,,,4,15,,,,,,,,2,2
+G101193M10,Marianne 10,North slope,Pore-DAB*242,Pore-DAB*234,,,,,,,,4,4,,,,,,,,2,1
+G101193-M10,Marianne 10,North Slope,Pore-DAB*242,Pore-DAB*234,,,,,,,,4,4,,,,,,,,2,1
+G101194M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*251,,,,,,,,15,15,,,,,,,,2,1
+G101195M10,Marianne 10,North slope,Pore-DAB*244,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+G101196M10,Marianne 10,North slope,Pore-DAB*248,Pore-DAB*245,Pore-DAB*243,,,,,,,10,15,4,,,,,,,3,3
+G101196-M10,Marianne 10,North Slope,Pore-DAB*248,Pore-DAB*245,Pore-DAB*243,,,,,,,10,15,4,,,,,,,3,3
+G101198-M10,Marianne 10,North Slope,Pore-DAB*511,Pore-DAB*234,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_2F,Marianne 11,North Slope,Pore-DAB*234,Pore-DAB*233,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_2G,Marianne 11,North Slope,Pore-DAB*233,Pore-DAB*251,,,,,,,,4,15,,,,,,,,2,2
+Petite Marianne-p3_2H,Marianne 11,North Slope,Pore-DAB*248,Pore-DAB*244,Pore-DAB*237,,,,,,,10,15,4,,,,,,,3,3
+Petite Marianne-p3_3A,Marianne 11,North Slope,Pore-DAB*242,Pore-DAB*804,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_3B,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_3C,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_3D,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_3E,Marianne 11,North Slope,Pore-DAB*696,Pore-DAB*715,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_3F,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*699,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_3H,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*248,,,,,,,,15,10,,,,,,,,2,2
+Petite Marianne-p3_4A,Marianne 11,North Slope,Pore-DAB*244,Pore-DAB*237,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_4B,Marianne 11,North Slope,Pore-DAB*244,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_4C,Marianne 11,North Slope,Pore-DAB*246,Pore-DAB*240,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_4E,Marianne 11,North Slope,Pore-DAB*700,Pore-DAB*233,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_4F,Marianne 11,North Slope,Pore-DAB*248,Pore-DAB*244,Pore-DAB*233,,,,,,,10,15,4,,,,,,,3,3
+Petite Marianne-p3_4G,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*243,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_4H,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*698,,,,,,,,15,15,,,,,,,,2,1
+Petite Marianne-p3_5C,Marianne 11,North Slope,Pore-DAB*248,Pore-DAB*234,Pore-DAB*244,,,,,,,10,4,15,,,,,,,3,3
+Petite Marianne-p3_5D,Marianne 11,North Slope,Pore-DAB*251,Pore-DAB*233,,,,,,,,15,4,,,,,,,,2,2
+Petite Marianne-p3_5F,Marianne 11,North Slope,Pore-DAB*238,Pore-DAB*243,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_5G,Marianne 11,North Slope,Pore-DAB*248,Pore-DAB*244,,,,,,,,10,15,,,,,,,,2,2
+Petite Marianne-p3_5H,Marianne 11,North Slope,Pore-DAB*233,Pore-DAB*716,,,,,,,,4,4,,,,,,,,2,1
+Petite Marianne-p3_6B,Marianne 11,North Slope,Pore-DAB*239,Pore-DAB*229,,,,,,,,4,15,,,,,,,,2,2
+G020921,Paria 12,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*568,Pore-DAB*641,Pore-DAB*249,,,,,15,3,3,9,9,,,,,5,3
+G020922,Paria 12,North Slope,Pore-DAB*277,Pore-DAB*578,Pore-DAB*250,Pore-DAB*256,Pore-DAB*249,,,,,13,15,3,9,9,,,,,5,4
+G020931,Paria 12,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*623,Pore-DAB*249,Pore-DAB*256,,,,,15,3,3,9,9,,,,,5,3
+G020932,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*641,Pore-DAB*249,,,,,,3,15,9,9,,,,,,4,3
+G020934,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*568,Pore-DAB*249,Pore-DAB*256,,,,,3,15,3,9,9,,,,,5,3
+G020936,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020939,Paria 12,North Slope,Pore-DAB*568,Pore-DAB*249,Pore-DAB*641,,,,,,,3,9,9,,,,,,,3,2
+G020940,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*256,Pore-DAB*249,,,,,,3,15,9,9,,,,,,4,3
+G020941,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*568,Pore-DAB*251,Pore-DAB*249,,,,,,3,3,15,9,,,,,,4,3
+G020944,Paria 12,North Slope,Pore-DAB*245,Pore-DAB*251,Pore-DAB*250,Pore-DAB*623,Pore-DAB*249,,,,,15,15,3,3,9,,,,,5,3
+G020947*,Paria 12,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G020948,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*568,Pore-DAB*641,Pore-DAB*249,,,,,3,15,3,9,9,,,,,5,3
+G020949,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*249,Pore-DAB*251,Pore-DAB*568,,,,,,3,9,15,3,,,,,,4,3
+G020950,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*245,Pore-DAB*251,Pore-DAB*249,,,,,,3,15,15,9,,,,,,4,3
+G020951,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020953,Paria 12,North Slope,Pore-DAB*250,Pore-DAB*249,Pore-DAB*251,Pore-DAB*568,,,,,,3,9,15,3,,,,,,4,3
+G020162,Paria 3,North Slope,Pore-DAB*568,Pore-DAB*641,,,,,,,,3,9,,,,,,,,2,2
+G020163,Paria 3,North Slope,Pore-DAB*245,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,15,3,15,9,,,,,,4,3
+G020165,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,Pore-DAB*249,,,,,,3,13,15,9,,,,,,4,4
+G020166,Paria 3,North Slope,Pore-DAB*245,Pore-DAB*568,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G020167,Paria 3,North Slope,Pore-DAB*245,Pore-DAB*277,Pore-DAB*256,,,,,,,15,13,9,,,,,,,3,3
+G020169,Paria 3,North Slope,Pore-DAB*568,Pore-DAB*250,Pore-DAB*256,Pore-DAB*249,,,,,,3,3,9,9,,,,,,4,2
+G020170,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*568,Pore-DAB*256,,,,,,,3,3,9,,,,,,,3,2
+G020171,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*568,Pore-DAB*249,,,,,,3,15,3,9,,,,,,4,3
+G020172,Paria 3,North Slope,Pore-DAB*568,Pore-DAB*249,Pore-DAB*256,,,,,,,3,9,9,,,,,,,3,2
+G020173,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*568,,,,,,3,15,9,3,,,,,,4,3
+G020174,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*256,Pore-DAB*568,Pore-DAB*251,,,,,,3,9,3,15,,,,,,4,3
+G020176,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*568,Pore-DAB*256,,,,,,,3,3,9,,,,,,,3,2
+G020178,Paria 3,North Slope,Pore-DAB*245,Pore-DAB*568,Pore-DAB*256,Pore-DAB*249,,,,,,15,3,9,9,,,,,,4,3
+G020179,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*568,Pore-DAB*249,,,,,,,3,3,9,,,,,,,3,2
+G020182,Paria 3,North Slope,Pore-DAB*568,Pore-DAB*620,Pore-DAB*250,Pore-DAB*256,Pore-DAB*249,,,,,3,3,3,9,9,,,,,5,2
+G020184,Paria 3,North Slope,Pore-DAB*568,Pore-DAB*256,Pore-DAB*641,,,,,,,3,9,9,,,,,,,3,2
+G020185,Paria 3,North Slope,Pore-DAB*250,Pore-DAB*568,Pore-DAB*570,Pore-DAB*256,Pore-DAB*641,,,,,3,3,3,9,9,,,,,5,2
+G020961,Paria 13,North Slope,Pore-DAB*249,Pore-DAB*245,Pore-DAB*568,,,,,,,9,15,3,,,,,,,3,3
+G020962,Paria 13,North Slope,Pore-DAB*216,Pore-DAB*251,Pore-DAB*250,Pore-DAB*120,Pore-DAB*641,Pore-DAB*249,,,,11,15,3,8,9,9,,,,6,5
+G020963,Paria 13,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*568,Pore-DAB*641,Pore-DAB*249,,,,,15,3,3,9,9,,,,,5,3
+G020964,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*251,Pore-DAB*250,Pore-DAB*641,Pore-DAB*249,,,,,15,15,3,9,9,,,,,5,3
+G020965,Paria 13,North Slope,Pore-DAB*622,Pore-DAB*568,Pore-DAB*256,,,,,,,10,3,9,,,,,,,3,3
+G020966,Paria 13,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*256,,,,,,,15,3,9,,,,,,,3,3
+G020967,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*249,,,,,,,,15,9,,,,,,,,2,2
+G020968,Paria 13,North Slope,Pore-DAB*249,Pore-DAB*250,Pore-DAB*251,Pore-DAB*568,,,,,,9,3,15,3,,,,,,4,3
+G020969,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*622,Pore-DAB*251,Pore-DAB*249,Pore-DAB*641,,,,,15,10,15,9,9,,,,,5,3
+G020970,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020971,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020972,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*249,,,,,,,,15,9,,,,,,,,2,2
+G020973,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*277,Pore-DAB*249,Pore-DAB*322,,,,,,15,13,9,3,,,,,,4,4
+G020974,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*641,,,,,,,3,15,9,,,,,,,3,3
+G020975,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*245,Pore-DAB*251,Pore-DAB*641,,,,,,3,15,15,9,,,,,,4,3
+G020976,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*249,,,,,,,,15,9,,,,,,,,2,2
+G020977,Paria 13,North Slope,Pore-DAB*216,Pore-DAB*576,Pore-DAB*120,Pore-DAB*250,Pore-DAB*249,Pore-DAB*641,,,,11,15,8,3,9,9,,,,6,5
+G020978,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*251,Pore-DAB*621,,,,,,,15,15,3,,,,,,,3,2
+G020979,Paria 13,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G020981*,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*245,Pore-DAB*568,Pore-DAB*249,Pore-DAB*256,,,,,3,15,3,9,9,,,,,5,3
+G020982,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*249,,,,,,,,15,9,,,,,,,,2,2
+G020983,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020984,Paria 13,North Slope,Pore-DAB*277,Pore-DAB*249,Pore-DAB*568,,,,,,,13,9,3,,,,,,,3,3
+G020985,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*641,,,,,,3,15,9,9,,,,,,4,3
+G020986,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*568,Pore-DAB*249,Pore-DAB*641,,,,,3,15,3,9,9,,,,,5,3
+G020987,Paria 13,North Slope,Pore-DAB*216,Pore-DAB*250,Pore-DAB*120,Pore-DAB*251,Pore-DAB*249,Pore-DAB*631,,,,11,3,8,15,9,9,,,,6,5
+G020988,Paria 13,North Slope,Pore-DAB*245,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*256,,,,,15,3,15,9,9,,,,,5,3
+G020989,Paria 13,North Slope,Pore-DAB*568,Pore-DAB*256,Pore-DAB*249,,,,,,,3,9,9,,,,,,,3,2
+G020990,Paria 13,North Slope,Pore-DAB*277,Pore-DAB*250,Pore-DAB*543,Pore-DAB*249,,,,,,13,3,5,9,,,,,,4,4
+G020991,Paria 13,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,Pore-DAB*568,,,,,,15,3,9,3,,,,,,4,3
+G020992,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*576,Pore-DAB*251,Pore-DAB*249,Pore-DAB*641,,,,,3,15,15,9,9,,,,,5,3
+G020993,Paria 13,North Slope,Pore-DAB*250,Pore-DAB*641,Pore-DAB*576,Pore-DAB*251,,,,,,3,9,15,15,,,,,,4,3
+G100166P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*103,,,,,,3,15,9,9,,,,,,4,3
+G100167P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100168P7,Paria 7,Oropouche,Pore-DAB*408,Pore-DAB*369,Pore-DAB*249,Pore-DAB*249,,,,,,10,6,9,9,,,,,,4,3
+G100169P7,Paria 7,Oropouche,Pore-DAB*436,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,13,3,15,9,,,,,,4,4
+G100170P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100171P7,Paria 7,Oropouche,Pore-DAB*408,Pore-DAB*250,Pore-DAB*251,Pore-DAB*369,Pore-DAB*249,,,,,10,3,15,6,9,,,,,5,5
+G100172P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+G100173P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100174P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*277,Pore-DAB*249,,,,,,3,15,13,9,,,,,,4,4
+G100175P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100176P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100177P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100178P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100179P7,Paria 7,Oropouche,Pore-DAB*408,Pore-DAB*250,Pore-DAB*249,Pore-DAB*369,Pore-DAB*251,,,,,10,3,9,6,15,,,,,5,5
+G100180P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100181P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100182P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100183P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100184P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,Pore-DAB*249,,,,,,3,13,15,9,,,,,,4,4
+G100185P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,Pore-DAB*249,,,,,,3,13,15,9,,,,,,4,4
+G100186P7,Paria 7,Oropouche,Pore-DAB*408,Pore-DAB*382,Pore-DAB*369,Pore-DAB*430,Pore-DAB*251,Pore-DAB*249,,,,10,8,6,3,15,9,,,,6,6
+G100186-P7,Paria 7,North Slope,Pore-DAB*408,Pore-DAB*251,Pore-DAB*430,Pore-DAB*382,Pore-DAB*369,Pore-DAB*249,,,,10,15,3,8,6,9,,,,6,6
+G100187P7,Paria 7,Oropouche,Pore-DAB*251,Pore-DAB*250,Pore-DAB*430,Pore-DAB*249,,,,,,15,3,3,9,,,,,,4,3
+G100188P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100189P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100190P7,Paria 7,Oropouche,Pore-DAB*277,Pore-DAB*249,,,,,,,,13,9,,,,,,,,2,2
+G100191P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100192P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G100193P7,Paria 7,Oropouche,Pore-DAB*408,Pore-DAB*382,Pore-DAB*250,Pore-DAB*369,Pore-DAB*251,Pore-DAB*249,,,,10,8,3,6,15,9,,,,6,6
+G100193-P7,Paria 7,North Slope,Pore-DAB*408,Pore-DAB*251,Pore-DAB*382,Pore-DAB*517,Pore-DAB*369,Pore-DAB*249,,,,10,15,8,3,6,9,,,,6,6
+G100194P7,Paria 7,Oropouche,Pore-DAB*408,Pore-DAB*250,Pore-DAB*369,Pore-DAB*251,Pore-DAB*249,,,,,10,3,6,15,9,,,,,5,5
+G100195P7,Paria 7,Oropouche,Pore-DAB*236,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*371,,,,,5,3,15,9,9,,,,,5,4
+G100196P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,Pore-DAB*249,,,,,,3,13,15,9,,,,,,4,4
+G100197P7,Paria 7,Oropouche,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020521,Paria 8,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G020522,Paria 8,North Slope,Pore-DAB*216,Pore-DAB*251,Pore-DAB*120,Pore-DAB*250,Pore-DAB*371,Pore-DAB*249,,,,11,15,8,3,9,9,,,,6,5
+G020523,Paria 8,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020524,Paria 8,North Slope,Pore-DAB*216,Pore-DAB*250,Pore-DAB*251,Pore-DAB*120,Pore-DAB*249,,,,,11,3,15,8,9,,,,,5,5
+G020525,Paria 8,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G020526,Paria 8,North Slope,Pore-DAB*216,Pore-DAB*251,Pore-DAB*120,Pore-DAB*250,Pore-DAB*249,,,,,11,15,8,3,9,,,,,5,5
+G020527,Paria 8,North Slope,Pore-DAB*277,Pore-DAB*249,Pore-DAB*250,Pore-DAB*251,,,,,,13,9,3,15,,,,,,4,4
+G020528,Paria 8,North Slope,Pore-DAB*216,Pore-DAB*249,Pore-DAB*251,Pore-DAB*120,Pore-DAB*250,,,,,11,9,15,8,3,,,,,5,5
+G020530,Paria 8,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,Pore-DAB*371,,,,,,3,15,9,9,,,,,,4,3
+G020531,Paria 8,North Slope,Pore-DAB*250,Pore-DAB*277,Pore-DAB*251,,,,,,,3,13,15,,,,,,,3,3
+G020532,Paria 8,North Slope,Pore-DAB*277,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,13,3,15,9,,,,,,4,4
+G020533,Paria 8,North Slope,Pore-DAB*251,Pore-DAB*250,Pore-DAB*249,,,,,,,15,3,9,,,,,,,3,3
+G020536,Paria 8,North Slope,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,,3,15,9,,,,,,,3,3
+G020537,Paria 8,North Slope,Pore-DAB*277,Pore-DAB*249,Pore-DAB*250,Pore-DAB*251,,,,,,13,9,3,15,,,,,,4,4
+G020544,Paria 8,North Slope,Pore-DAB*277,Pore-DAB*250,Pore-DAB*251,Pore-DAB*249,,,,,,13,3,15,9,,,,,,4,4
+G020545,Paria 8,North Slope,Pore-DAB*277,Pore-DAB*249,Pore-DAB*251,Pore-DAB*250,,,,,,13,9,15,3,,,,,,4,4
+G020547,Paria 8,North Slope,Pore-DAB*250,Pore-DAB*251,,,,,,,,3,15,,,,,,,,2,2
+G020548,Paria 8,North Slope,Pore-DAB*216,Pore-DAB*251,Pore-DAB*430,Pore-DAB*120,Pore-DAB*249,,,,,11,15,3,8,9,,,,,5,5
+G020550,Paria 8,North Slope,Pore-DAB*250,Pore-DAB*249,Pore-DAB*277,Pore-DAB*251,,,,,,3,9,13,15,,,,,,4,4
+G020552,Paria 8,North Slope,Pore-DAB*216,Pore-DAB*249,Pore-DAB*120,Pore-DAB*250,Pore-DAB*251,,,,,11,9,8,3,15,,,,,5,5
+Sha10,Shark river,North Slope,Pore-DAB*260,Pore-DAB*394,Pore-DAB*206,Pore-DAB*371,,,,,,14,14,9,9,,,,,,4,2
+Sha11,Shark river,North Slope,Pore-DAB*260,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,14,14,9,9,,,,,,4,2
+Sha12,Shark river,North Slope,Pore-DAB*302,Pore-DAB*371,Pore-DAB*206,,,,,,,14,9,9,,,,,,,3,2
+Sha13,Shark river,North Slope,Pore-DAB*302,Pore-DAB*371,Pore-DAB*206,,,,,,,14,9,9,,,,,,,3,2
+Sha14,Shark river,North Slope,Pore-DAB*260,Pore-DAB*371,,,,,,,,14,9,,,,,,,,2,2
+Sha15,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha16,Shark river,North Slope,Pore-DAB*206,Pore-DAB*371,,,,,,,,9,9,,,,,,,,2,1
+Sha17,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha18,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha19,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha20,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha21,Shark river,North Slope,Pore-DAB*260,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha22,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha23,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha24,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha25,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha26,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha27,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha28,Shark river,North Slope,Pore-DAB*302,Pore-DAB*371,Pore-DAB*206,,,,,,,14,9,9,,,,,,,3,2
+Sha29,Shark river,North Slope,Pore-DAB*260,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,14,14,9,9,,,,,,4,2
+Sha30,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha31,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha32,Shark river,North Slope,Pore-DAB*260,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha33,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha34,Shark river,North Slope,Pore-DAB*206,Pore-DAB*371,,,,,,,,9,9,,,,,,,,2,1
+Sha35,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha36,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha5,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha6,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,,14,9,9,,,,,,,3,2
+Sha7,Shark river,North Slope,Pore-DAB*302,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Sha8,Shark river,North Slope,Pore-DAB*302,Pore-DAB*260,Pore-DAB*206,,,,,,,14,14,9,,,,,,,3,2
+Sha9,Shark river,North Slope,Pore-DAB*351,Pore-DAB*402,Pore-DAB*335,Pore-DAB*374,Pore-DAB*202,,,,,3,15,9,9,9,,,,,5,3
+SS10,San Souci,North Slope,Pore-DAB*356,Pore-DAB*354,Pore-DAB*358,Pore-DAB*433,,,,,,11,14,15,15,,,,,,4,3
+SS11,San Souci,North Slope,Pore-DAB*433,,,,,,,,,15,,,,,,,,,1,1
+SS12,San Souci,North Slope,Pore-DAB*303,Pore-DAB*433,,,,,,,,10,15,,,,,,,,2,2
+SS14,San Souci,North Slope,Pore-DAB*303,Pore-DAB*310,Pore-DAB*374,Pore-DAB*335,,,,,,10,10,9,9,,,,,,4,2
+SS15,San Souci,North Slope,Pore-DAB*310,Pore-DAB*402,Pore-DAB*374,Pore-DAB*335,,,,,,10,15,9,9,,,,,,4,3
+SS16,San Souci,North Slope,Pore-DAB*330,Pore-DAB*402,Pore-DAB*104,Pore-DAB*276,,,,,,3,15,9,9,,,,,,4,3
+SS17,San Souci,North Slope,Pore-DAB*303,Pore-DAB*371,Pore-DAB*104,,,,,,,10,9,9,,,,,,,3,2
+SS18,San Souci,North Slope,Pore-DAB*303,Pore-DAB*356,,,,,,,,10,11,,,,,,,,2,2
+SS19,San Souci,North Slope,Pore-DAB*356,Pore-DAB*433,Pore-DAB*402,Pore-DAB*374,Pore-DAB*335,,,,,11,15,15,9,9,,,,,5,3
+SS2,San Souci,North Slope,Pore-DAB*354,Pore-DAB*358,Pore-DAB*330,Pore-DAB*202,,,,,,14,15,3,9,,,,,,4,4
+SS20,San Souci,North Slope,Pore-DAB*358,Pore-DAB*354,,,,,,,,15,14,,,,,,,,2,2
+SS21,San Souci,North Slope,Pore-DAB*433,Pore-DAB*402,Pore-DAB*202,Pore-DAB*104,,,,,,15,15,9,9,,,,,,4,2
+SS22,San Souci,North Slope,Pore-DAB*351,Pore-DAB*104,Pore-DAB*374,Pore-DAB*335,,,,,,3,9,9,9,,,,,,4,2
+SS23,San Souci,North Slope,Pore-DAB*433,Pore-DAB*402,Pore-DAB*104,Pore-DAB*335,Pore-DAB*374,,,,,15,15,9,9,9,,,,,5,2
+SS24,San Souci,North Slope,Pore-DAB*386,Pore-DAB*371,Pore-DAB*403,,,,,,,8,9,1,,,,,,,3,3
+SS25,San Souci,North Slope,Pore-DAB*303,Pore-DAB*351,Pore-DAB*374,Pore-DAB*202,Pore-DAB*335,,,,,10,3,9,9,9,,,,,5,3
+SS26,San Souci,North Slope,Pore-DAB*303,Pore-DAB*310,,,,,,,,10,10,,,,,,,,2,1
+SS27,San Souci,North Slope,Pore-DAB*354,Pore-DAB*310,Pore-DAB*358,,,,,,,14,10,15,,,,,,,3,3
+SS28,San Souci,North Slope,Pore-DAB*354,Pore-DAB*358,Pore-DAB*433,Pore-DAB*104,Pore-DAB*202,,,,,14,15,15,9,9,,,,,5,3
+SS29,San Souci,North Slope,Pore-DAB*303,Pore-DAB*386,,,,,,,,10,8,,,,,,,,2,2
+SS3,San Souci,North Slope,Pore-DAB*303,Pore-DAB*356,Pore-DAB*433,Pore-DAB*374,Pore-DAB*104,,,,,10,11,15,9,9,,,,,5,4
+SS30,San Souci,North Slope,Pore-DAB*351,Pore-DAB*374,Pore-DAB*335,,,,,,,3,9,9,,,,,,,3,2
+SS31,San Souci,North Slope,Pore-DAB*330,Pore-DAB*374,Pore-DAB*202,Pore-DAB*335,,,,,,3,9,9,9,,,,,,4,2
+SS32,San Souci,North Slope,Pore-DAB*303,Pore-DAB*202,Pore-DAB*103,,,,,,,10,9,9,,,,,,,3,2
+SS33,San Souci,North Slope,Pore-DAB*303,Pore-DAB*433,Pore-DAB*374,Pore-DAB*335,,,,,,10,15,9,9,,,,,,4,3
+SS4,San Souci,North Slope,Pore-DAB*202,Pore-DAB*103,,,,,,,,9,9,,,,,,,,2,1
+SS5,San Souci,North Slope,Pore-DAB*356,Pore-DAB*433,,,,,,,,11,15,,,,,,,,2,2
+SS6,San Souci,North Slope,Pore-DAB*303,Pore-DAB*356,Pore-DAB*433,Pore-DAB*104,Pore-DAB*202,,,,,10,11,15,9,9,,,,,5,4
+SS7,San Souci,North Slope,Pore-DAB*386,Pore-DAB*310,,,,,,,,8,10,,,,,,,,2,2
+SS8,San Souci,North Slope,Pore-DAB*402,Pore-DAB*104,Pore-DAB*202,,,,,,,15,9,9,,,,,,,3,2
+SS9,San Souci,North Slope,Pore-DAB*386,Pore-DAB*104,Pore-DAB*330,,,,,,,8,9,3,,,,,,,3,3
+Miss1,Mission River,North Slope,Pore-DAB*310,Pore-DAB*362,,,,,,,,10,5,,,,,,,,2,2
+Miss10,Mission River,North Slope,Pore-DAB*310,Pore-DAB*216,Pore-DAB*120,,,,,,,10,11,8,,,,,,,3,3
+Miss11,Mission River,North Slope,Pore-DAB*310,,,,,,,,,10,,,,,,,,,1,1
+Miss12,Mission River,North Slope,Pore-DAB*310,,,,,,,,,10,,,,,,,,,1,1
+Miss14,Mission River,North Slope,Pore-DAB*362,Pore-DAB*202,Pore-DAB*310,,,,,,,5,9,10,,,,,,,3,3
+Miss17,Mission River,North Slope,Pore-DAB*362,Pore-DAB*104,,,,,,,,5,9,,,,,,,,2,2
+Miss18,Mission River,North Slope,Pore-DAB*362,Pore-DAB*310,,,,,,,,5,10,,,,,,,,2,2
+Miss19,Mission River,North Slope,Pore-DAB*310,,,,,,,,,10,,,,,,,,,1,1
+Miss2,Mission River,North Slope,Pore-DAB*310,,,,,,,,,10,,,,,,,,,1,1
+Miss20,Mission River,North Slope,Pore-DAB*310,,,,,,,,,10,,,,,,,,,1,1
+Miss21,Mission River,North Slope,Pore-DAB*216,Pore-DAB*120,Pore-DAB*362,,,,,,,11,8,5,,,,,,,3,3
+Miss22,Mission River,North Slope,Pore-DAB*362,Pore-DAB*310,,,,,,,,5,10,,,,,,,,2,2
+Miss24,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Miss25,Mission River,North Slope,Pore-DAB*362,Pore-DAB*104,Pore-DAB*310,,,,,,,5,9,10,,,,,,,3,3
+Miss26,Mission River,North Slope,Pore-DAB*310,Pore-DAB*362,,,,,,,,10,5,,,,,,,,2,2
+Miss27,Mission River,North Slope,Pore-DAB*362,Pore-DAB*202,,,,,,,,5,9,,,,,,,,2,2
+Miss28,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Miss29,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Miss3,Mission River,North Slope,Pore-DAB*310,Pore-DAB*362,,,,,,,,10,5,,,,,,,,2,2
+Miss30,Mission River,North Slope,Pore-DAB*362,Pore-DAB*104,,,,,,,,5,9,,,,,,,,2,2
+Miss31,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Miss4,Mission River,North Slope,Pore-DAB*216,Pore-DAB*120,Pore-DAB*362,Pore-DAB*310,,,,,,11,8,5,10,,,,,,4,4
+Miss5,Mission River,North Slope,Pore-DAB*310,Pore-DAB*310,,,,,,,,10,10,,,,,,,,2,1
+Miss6,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Miss9,Mission River,North Slope,Pore-DAB*310,,,,,,,,,10,,,,,,,,,1,1
+Mission-p1_4C,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Mission-p1_4D,Mission River,North Slope,Pore-DAB*362,Pore-DAB*310,Pore-DAB*104,,,,,,,5,10,9,,,,,,,3,3
+Mission-p1_4E,Mission River,North Slope,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Tom1,Tompire,NE,Pore-DAB*442,Pore-DAB*446,Pore-DAB*103,,,,,,,4,12,9,,,,,,,3,3
+Tom10,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom11,Tompire,NE,Pore-DAB*130,Pore-DAB*446,,,,,,,,13,12,,,,,,,,2,2
+Tom12,Tompire,NE,Pore-DAB*130,Pore-DAB*442,,,,,,,,13,4,,,,,,,,2,2
+Tom13,Tompire,NE,Pore-DAB*130,Pore-DAB*442,,,,,,,,13,4,,,,,,,,2,2
+Tom14,Tompire,NE,Pore-DAB*130,Pore-DAB*443,,,,,,,,13,13,,,,,,,,2,1
+Tom15,Tompire,NE,Pore-DAB*130,Pore-DAB*442,Pore-DAB*103,,,,,,,13,4,9,,,,,,,3,3
+Tom16,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom17,Tompire,NE,Pore-DAB*130,Pore-DAB*446,,,,,,,,13,12,,,,,,,,2,2
+Tom18,Tompire,NE,Pore-DAB*442,,,,,,,,,4,,,,,,,,,1,1
+Tom19,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom2,Tompire,NE,Pore-DAB*442,,,,,,,,,4,,,,,,,,,1,1
+Tom20,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom21,Tompire,NE,Pore-DAB*338,Pore-DAB*442,Pore-DAB*104,,,,,,,4,4,9,,,,,,,3,2
+Tom22,Tompire,NE,Pore-DAB*350,Pore-DAB*443,Pore-DAB*442,,,,,,,10,13,4,,,,,,,3,3
+Tom23,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom24,Tompire,NE,Pore-DAB*130,Pore-DAB*442,,,,,,,,13,4,,,,,,,,2,2
+Tom25,Tompire,NE,Pore-DAB*130,Pore-DAB*442,,,,,,,,13,4,,,,,,,,2,2
+Tom26,Tompire,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+Tom27,Tompire,NE,Pore-DAB*442,,,,,,,,,4,,,,,,,,,1,1
+Tom29,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom3,Tompire,NE,Pore-DAB*130,Pore-DAB*446,,,,,,,,13,12,,,,,,,,2,2
+Tom30,Tompire,NE,Pore-DAB*442,Pore-DAB*446,,,,,,,,4,12,,,,,,,,2,2
+Tom4,Tompire,NE,Pore-DAB*362,Pore-DAB*104,,,,,,,,5,9,,,,,,,,2,2
+Tom5,Tompire,NE,Pore-DAB*362,,,,,,,,,5,,,,,,,,,1,1
+Tom6,Tompire,NE,Pore-DAB*362,Pore-DAB*130,Pore-DAB*103,,,,,,,5,13,9,,,,,,,3,3
+Tom7,Tompire,NE,Pore-DAB*442,,,,,,,,,4,,,,,,,,,1,1
+Tom8,Tompire,NE,Pore-DAB*130,Pore-DAB*442,,,,,,,,13,4,,,,,,,,2,2
+Tom9,Tompire,NE,Pore-DAB*442,Pore-DAB*130,,,,,,,,4,13,,,,,,,,2,2
+GB1,Cumana,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+GB2,Cumana,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+GB3,Cumana,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+GB4,Cumana,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+GB5,Cumana,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+GB6,Cumana,NE,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+G100508AM1,Arima 1,Caroni,Pore-DAB*103,Pore-DAB*318,,,,,,,,9,9,,,,,,,,2,1
+G100509AM1,Arima 1,Caroni,Pore-DAB*318,Pore-DAB*398,Pore-DAB*373,Pore-DAB*103,,,,,,9,15,9,9,,,,,,4,2
+G100510AM1,Arima 1,Caroni,Pore-DAB*359,Pore-DAB*313,Pore-DAB*318,Pore-DAB*103,,,,,,4,2,9,9,,,,,,4,3
+G100511AM1,Arima 1,Caroni,Pore-DAB*269,Pore-DAB*268,Pore-DAB*318,Pore-DAB*103,,,,,,13,13,9,9,,,,,,4,2
+G100512AM1,Arima 1,Caroni,Pore-DAB*208,Pore-DAB*236,Pore-DAB*373,Pore-DAB*318,,,,,,4,5,9,9,,,,,,4,3
+G100513AM1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*398,Pore-DAB*271,,,,,,,5,15,9,,,,,,,3,3
+G100514AM1,Arima 1,Caroni,Pore-DAB*398,Pore-DAB*104,Pore-DAB*256,,,,,,,15,9,9,,,,,,,3,2
+G100515AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*318,Pore-DAB*359,,,,,,11,8,9,4,,,,,,4,4
+G100516AM1,Arima 1,Caroni,Pore-DAB*208,Pore-DAB*263,Pore-DAB*103,,,,,,,4,13,9,,,,,,,3,3
+G100517AM1,Arima 1,Caroni,Pore-DAB*398,Pore-DAB*103,Pore-DAB*216,Pore-DAB*120,,,,,,15,9,11,8,,,,,,4,4
+G100518AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*318,Pore-DAB*271,,,,,,11,8,9,9,,,,,,4,3
+G100519AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*318,Pore-DAB*103,,,,,,11,8,9,9,,,,,,4,3
+G100520AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*318,,,,,,11,8,9,9,,,,,,4,3
+G100521AM1,Arima 1,Caroni,Pore-DAB*318,Pore-DAB*250,Pore-DAB*251,Pore-DAB*252,,,,,,9,3,15,2,,,,,,4,4
+G100522AM1,Arima 1,Caroni,Pore-DAB*252,Pore-DAB*373,Pore-DAB*271,,,,,,,2,9,9,,,,,,,3,2
+G100523AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*236,Pore-DAB*271,Pore-DAB*318,,,,,11,8,5,9,9,,,,,5,4
+G100524AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*318,,,,,,,11,8,9,,,,,,,3,3
+G100525 - Am1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*208,Pore-DAB*120,Pore-DAB*318,,,,,,11,4,8,9,,,,,,4,4
+G100525AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*208,Pore-DAB*120,Pore-DAB*318,,,,,,11,4,8,9,,,,,,4,4
+G100526AM1,Arima 1,Caroni,Pore-DAB*382,Pore-DAB*408,Pore-DAB*369,Pore-DAB*208,Pore-DAB*216,Pore-DAB*318,Pore-DAB*269,Pore-DAB*120,Pore-DAB*373,8,10,6,4,11,9,13,8,9,9,7
+G100527 - Am1,Arima 1,Caroni,Pore-DAB*318,Pore-DAB*251,Pore-DAB*271,Pore-DAB*250,Pore-DAB*398,,,,,9,15,9,3,15,,,,,5,3
+G100527AM1,Arima 1,Caroni,Pore-DAB*250,Pore-DAB*398,Pore-DAB*251,Pore-DAB*318,Pore-DAB*271,,,,,3,15,15,9,9,,,,,5,3
+G100528AM1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*269,Pore-DAB*318,,,,,,,5,13,9,,,,,,,3,3
+G100529AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*269,Pore-DAB*318,,,,,,11,8,13,9,,,,,,4,4
+G100530 - Am1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*308,Pore-DAB*104,Pore-DAB*373,,,,,,5,12,9,9,,,,,,4,3
+G100530AM1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*308,Pore-DAB*104,Pore-DAB*373,,,,,,5,12,9,9,,,,,,4,3
+G100531 - Am1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*269,Pore-DAB*318,Pore-DAB*373,,,,,,5,13,9,9,,,,,,4,3
+G100531AM1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*318,Pore-DAB*373,Pore-DAB*216,Pore-DAB*120,Pore-DAB*269,,,,5,9,9,11,8,13,,,,6,5
+G100531-AM1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*269,Pore-DAB*318,,,,,,,5,13,9,,,,,,,3,3
+G100532 - Am1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*318,Pore-DAB*308,Pore-DAB*120,,,,,,11,9,12,8,,,,,,4,4
+G100532AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*308,Pore-DAB*318,,,,,,11,8,12,9,,,,,,4,4
+G100533-AM1,Arima 1,Caroni,Pore-DAB*359,Pore-DAB*398,Pore-DAB*318,,,,,,,4,15,9,,,,,,,3,3
+G100534AM1,Arima 1,Caroni,Pore-DAB*236,Pore-DAB*398,Pore-DAB*318,Pore-DAB*103,Pore-DAB*359,,,,,5,15,9,9,4,,,,,5,4
+G100535 - Am1,Arima 1,Caroni,Pore-DAB*318,Pore-DAB*398,,,,,,,,9,15,,,,,,,,2,2
+G100535AM1,Arima 1,Caroni,Pore-DAB*318,Pore-DAB*398,,,,,,,,9,15,,,,,,,,2,2
+G100536 - Am1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,,,,,,,,11,8,,,,,,,,2,2
+G100536AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*271,Pore-DAB*318,,,,,,11,8,9,9,,,,,,4,3
+G100537 - Am1,Arima 1,Caroni,Pore-DAB*399,Pore-DAB*359,Pore-DAB*518,Pore-DAB*318,,,,,,13,4,9,9,,,,,,4,3
+G100537AM1,Arima 1,Caroni,Pore-DAB*399,Pore-DAB*359,Pore-DAB*256,Pore-DAB*318,,,,,,13,4,9,9,,,,,,4,3
+G100539 - Am1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*373,Pore-DAB*120,Pore-DAB*318,,,,,,11,9,8,9,,,,,,4,3
+G100539AM1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*318,,,,,,,11,8,9,,,,,,,3,3
+G100541 - Am1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*398,Pore-DAB*318,,,,,,11,8,15,9,,,,,,4,4
+G100543 - Am1,Arima 1,Caroni,Pore-DAB*251,Pore-DAB*250,Pore-DAB*318,Pore-DAB*269,,,,,,15,3,9,13,,,,,,4,4
+G100549 - Am1,Arima 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*251,Pore-DAB*250,Pore-DAB*256,Pore-DAB*318,,,,11,8,15,3,9,9,,,,6,5
+G100407AM2,Arima 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*318,Pore-DAB*339,,,,,,11,8,9,6,,,,,,4,4
+G100408-AM2,Arima 2,Caroni,Pore-DAB*318,Pore-DAB*350,Pore-DAB*406,Pore-DAB*339,,,,,,9,10,2,6,,,,,,4,4
+G100409-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*399,Pore-DAB*406,Pore-DAB*318,Pore-DAB*271,,,,,10,13,2,9,9,,,,,5,4
+G100410AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,,,,,,,,10,2,,,,,,,,2,2
+G100410-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*271,,,,,,10,2,9,9,,,,,,4,3
+G100411AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,,,,,,,,10,2,,,,,,,,2,2
+G100411-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*271,,,,,,10,2,9,9,,,,,,4,3
+G100412AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*318,Pore-DAB*406,Pore-DAB*339,,,,,,10,9,2,6,,,,,,4,4
+G100412-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*339,Pore-DAB*406,Pore-DAB*318,,,,,,10,6,2,9,,,,,,4,4
+G100413-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*271,,,,,,10,2,9,9,,,,,,4,3
+G100414AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,,,,,,,,10,2,,,,,,,,2,2
+G100415AM2,Arima 2,Caroni,Pore-DAB*339,,,,,,,,,6,,,,,,,,,1,1
+G100416AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,,,,,,,,10,2,,,,,,,,2,2
+G100418AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*399,Pore-DAB*406,Pore-DAB*104,,,,,,10,13,2,9,,,,,,4,4
+G100419-AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*104,,,,,,10,2,9,9,,,,,,4,3
+G100420AM2,Arima 2,Caroni,Pore-DAB*399,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*104,,,,,13,10,2,9,9,,,,,5,4
+G100421AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*104,,,,,,10,2,9,9,,,,,,4,3
+G100422AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*339,Pore-DAB*318,,,,,,10,2,6,9,,,,,,4,4
+G100424AM2,Arima 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,,,,,11,8,10,2,9,,,,,5,5
+G100426AM2,Arima 2,Caroni,Pore-DAB*399,Pore-DAB*339,Pore-DAB*318,,,,,,,13,6,9,,,,,,,3,3
+G100427AM2,Arima 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*339,Pore-DAB*318,Pore-DAB*350,Pore-DAB*406,,,,11,8,6,9,10,2,,,,6,6
+G100427-AM2,Arima 2,Caroni,Pore-DAB*216,Pore-DAB*318,Pore-DAB*120,Pore-DAB*339,,,,,,11,9,8,6,,,,,,4,4
+G100428AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,,,,,,,,10,2,,,,,,,,2,2
+G100429AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,,,,,,,10,2,9,,,,,,,3,3
+G100430AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*399,Pore-DAB*406,Pore-DAB*318,,,,,,10,13,2,9,,,,,,4,4
+G100431AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*339,Pore-DAB*318,,,,,,10,2,6,9,,,,,,4,4
+G100432-Am2,Arima 2,Caroni,Pore-DAB*216,Pore-DAB*318,Pore-DAB*350,Pore-DAB*120,Pore-DAB*406,,,,,11,9,10,8,2,,,,,5,5
+G100433-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*318,Pore-DAB*399,Pore-DAB*406,,,,,,10,9,13,2,,,,,,4,4
+G100434AM2,Arima 2,Caroni,Pore-DAB*216,,,,,,,,,11,,,,,,,,,1,1
+G100434-Am2,Arima 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*339,Pore-DAB*104,Pore-DAB*318,,,,,11,8,6,9,9,,,,,5,4
+G100435-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*339,Pore-DAB*406,Pore-DAB*318,Pore-DAB*271,,,,,10,6,2,9,9,,,,,5,4
+G100436-AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*318,Pore-DAB*406,Pore-DAB*408,Pore-DAB*382,Pore-DAB*369,,,,10,9,2,10,8,6,,,,6,5
+G100437-Am2,Arima 2,Caroni,Pore-DAB*318,Pore-DAB*339,Pore-DAB*350,Pore-DAB*406,,,,,,9,6,10,2,,,,,,4,4
+G100438-Am2,Arima 2,Caroni,Pore-DAB*399,Pore-DAB*318,Pore-DAB*271,,,,,,,13,9,9,,,,,,,3,2
+G100439AM2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,,,,,,,,10,2,,,,,,,,2,2
+G100439-Am2,Arima 2,Caroni,Pore-DAB*350,Pore-DAB*406,Pore-DAB*318,Pore-DAB*271,,,,,,10,2,9,9,,,,,,4,3
+G100662E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,,11,8,9,9,,,,,,4,3
+G100663E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,,11,8,9,9,,,,,,4,3
+G100665E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*331,Pore-DAB*120,Pore-DAB*373,,,,,,11,10,8,9,,,,,,4,4
+G100666E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*367,Pore-DAB*120,,,,,,,11,12,8,,,,,,,3,3
+G100667E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,,,,,,,,11,8,,,,,,,,2,2
+G100668E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100669E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100670E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100671E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100672E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,,,,,,,,11,8,,,,,,,,2,2
+G100673E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100675E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100676E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,,11,8,9,9,,,,,,4,3
+G100677E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100678E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*367,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,11,12,8,9,9,,,,,5,4
+G100679E1,El cedro 1,Caroni,Pore-DAB*367,Pore-DAB*373,Pore-DAB*216,Pore-DAB*120,,,,,,12,9,11,8,,,,,,4,4
+G100680E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*367,,,,,,11,8,9,12,,,,,,4,4
+G100681E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100682E1,El cedro 1,Caroni,Pore-DAB*367,Pore-DAB*216,Pore-DAB*373,,,,,,,12,11,9,,,,,,,3,3
+G100684E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100685E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100686E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,Pore-DAB*201,,,,,11,8,9,9,12,,,,,5,4
+G100687E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,Pore-DAB*367,,,,,11,8,9,9,12,,,,,5,4
+G100688E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100689E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*103,,,,,,,11,8,9,,,,,,,3,3
+G100690E1,El cedro 1,Caroni,Pore-DAB*216,,,,,,,,,11,,,,,,,,,1,1
+G100691E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*103,,,,,,,11,8,9,,,,,,,3,3
+G100692E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,,11,8,9,,,,,,,3,3
+G100693E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,,11,8,9,9,,,,,,4,3
+G100694E1,El cedro 1,Caroni,Pore-DAB*216,Pore-DAB*367,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,11,12,8,9,9,,,,,5,4
+G100356E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*131,Pore-DAB*103,Pore-DAB*373,,,,,11,8,7,9,9,,,,,5,4
+G100357E2,El cedro 2,Caroni,Pore-DAB*208,Pore-DAB*308,Pore-DAB*103,Pore-DAB*373,,,,,,4,12,9,9,,,,,,4,3
+G100358E2,El cedro 2,Caroni,Pore-DAB*216,,,,,,,,,11,,,,,,,,,1,1
+G100359E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*339,Pore-DAB*103,,,,,,11,8,6,9,,,,,,4,4
+G100360E2,El cedro 2,Caroni,Pore-DAB*367,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,,,,,,12,11,8,9,,,,,,4,4
+G100361E2,El cedro 2,Caroni,Pore-DAB*208,Pore-DAB*339,Pore-DAB*103,,,,,,,4,6,9,,,,,,,3,3
+G100362E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*339,Pore-DAB*373,Pore-DAB*202,,,,,11,8,6,9,9,,,,,5,4
+G100363E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,,,,,,,,11,8,,,,,,,,2,2
+G100364E2,El cedro 2,Caroni,Pore-DAB*208,Pore-DAB*216,Pore-DAB*120,Pore-DAB*103,,,,,,4,11,8,9,,,,,,4,4
+G100365E2,El cedro 2,Caroni,Pore-DAB*339,Pore-DAB*271,Pore-DAB*103,,,,,,,6,9,9,,,,,,,3,2
+G100366E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*390,Pore-DAB*103,,,,,11,8,9,1,9,,,,,5,4
+G100367E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*384,Pore-DAB*373,Pore-DAB*335,,,,,11,8,12,9,9,,,,,5,4
+G100368E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*202,,,,,,11,8,9,9,,,,,,4,3
+G100369E2,El cedro 2,Caroni,Pore-DAB*367,Pore-DAB*339,Pore-DAB*373,Pore-DAB*103,,,,,,12,6,9,9,,,,,,4,3
+G100370E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*208,Pore-DAB*120,Pore-DAB*103,,,,,,11,4,8,9,,,,,,4,4
+G100371E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*208,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,11,4,8,9,9,,,,,5,4
+G100372E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*202,,,,,,11,8,9,9,,,,,,4,3
+G100373E2,El cedro 2,Caroni,Pore-DAB*363,Pore-DAB*308,Pore-DAB*373,Pore-DAB*103,,,,,,2,12,9,9,,,,,,4,3
+G100374E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*403,Pore-DAB*104,Pore-DAB*373,,,,,11,8,1,9,9,,,,,5,4
+G100375E2,El cedro 2,Caroni,Pore-DAB*440,Pore-DAB*131,Pore-DAB*373,,,,,,,4,7,9,,,,,,,3,3
+G100376E2,El cedro 2,Caroni,Pore-DAB*440,Pore-DAB*208,Pore-DAB*103,,,,,,,4,4,9,,,,,,,3,2
+G100377E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*403,Pore-DAB*373,Pore-DAB*103,,,,,11,8,1,9,9,,,,,5,4
+G100378E2,El cedro 2,Caroni,Pore-DAB*208,Pore-DAB*216,Pore-DAB*120,Pore-DAB*373,Pore-DAB*103,,,,,4,11,8,9,9,,,,,5,4
+G100379E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*367,Pore-DAB*120,,,,,,,11,12,8,,,,,,,3,3
+G100383E2,El cedro 2,Caroni,Pore-DAB*208,Pore-DAB*384,Pore-DAB*103,Pore-DAB*202,,,,,,4,12,9,9,,,,,,4,3
+G100384E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*208,Pore-DAB*103,,,,,,11,8,4,9,,,,,,4,4
+G100385E2,El cedro 2,Caroni,Pore-DAB*138,Pore-DAB*216,Pore-DAB*208,Pore-DAB*373,Pore-DAB*120,Pore-DAB*202,Pore-DAB*103,,,15,11,4,9,8,9,9,,,7,5
+G100385-E2,El cedro 2,Caroni,Pore-DAB*138,Pore-DAB*202,Pore-DAB*513,Pore-DAB*373,Pore-DAB*103,Pore-DAB*120,Pore-DAB*216,Pore-DAB*208,,15,9,1,9,9,8,11,4,,8,6
+G100386E2,El cedro 2,Caroni,Pore-DAB*363,Pore-DAB*103,,,,,,,,2,9,,,,,,,,2,2
+G100387E2,El cedro 2,Caroni,Pore-DAB*308,Pore-DAB*271,Pore-DAB*373,,,,,,,12,9,9,,,,,,,3,2
+G100388E2,El cedro 2,Caroni,Pore-DAB*331,Pore-DAB*202,Pore-DAB*103,,,,,,,10,9,9,,,,,,,3,2
+G100389E2,El cedro 2,Caroni,Pore-DAB*216,Pore-DAB*131,Pore-DAB*103,,,,,,,11,7,9,,,,,,,3,3
+G100390E2,El cedro 2,Caroni,Pore-DAB*208,Pore-DAB*339,Pore-DAB*103,,,,,,,4,6,9,,,,,,,3,3
+G100007G1,Guanapo 1,Caroni,Pore-DAB*202,Pore-DAB*212,Pore-DAB*203,Pore-DAB*204,Pore-DAB*209,,,,,9,1,15,12,6,,,,,5,5
+G100007-G1,Guanapo 1,Caroni,Pore-DAB*202,Pore-DAB*209,Pore-DAB*204,Pore-DAB*203,Pore-DAB*212,,,,,9,6,12,15,1,,,,,5,5
+G100008G1,Guanapo 1,Caroni,Pore-DAB*103,Pore-DAB*201,Pore-DAB*205,Pore-DAB*209,,,,,,9,12,1,6,,,,,,4,4
+G100009G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*103,Pore-DAB*202,,,,,,,12,9,9,,,,,,,3,2
+G100010G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*202,,,,,,,,12,9,,,,,,,,2,2
+G100011G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*202,,,,,,,,12,9,,,,,,,,2,2
+G100012G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*103,Pore-DAB*202,,,,,,12,15,9,9,,,,,,4,3
+G100013G1,Guanapo 1,Caroni,Pore-DAB*205,Pore-DAB*138,Pore-DAB*209,Pore-DAB*202,Pore-DAB*103,,,,,1,15,6,9,9,,,,,5,4
+G100013-G1,Guanapo 1,Caroni,Pore-DAB*209,Pore-DAB*138,Pore-DAB*205,Pore-DAB*202,Pore-DAB*103,,,,,6,15,1,9,9,,,,,5,4
+G100014G1,Guanapo 1,Caroni,Pore-DAB*202,Pore-DAB*201,Pore-DAB*211,,,,,,,9,12,12,,,,,,,3,2
+G100015G1,Guanapo 1,Caroni,Pore-DAB*208,Pore-DAB*205,Pore-DAB*209,Pore-DAB*202,Pore-DAB*103,,,,,4,1,6,9,9,,,,,5,4
+G100016G1,Guanapo 1,Caroni,Pore-DAB*205,Pore-DAB*138,Pore-DAB*209,Pore-DAB*202,Pore-DAB*103,,,,,1,15,6,9,9,,,,,5,4
+G100017G1,Guanapo 1,Caroni,Pore-DAB*204,Pore-DAB*138,Pore-DAB*203,Pore-DAB*103,,,,,,12,15,15,9,,,,,,4,3
+G100018G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*202,Pore-DAB*103,,,,,,12,15,9,9,,,,,,4,3
+G100019G1,Guanapo 1,Caroni,Pore-DAB*202,Pore-DAB*207,Pore-DAB*138,,,,,,,9,12,15,,,,,,,3,3
+G100019-G1,Guanapo 1,Caroni,Pore-DAB*202,Pore-DAB*207,Pore-DAB*138,,,,,,,9,12,15,,,,,,,3,3
+G100020G1,Guanapo 1,Caroni,Pore-DAB*211,Pore-DAB*205,Pore-DAB*209,Pore-DAB*202,Pore-DAB*103,,,,,12,1,6,9,9,,,,,5,4
+G100021G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*202,Pore-DAB*103,Pore-DAB*205,Pore-DAB*209,,,,12,15,9,9,1,6,,,,6,5
+G100021-G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*103,Pore-DAB*202,,,,,,12,15,9,9,,,,,,4,3
+G100022G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*202,,,,,,,,12,9,,,,,,,,2,2
+G100023G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*103,Pore-DAB*202,,,,,,12,15,9,9,,,,,,4,3
+G100024G1,Guanapo 1,Caroni,Pore-DAB*203,Pore-DAB*201,Pore-DAB*204,Pore-DAB*103,Pore-DAB*202,,,,,15,12,12,9,9,,,,,5,3
+G100025G1,Guanapo 1,Caroni,Pore-DAB*138,Pore-DAB*205,Pore-DAB*209,Pore-DAB*103,,,,,,15,1,6,9,,,,,,4,4
+G100026G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*203,Pore-DAB*210,Pore-DAB*206,Pore-DAB*202,,,,,12,15,12,9,9,,,,,5,3
+G100027G1,Guanapo 1,Caroni,Pore-DAB*138,Pore-DAB*202,Pore-DAB*206,,,,,,,15,9,9,,,,,,,3,2
+G100028G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*205,Pore-DAB*209,Pore-DAB*202,Pore-DAB*103,,,,,12,1,6,9,9,,,,,5,4
+G100029-G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*202,Pore-DAB*103,Pore-DAB*205,Pore-DAB*205,,,,12,15,9,9,1,1,,,,6,4
+G100030G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*103,,,,,,,12,15,9,,,,,,,3,3
+G100031G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*205,Pore-DAB*209,Pore-DAB*202,Pore-DAB*206,,,,,12,1,6,9,9,,,,,5,4
+G100031-G1,Guanapo 1,Caroni,Pore-DAB*209,Pore-DAB*201,Pore-DAB*205,Pore-DAB*206,Pore-DAB*202,,,,,6,12,1,9,9,,,,,5,4
+G100032G1,Guanapo 1,Caroni,Pore-DAB*205,Pore-DAB*204,Pore-DAB*203,Pore-DAB*209,Pore-DAB*202,,,,,1,12,15,6,9,,,,,5,5
+G100032-G1,Guanapo 1,Caroni,Pore-DAB*202,Pore-DAB*209,Pore-DAB*205,Pore-DAB*203,Pore-DAB*204,,,,,9,6,1,15,12,,,,,5,5
+G100033G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*203,Pore-DAB*210,Pore-DAB*202,,,,,,12,15,12,9,,,,,,4,3
+G100034G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*203,Pore-DAB*210,Pore-DAB*202,,,,,,12,15,12,9,,,,,,4,3
+G100035G1,Guanapo 1,Caroni,Pore-DAB*138,Pore-DAB*103,,,,,,,,15,9,,,,,,,,2,2
+G100036G1,Guanapo 1,Caroni,Pore-DAB*138,Pore-DAB*201,Pore-DAB*103,,,,,,,15,12,9,,,,,,,3,3
+G100037G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*202,Pore-DAB*103,,,,,,12,15,9,9,,,,,,4,3
+G100038G1,Guanapo 1,Caroni,Pore-DAB*201,Pore-DAB*138,Pore-DAB*202,,,,,,,12,15,9,,,,,,,3,3
+G100959G2,Guanapo 2,Caroni,Pore-DAB*133,Pore-DAB*201,Pore-DAB*120,Pore-DAB*202,Pore-DAB*208,,,,,11,12,8,9,4,,,,,5,5
+G100960G2,Guanapo 2,Caroni,Pore-DAB*208,Pore-DAB*202,Pore-DAB*205,Pore-DAB*209,,,,,,4,9,1,6,,,,,,4,4
+G100961G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*202,Pore-DAB*103,,,,,,12,4,9,9,,,,,,4,3
+G100962-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*218,Pore-DAB*202,Pore-DAB*271,,,,,,12,8,9,9,,,,,,4,3
+G100963G2,Guanapo 2,Caroni,Pore-DAB*213,Pore-DAB*223,Pore-DAB*226,Pore-DAB*202,Pore-DAB*202,,,,,6,15,13,9,9,,,,,5,4
+G100963-G2,Guanapo 2,Caroni,Pore-DAB*223,Pore-DAB*226,Pore-DAB*213,Pore-DAB*335,Pore-DAB*202,,,,,15,13,6,9,9,,,,,5,4
+G100964G2,Guanapo 2,Caroni,Pore-DAB*133,Pore-DAB*205,Pore-DAB*209,Pore-DAB*120,Pore-DAB*202,Pore-DAB*335,,,,11,1,6,8,9,9,,,,6,5
+G100964-G2,Guanapo 2,Caroni,Pore-DAB*133,Pore-DAB*209,Pore-DAB*120,Pore-DAB*205,Pore-DAB*335,Pore-DAB*202,,,,11,6,8,1,9,9,,,,6,5
+G100965G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*202,,,,,,,12,4,9,,,,,,,3,3
+G100966G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*218,,,,,,,,12,8,,,,,,,,2,2
+G100967G2,Guanapo 2,Caroni,Pore-DAB*225,Pore-DAB*138,Pore-DAB*250,Pore-DAB*208,Pore-DAB*201,,,,,11,15,3,4,12,,,,,5,5
+G100968-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*103,Pore-DAB*271,,,,,,12,4,9,9,,,,,,4,3
+G100969G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*120,Pore-DAB*133,Pore-DAB*202,,,,,,12,8,11,9,,,,,,4,4
+G100970G2,Guanapo 2,Caroni,Pore-DAB*215,Pore-DAB*217,Pore-DAB*227,,,,,,,12,8,6,,,,,,,3,3
+G100970-G2,Guanapo 2,Caroni,Pore-DAB*217,Pore-DAB*215,Pore-DAB*227,Pore-DAB*373,Pore-DAB*271,,,,,8,12,6,9,9,,,,,5,4
+G100971-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*202,Pore-DAB*104,,,,,,12,4,9,9,,,,,,4,3
+G100972G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*202,,,,,,,,12,9,,,,,,,,2,2
+G100973G2,Guanapo 2,Caroni,Pore-DAB*216,Pore-DAB*120,Pore-DAB*205,Pore-DAB*209,Pore-DAB*103,Pore-DAB*202,,,,11,8,1,6,9,9,,,,6,5
+G100973-G2,Guanapo 2,Caroni,Pore-DAB*216,Pore-DAB*209,Pore-DAB*120,Pore-DAB*205,Pore-DAB*202,Pore-DAB*103,,,,11,6,8,1,9,9,,,,6,5
+G100974G2,Guanapo 2,Caroni,Pore-DAB*201,,,,,,,,,12,,,,,,,,,1,1
+G100975G2,Guanapo 2,Caroni,Pore-DAB*220,Pore-DAB*221,Pore-DAB*202,Pore-DAB*335,,,,,,10,10,9,9,,,,,,4,2
+G100975-G2,Guanapo 2,Caroni,Pore-DAB*221,Pore-DAB*220,Pore-DAB*202,Pore-DAB*335,,,,,,10,10,9,9,,,,,,4,2
+G100976G2,Guanapo 2,Caroni,Pore-DAB*208,Pore-DAB*201,Pore-DAB*202,,,,,,,4,12,9,,,,,,,3,3
+G100977G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*271,Pore-DAB*202,,,,,,12,4,9,9,,,,,,4,3
+G100978G2,Guanapo 2,Caroni,Pore-DAB*133,Pore-DAB*225,Pore-DAB*120,Pore-DAB*335,,,,,,11,11,8,9,,,,,,4,3
+G100979G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*222,,,,,,,,12,10,,,,,,,,2,2
+G100979-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*222,Pore-DAB*104,Pore-DAB*202,,,,,,12,10,9,9,,,,,,4,3
+G100980G2,Guanapo 2,Caroni,Pore-DAB*205,Pore-DAB*209,Pore-DAB*214,Pore-DAB*202,Pore-DAB*373,,,,,1,6,15,9,9,,,,,5,4
+G100980-G2,Guanapo 2,Caroni,Pore-DAB*209,Pore-DAB*214,Pore-DAB*205,Pore-DAB*202,Pore-DAB*373,,,,,6,15,1,9,9,,,,,5,4
+G100981G2,Guanapo 2,Caroni,Pore-DAB*227,Pore-DAB*215,Pore-DAB*202,,,,,,,6,12,9,,,,,,,3,3
+G100982G2,Guanapo 2,Caroni,Pore-DAB*218,Pore-DAB*219,Pore-DAB*202,Pore-DAB*103,,,,,,8,10,9,9,,,,,,4,3
+G100982-G2,Guanapo 2,Caroni,Pore-DAB*218,Pore-DAB*219,Pore-DAB*103,Pore-DAB*202,,,,,,8,10,9,9,,,,,,4,3
+G100983-G2,Guanapo 2,Caroni,Pore-DAB*209,Pore-DAB*205,Pore-DAB*103,Pore-DAB*202,,,,,,6,1,9,9,,,,,,4,3
+G100984-G2,Guanapo 2,Caroni,Pore-DAB*225,Pore-DAB*224,Pore-DAB*271,Pore-DAB*103,,,,,,11,3,9,9,,,,,,4,3
+G100985G2,Guanapo 2,Caroni,Pore-DAB*208,Pore-DAB*201,Pore-DAB*202,Pore-DAB*335,,,,,,4,12,9,9,,,,,,4,3
+G100985-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*202,Pore-DAB*335,,,,,,12,4,9,9,,,,,,4,3
+G100986-G2,Guanapo 2,Caroni,Pore-DAB*216,Pore-DAB*209,Pore-DAB*120,Pore-DAB*202,Pore-DAB*205,,,,,11,6,8,9,1,,,,,5,5
+G100987-G2,Guanapo 2,Caroni,Pore-DAB*353,Pore-DAB*208,Pore-DAB*202,Pore-DAB*335,,,,,,10,4,9,9,,,,,,4,3
+G100988-G2,Guanapo 2,Caroni,Pore-DAB*208,Pore-DAB*218,Pore-DAB*104,Pore-DAB*202,,,,,,4,8,9,9,,,,,,4,3
+G100989G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,,,,,,,,12,4,,,,,,,,2,2
+G100989-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*208,Pore-DAB*373,Pore-DAB*202,,,,,,12,4,9,9,,,,,,4,3
+G100990G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*215,Pore-DAB*227,Pore-DAB*373,Pore-DAB*103,,,,,12,12,6,9,9,,,,,5,3
+G100990-G2,Guanapo 2,Caroni,Pore-DAB*201,Pore-DAB*215,Pore-DAB*227,Pore-DAB*103,,,,,,12,12,6,9,,,,,,4,3
+G100204Ap1,Aripo 1,Caroni,Pore-DAB*216,Pore-DAB*133,Pore-DAB*120,Pore-DAB*375,,,,,,11,11,8,9,,,,,,4,3
+G100205Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*375,Pore-DAB*131,,,,,,11,8,9,7,,,,,,4,4
+G100206Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*120,Pore-DAB*106,,,,,,,11,8,8,,,,,,,3,2
+G100208Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*120,Pore-DAB*413,,,,,,,11,8,7,,,,,,,3,3
+G100209Ap1,Aripo 1,Caroni,Pore-DAB*289,Pore-DAB*398,Pore-DAB*104,,,,,,,8,15,9,,,,,,,3,3
+G100210Ap1,Aripo 1,Caroni,Pore-DAB*379,Pore-DAB*107,,,,,,,,8,7,,,,,,,,2,2
+G100212Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*308,Pore-DAB*104,,,,,,11,8,12,9,,,,,,4,4
+G100213Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*107,,,,,,,11,8,7,,,,,,,3,3
+G100214Ap1,Aripo 1,Caroni,Pore-DAB*389,Pore-DAB*133,Pore-DAB*120,,,,,,,10,11,8,,,,,,,3,3
+G100215Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*131,Pore-DAB*375,,,,,,11,8,7,9,,,,,,4,4
+G100216Ap1,Aripo 1,Caroni,Pore-DAB*208,Pore-DAB*414,,,,,,,,4,7,,,,,,,,2,2
+G100217Ap1,Aripo 1,Caroni,Pore-DAB*107,Pore-DAB*308,Pore-DAB*104,,,,,,,7,12,9,,,,,,,3,3
+G100218-Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*131,,,,,,,11,8,7,,,,,,,3,3
+G100220Ap1,Aripo 1,Caroni,Pore-DAB*131,Pore-DAB*225,Pore-DAB*353,Pore-DAB*206,Pore-DAB*104,,,,,7,11,10,9,9,,,,,5,4
+G100221Ap1,Aripo 1,Caroni,Pore-DAB*107,Pore-DAB*131,Pore-DAB*375,,,,,,,7,7,9,,,,,,,3,2
+G100222Ap1,Aripo 1,Caroni,Pore-DAB*389,Pore-DAB*133,Pore-DAB*106,,,,,,,10,11,8,,,,,,,3,3
+G100223Ap1,Aripo 1,Caroni,Pore-DAB*107,Pore-DAB*421,Pore-DAB*133,Pore-DAB*389,Pore-DAB*120,,,,,7,6,11,10,8,,,,,5,5
+G100224Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*120,,,,,,,,11,8,,,,,,,,2,2
+G100225Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*107,,,,,,,11,8,7,,,,,,,3,3
+G100226Ap1,Aripo 1,Caroni,Pore-DAB*352,Pore-DAB*131,Pore-DAB*202,Pore-DAB*375,,,,,,1,7,9,9,,,,,,4,3
+G100227Ap1,Aripo 1,Caroni,Pore-DAB*389,Pore-DAB*133,Pore-DAB*106,,,,,,,10,11,8,,,,,,,3,3
+G100228Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*106,Pore-DAB*352,,,,,,,11,8,1,,,,,,,3,3
+G100229Ap1,Aripo 1,Caroni,Pore-DAB*131,,,,,,,,,7,,,,,,,,,1,1
+G100230Ap1,Aripo 1,Caroni,Pore-DAB*289,Pore-DAB*292,,,,,,,,8,13,,,,,,,,2,2
+G100231Ap1,Aripo 1,Caroni,Pore-DAB*107,Pore-DAB*133,Pore-DAB*421,Pore-DAB*389,Pore-DAB*120,,,,,7,11,6,10,8,,,,,5,5
+G100232Ap1,Aripo 1,Caroni,Pore-DAB*389,,,,,,,,,10,,,,,,,,,1,1
+G100233-Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*120,Pore-DAB*107,,,,,,,11,8,7,,,,,,,3,3
+G100234Ap1,Aripo 1,Caroni,Pore-DAB*133,,,,,,,,,11,,,,,,,,,1,1
+G100235-Ap1,Aripo 1,Caroni,Pore-DAB*421,Pore-DAB*107,Pore-DAB*104,,,,,,,6,7,9,,,,,,,3,3
+G100236Ap1,Aripo 1,Caroni,Pore-DAB*396,Pore-DAB*352,Pore-DAB*375,,,,,,,8,1,9,,,,,,,3,3
+G100237Ap1,Aripo 1,Caroni,Pore-DAB*133,Pore-DAB*289,Pore-DAB*120,,,,,,,11,8,8,,,,,,,3,2
+G100238Ap1,Aripo 1,Caroni,Pore-DAB*107,Pore-DAB*131,Pore-DAB*104,Pore-DAB*375,,,,,,7,7,9,9,,,,,,4,2
+G100060Ap2,Aripo 2,Caroni,Pore-DAB*209,Pore-DAB*308,Pore-DAB*205,Pore-DAB*318,,,,,,6,12,1,9,,,,,,4,4
+G100061Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*208,Pore-DAB*296,Pore-DAB*209,Pore-DAB*308,Pore-DAB*104,Pore-DAB*205,Pore-DAB*271,Pore-DAB*318,2,4,8,6,12,9,1,9,9,9,7
+G100062Ap2,Aripo 2,Caroni,Pore-DAB*308,Pore-DAB*107,Pore-DAB*104,Pore-DAB*373,Pore-DAB*363,Pore-DAB*296,Pore-DAB*208,Pore-DAB*271,,12,7,9,9,2,8,4,9,,8,6
+G100063Ap2,Aripo 2,Caroni,Pore-DAB*208,Pore-DAB*398,Pore-DAB*104,Pore-DAB*271,,,,,,4,15,9,9,,,,,,4,3
+G100064Ap2,Aripo 2,Caroni,Pore-DAB*361,Pore-DAB*296,Pore-DAB*308,Pore-DAB*104,,,,,,5,8,12,9,,,,,,4,4
+G100065Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*296,Pore-DAB*292,Pore-DAB*104,Pore-DAB*104,,,,,2,8,13,9,9,,,,,5,4
+G100066Ap2,Aripo 2,Caroni,Pore-DAB*437,Pore-DAB*292,Pore-DAB*320,Pore-DAB*375,,,,,,7,13,9,9,,,,,,4,3
+G100067Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*296,Pore-DAB*373,Pore-DAB*104,,,,,,2,8,9,9,,,,,,4,3
+G100068Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*409,Pore-DAB*104,,,,,,,2,11,9,,,,,,,3,3
+G100069Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*208,Pore-DAB*296,Pore-DAB*104,Pore-DAB*271,,,,,2,4,8,9,9,,,,,5,4
+G100070Ap2,Aripo 2,Caroni,Pore-DAB*138,Pore-DAB*308,Pore-DAB*363,Pore-DAB*208,Pore-DAB*296,Pore-DAB*104,Pore-DAB*202,Pore-DAB*271,,15,12,2,4,8,9,9,9,,8,6
+G100071Ap2,Aripo 2,Caroni,Pore-DAB*138,Pore-DAB*375,,,,,,,,15,9,,,,,,,,2,2
+G100072Ap2,Aripo 2,Caroni,Pore-DAB*208,Pore-DAB*138,Pore-DAB*335,,,,,,,4,15,9,,,,,,,3,3
+G100073Ap2,Aripo 2,Caroni,Pore-DAB*133,Pore-DAB*120,Pore-DAB*352,Pore-DAB*206,Pore-DAB*104,,,,,11,8,1,9,9,,,,,5,4
+G100074Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*296,Pore-DAB*375,Pore-DAB*104,,,,,,2,8,9,9,,,,,,4,3
+G100075Ap2,Aripo 2,Caroni,Pore-DAB*363,Pore-DAB*296,Pore-DAB*292,Pore-DAB*374,Pore-DAB*104,Pore-DAB*202,,,,2,8,13,9,9,9,,,,6,4
+G100081-Ap2,Aripo 2,Caroni,Pore-DAB*208,Pore-DAB*107,Pore-DAB*373,,,,,,,4,7,9,,,,,,,3,3
+G100760Q1,Quare 1,Oropouche,Pore-DAB*265,Pore-DAB*269,,,,,,,,12,13,,,,,,,,2,2
+G100761Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*258,Pore-DAB*254,Pore-DAB*256,Pore-DAB*206,,,,,11,8,2,9,9,,,,,5,4
+G100762Q1,Quare 1,Oropouche,Pore-DAB*254,Pore-DAB*256,,,,,,,,2,9,,,,,,,,2,2
+G100763Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*268,Pore-DAB*371,Pore-DAB*265,Pore-DAB*269,,,,,11,13,9,12,13,,,,,5,4
+G100763-Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*268,Pore-DAB*266,Pore-DAB*371,,,,,,11,13,12,9,,,,,,4,4
+G100764Q1,Quare 1,Oropouche,Pore-DAB*254,Pore-DAB*258,Pore-DAB*267,Pore-DAB*256,Pore-DAB*263,,,,,2,8,11,9,13,,,,,5,5
+G100764-Q1,Quare 1,Oropouche,Pore-DAB*254,Pore-DAB*256,Pore-DAB*263,Pore-DAB*267,Pore-DAB*258,Pore-DAB*206,,,,2,9,13,11,8,9,,,,6,5
+G100765Q1,Quare 1,Oropouche,Pore-DAB*269,Pore-DAB*268,,,,,,,,13,13,,,,,,,,2,1
+G100766Q1,Quare 1,Oropouche,Pore-DAB*257,Pore-DAB*267,Pore-DAB*371,Pore-DAB*269,,,,,,6,11,9,13,,,,,,4,4
+G100767Q1,Quare 1,Oropouche,Pore-DAB*103,,,,,,,,,9,,,,,,,,,1,1
+G100768Q1,Quare 1,Oropouche,Pore-DAB*255,Pore-DAB*264,Pore-DAB*271,Pore-DAB*256,,,,,,2,13,9,9,,,,,,4,3
+G100769-Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*254,Pore-DAB*103,Pore-DAB*269,,,,,,11,2,9,13,,,,,,4,4
+G100770Q1,Quare 1,Oropouche,Pore-DAB*133,Pore-DAB*120,,,,,,,,11,8,,,,,,,,2,2
+G100771Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*387,Pore-DAB*282,Pore-DAB*271,,,,,,11,2,13,9,,,,,,4,4
+G100771-Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*387,Pore-DAB*268,Pore-DAB*282,Pore-DAB*271,,,,,11,2,13,13,9,,,,,5,4
+G100772Q1,Quare 1,Oropouche,Pore-DAB*257,Pore-DAB*256,Pore-DAB*267,Pore-DAB*254,,,,,,6,9,11,2,,,,,,4,4
+G100773Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*270,,,,,,,,11,9,,,,,,,,2,2
+G100773-Q1,Quare 1,Oropouche,Pore-DAB*268,Pore-DAB*267,Pore-DAB*270,,,,,,,13,11,9,,,,,,,3,3
+G100774Q1,Quare 1,Oropouche,Pore-DAB*257,Pore-DAB*267,Pore-DAB*206,,,,,,,6,11,9,,,,,,,3,3
+G100775Q1,Quare 1,Oropouche,Pore-DAB*257,Pore-DAB*103,,,,,,,,6,9,,,,,,,,2,2
+G100776Q1,Quare 1,Oropouche,Pore-DAB*265,Pore-DAB*206,Pore-DAB*267,Pore-DAB*263,,,,,,12,9,11,13,,,,,,4,4
+G100777Q1,Quare 1,Oropouche,Pore-DAB*444,Pore-DAB*268,Pore-DAB*104,Pore-DAB*103,,,,,,3,13,9,9,,,,,,4,3
+G100777-Q1,Quare 1,Oropouche,Pore-DAB*444,Pore-DAB*104,Pore-DAB*103,Pore-DAB*268,,,,,,3,9,9,13,,,,,,4,3
+G100778Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*255,Pore-DAB*262,,,,,,,11,2,13,,,,,,,3,3
+G100778-Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*255,Pore-DAB*262,,,,,,,11,2,13,,,,,,,3,3
+G100779Q1,Quare 1,Oropouche,Pore-DAB*257,Pore-DAB*254,,,,,,,,6,2,,,,,,,,2,2
+G100780Q1,Quare 1,Oropouche,Pore-DAB*252,,,,,,,,,2,,,,,,,,,1,1
+G100780-Q1,Quare 1,Oropouche,Pore-DAB*266,Pore-DAB*252,,,,,,,,12,2,,,,,,,,2,2
+G100781Q1,Quare 1,Oropouche,Pore-DAB*259,Pore-DAB*254,Pore-DAB*267,Pore-DAB*103,Pore-DAB*255,Pore-DAB*262,,,,4,2,11,9,2,13,,,,6,5
+G100781-Q1,Quare 1,Oropouche,Pore-DAB*259,Pore-DAB*254,Pore-DAB*103,Pore-DAB*267,,,,,,4,2,9,11,,,,,,4,4
+G100782Q1,Quare 1,Oropouche,Pore-DAB*254,Pore-DAB*264,Pore-DAB*257,,,,,,,2,13,6,,,,,,,3,3
+G100783Q1,Quare 1,Oropouche,Pore-DAB*133,Pore-DAB*120,Pore-DAB*254,Pore-DAB*256,Pore-DAB*103,,,,,11,8,2,9,9,,,,,5,4
+G100784Q1,Quare 1,Oropouche,Pore-DAB*267,Pore-DAB*103,,,,,,,,11,9,,,,,,,,2,2
+G100785Q1,Quare 1,Oropouche,Pore-DAB*265,Pore-DAB*253,Pore-DAB*271,,,,,,,12,2,9,,,,,,,3,3
+G100788Q1,Quare 1,Oropouche,Pore-DAB*260,Pore-DAB*103,,,,,,,,14,9,,,,,,,,2,2
+G100788-Q1,Quare 1,Oropouche,Pore-DAB*260,Pore-DAB*103,Pore-DAB*264,,,,,,,14,9,13,,,,,,,3,3
+G100789Q1,Quare 1,Oropouche,Pore-DAB*103,Pore-DAB*267,Pore-DAB*263,Pore-DAB*253,,,,,,9,11,13,2,,,,,,4,4
+G100790Q1,Quare 1,Oropouche,Pore-DAB*254,Pore-DAB*206,Pore-DAB*261,Pore-DAB*267,Pore-DAB*269,,,,,2,9,14,11,13,,,,,5,5
+G100791Q1,Quare 1,Oropouche,Pore-DAB*257,Pore-DAB*254,Pore-DAB*103,Pore-DAB*256,,,,,,6,2,9,9,,,,,,4,3
+G101059Q2,Quare 2,Oropouche,Pore-DAB*254,Pore-DAB*256,Pore-DAB*371,,,,,,,2,9,9,,,,,,,3,2
+G101060Q2,Quare 2,Oropouche,Pore-DAB*256,Pore-DAB*439,Pore-DAB*250,Pore-DAB*240,Pore-DAB*251,Pore-DAB*271,,,,9,3,3,4,15,9,,,,6,4
+G101061-Q2,Quare 2,Oropouche,Pore-DAB*271,Pore-DAB*256,Pore-DAB*269,Pore-DAB*263,,,,,,9,9,13,13,,,,,,4,2
+G101062Q2,Quare 2,Oropouche,Pore-DAB*257,Pore-DAB*271,,,,,,,,6,9,,,,,,,,2,2
+G101063Q2,Quare 2,Oropouche,Pore-DAB*271,Pore-DAB*254,,,,,,,,9,2,,,,,,,,2,2
+G101064Q2,Quare 2,Oropouche,Pore-DAB*363,Pore-DAB*296,,,,,,,,2,8,,,,,,,,2,2
+G101065Q2,Quare 2,Oropouche,Pore-DAB*405,Pore-DAB*391,Pore-DAB*271,,,,,,,2,10,9,,,,,,,3,3
+G101066Q2,Quare 2,Oropouche,Pore-DAB*257,,,,,,,,,6,,,,,,,,,1,1
+G101067Q2,Quare 2,Oropouche,Pore-DAB*257,Pore-DAB*254,Pore-DAB*271,Pore-DAB*202,,,,,,6,2,9,9,,,,,,4,3
+G101069Q2,Quare 2,Oropouche,Pore-DAB*254,Pore-DAB*271,,,,,,,,2,9,,,,,,,,2,2
+G101070Q2,Quare 2,Oropouche,Pore-DAB*391,Pore-DAB*405,Pore-DAB*271,Pore-DAB*202,,,,,,10,2,9,9,,,,,,4,3
+G101071-Q2,Quare 2,Oropouche,Pore-DAB*268,Pore-DAB*271,Pore-DAB*256,,,,,,,13,9,9,,,,,,,3,2
+G101074Q2,Quare 2,Oropouche,Pore-DAB*257,Pore-DAB*439,Pore-DAB*254,,,,,,,6,3,2,,,,,,,3,3
+G101075Q2,Quare 2,Oropouche,Pore-DAB*254,Pore-DAB*253,Pore-DAB*250,Pore-DAB*251,Pore-DAB*267,Pore-DAB*240,,,,2,2,3,15,11,4,,,,6,5
+G101075-Q2,Quare 2,Oropouche,Pore-DAB*254,Pore-DAB*253,,,,,,,,2,2,,,,,,,,2,1
+G101076Q2,Quare 2,Oropouche,Pore-DAB*268,Pore-DAB*263,Pore-DAB*256,Pore-DAB*103,Pore-DAB*353,Pore-DAB*225,,,,13,13,9,9,10,11,,,,6,4
+G101076-Q2,Quare 2,Oropouche,Pore-DAB*263,Pore-DAB*268,Pore-DAB*103,Pore-DAB*256,,,,,,13,13,9,9,,,,,,4,2
+G101077-Q2,Quare 2,Oropouche,Pore-DAB*257,,,,,,,,,6,,,,,,,,,1,1
+G101078Q2,Quare 2,Oropouche,Pore-DAB*257,,,,,,,,,6,,,,,,,,,1,1
+G101079Q2,Quare 2,Oropouche,Pore-DAB*438,Pore-DAB*392,Pore-DAB*395,Pore-DAB*103,,,,,,8,11,2,9,,,,,,4,4
+G101080Q2,Quare 2,Oropouche,Pore-DAB*256,Pore-DAB*216,Pore-DAB*225,,,,,,,9,11,11,,,,,,,3,2
+G101081Q2,Quare 2,Oropouche,Pore-DAB*257,,,,,,,,,6,,,,,,,,,1,1
+G100109T2,Turure 2,Oropouche,Pore-DAB*221,Pore-DAB*210,Pore-DAB*378,Pore-DAB*271,Pore-DAB*103,,,,,10,12,15,9,9,,,,,5,4
+G100110T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*344,Pore-DAB*271,Pore-DAB*318,,,,,,10,14,9,9,,,,,,4,3
+G100111T2,Turure 2,Oropouche,Pore-DAB*338,Pore-DAB*350,Pore-DAB*406,Pore-DAB*103,,,,,,4,10,2,9,,,,,,4,4
+G100112T2,Turure 2,Oropouche,Pore-DAB*218,Pore-DAB*265,Pore-DAB*271,Pore-DAB*202,,,,,,8,12,9,9,,,,,,4,3
+G100113T2,Turure 2,Oropouche,Pore-DAB*338,Pore-DAB*222,Pore-DAB*271,Pore-DAB*202,,,,,,4,10,9,9,,,,,,4,3
+G100114T2,Turure 2,Oropouche,Pore-DAB*208,Pore-DAB*432,Pore-DAB*202,Pore-DAB*103,,,,,,4,13,9,9,,,,,,4,3
+G100115T2,Turure 2,Oropouche,Pore-DAB*225,Pore-DAB*441,Pore-DAB*103,Pore-DAB*335,,,,,,11,4,9,9,,,,,,4,3
+G100116T2,Turure 2,Oropouche,Pore-DAB*222,Pore-DAB*104,Pore-DAB*271,,,,,,,10,9,9,,,,,,,3,2
+G100117T2,Turure 2,Oropouche,Pore-DAB*208,Pore-DAB*312,Pore-DAB*373,Pore-DAB*103,,,,,,4,10,9,9,,,,,,4,3
+G100118T2,Turure 2,Oropouche,Pore-DAB*345,Pore-DAB*209,Pore-DAB*205,Pore-DAB*271,Pore-DAB*202,,,,,14,6,1,9,9,,,,,5,4
+G100119T2,Turure 2,Oropouche,Pore-DAB*338,Pore-DAB*218,Pore-DAB*355,Pore-DAB*335,Pore-DAB*373,,,,,4,8,11,9,9,,,,,5,4
+G100120T2,Turure 2,Oropouche,Pore-DAB*207,Pore-DAB*271,Pore-DAB*335,,,,,,,12,9,9,,,,,,,3,2
+G100121T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*208,Pore-DAB*271,Pore-DAB*103,,,,,,10,4,9,9,,,,,,4,3
+G100122T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*208,Pore-DAB*202,Pore-DAB*335,,,,,,10,4,9,9,,,,,,4,3
+G100123T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*441,Pore-DAB*103,Pore-DAB*202,,,,,,10,4,9,9,,,,,,4,3
+G100124T2,Turure 2,Oropouche,Pore-DAB*344,Pore-DAB*398,Pore-DAB*335,,,,,,,14,15,9,,,,,,,3,3
+G100125T2,Turure 2,Oropouche,Pore-DAB*216,Pore-DAB*207,Pore-DAB*202,,,,,,,11,12,9,,,,,,,3,3
+G100126T2,Turure 2,Oropouche,Pore-DAB*345,Pore-DAB*353,Pore-DAB*202,Pore-DAB*103,,,,,,14,10,9,9,,,,,,4,3
+G100127T2,Turure 2,Oropouche,Pore-DAB*208,Pore-DAB*202,Pore-DAB*103,,,,,,,4,9,9,,,,,,,3,2
+G100128T2,Turure 2,Oropouche,Pore-DAB*218,Pore-DAB*216,Pore-DAB*120,Pore-DAB*335,,,,,,8,11,8,9,,,,,,4,3
+G100129T2,Turure 2,Oropouche,Pore-DAB*218,Pore-DAB*222,Pore-DAB*104,Pore-DAB*271,,,,,,8,10,9,9,,,,,,4,3
+G100130T2,Turure 2,Oropouche,Pore-DAB*218,Pore-DAB*217,Pore-DAB*271,Pore-DAB*318,,,,,,8,8,9,9,,,,,,4,2
+G100131T2,Turure 2,Oropouche,Pore-DAB*218,Pore-DAB*338,,,,,,,,8,4,,,,,,,,2,2
+G100132T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*103,,,,,,,,10,9,,,,,,,,2,2
+G100133T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*225,Pore-DAB*202,Pore-DAB*103,,,,,,10,11,9,9,,,,,,4,3
+G100134T2,Turure 2,Oropouche,Pore-DAB*222,Pore-DAB*218,Pore-DAB*271,Pore-DAB*202,,,,,,10,8,9,9,,,,,,4,3
+G100135T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*301,Pore-DAB*103,Pore-DAB*202,,,,,,10,8,9,9,,,,,,4,3
+G100136T2,Turure 2,Oropouche,Pore-DAB*344,Pore-DAB*374,Pore-DAB*314,,,,,,,14,9,9,,,,,,,3,2
+G100137T2,Turure 2,Oropouche,Pore-DAB*221,Pore-DAB*318,Pore-DAB*103,,,,,,,10,9,9,,,,,,,3,2
+G100138T2,Turure 2,Oropouche,Pore-DAB*344,Pore-DAB*271,Pore-DAB*104,,,,,,,14,9,9,,,,,,,3,2
+G100140T2,Turure 2,Oropouche,Pore-DAB*353,Pore-DAB*210,Pore-DAB*378,Pore-DAB*271,,,,,,10,12,15,9,,,,,,4,4
+G100816T3,Turure 3,Oropouche,Pore-DAB*353,Pore-DAB*271,,,,,,,,10,9,,,,,,,,2,2
+G100817T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*420,Pore-DAB*202,Pore-DAB*104,,,,,,11,10,9,9,,,,,,4,3
+G100818-T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*225,Pore-DAB*120,Pore-DAB*202,Pore-DAB*103,,,,,11,11,8,9,9,,,,,5,3
+G100819-T3,Turure 3,Oropouche,Pore-DAB*434,Pore-DAB*353,Pore-DAB*336,Pore-DAB*271,Pore-DAB*318,Pore-DAB*257,,,,14,10,2,9,9,6,,,,6,5
+G100820T3,Turure 3,Oropouche,Pore-DAB*222,Pore-DAB*202,,,,,,,,10,9,,,,,,,,2,2
+G100821T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*353,Pore-DAB*120,Pore-DAB*104,Pore-DAB*103,,,,,11,10,8,9,9,,,,,5,4
+G100822T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*120,Pore-DAB*104,Pore-DAB*202,,,,,,11,8,9,9,,,,,,4,3
+G100823T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*225,Pore-DAB*120,Pore-DAB*103,,,,,,11,11,8,9,,,,,,4,3
+G100824T3,Turure 3,Oropouche,Pore-DAB*208,Pore-DAB*216,Pore-DAB*120,,,,,,,4,11,8,,,,,,,3,3
+G100825T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*225,Pore-DAB*120,Pore-DAB*103,Pore-DAB*335,,,,,11,11,8,9,9,,,,,5,3
+G100826T3,Turure 3,Oropouche,Pore-DAB*353,Pore-DAB*104,,,,,,,,10,9,,,,,,,,2,2
+G100827T3,Turure 3,Oropouche,Pore-DAB*434,Pore-DAB*353,Pore-DAB*336,Pore-DAB*104,Pore-DAB*103,,,,,14,10,2,9,9,,,,,5,4
+G100828T3,Turure 3,Oropouche,Pore-DAB*434,Pore-DAB*353,Pore-DAB*336,Pore-DAB*271,Pore-DAB*104,,,,,14,10,2,9,9,,,,,5,4
+G100829T3,Turure 3,Oropouche,Pore-DAB*223,Pore-DAB*226,Pore-DAB*318,Pore-DAB*271,,,,,,15,13,9,9,,,,,,4,3
+G100830T3,Turure 3,Oropouche,Pore-DAB*222,Pore-DAB*223,Pore-DAB*226,Pore-DAB*103,Pore-DAB*335,,,,,10,15,13,9,9,,,,,5,4
+G100831T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*353,Pore-DAB*271,Pore-DAB*318,,,,,,11,10,9,9,,,,,,4,3
+G100832T3,Turure 3,Oropouche,Pore-DAB*353,Pore-DAB*225,Pore-DAB*103,Pore-DAB*271,,,,,,10,11,9,9,,,,,,4,3
+G100833T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*120,Pore-DAB*221,,,,,,,11,8,10,,,,,,,3,3
+G100834T3,Turure 3,Oropouche,Pore-DAB*223,Pore-DAB*225,Pore-DAB*226,Pore-DAB*104,,,,,,15,11,13,9,,,,,,4,4
+G100835T3,Turure 3,Oropouche,Pore-DAB*208,Pore-DAB*225,Pore-DAB*104,Pore-DAB*335,,,,,,4,11,9,9,,,,,,4,3
+G100836T3,Turure 3,Oropouche,Pore-DAB*434,Pore-DAB*336,Pore-DAB*225,,,,,,,14,2,11,,,,,,,3,3
+G100837T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*120,Pore-DAB*353,Pore-DAB*271,Pore-DAB*335,,,,,11,8,10,9,9,,,,,5,4
+G100838T3,Turure 3,Oropouche,Pore-DAB*216,Pore-DAB*222,Pore-DAB*120,Pore-DAB*271,Pore-DAB*103,,,,,11,10,8,9,9,,,,,5,4
+G100839T3,Turure 3,Oropouche,Pore-DAB*353,,,,,,,,,10,,,,,,,,,1,1
+G100840T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*226,Pore-DAB*223,Pore-DAB*104,Pore-DAB*271,,,,,11,13,15,9,9,,,,,5,4
+G100841T3,Turure 3,Oropouche,Pore-DAB*208,Pore-DAB*225,Pore-DAB*103,,,,,,,4,11,9,,,,,,,3,3
+G100842-T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*353,Pore-DAB*335,Pore-DAB*318,,,,,,11,10,9,9,,,,,,4,3
+G100843T3,Turure 3,Oropouche,Pore-DAB*225,,,,,,,,,11,,,,,,,,,1,1
+G100844T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*353,Pore-DAB*104,,,,,,,11,10,9,,,,,,,3,3
+G100845T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*104,Pore-DAB*271,,,,,,,11,9,9,,,,,,,3,2
+G100846T3,Turure 3,Oropouche,Pore-DAB*222,Pore-DAB*353,Pore-DAB*104,,,,,,,10,10,9,,,,,,,3,2
+G100847T3,Turure 3,Oropouche,Pore-DAB*225,Pore-DAB*226,Pore-DAB*223,Pore-DAB*104,Pore-DAB*271,,,,,11,13,15,9,9,,,,,5,4
+LS1,La Seiva,Oropouche,Pore-DAB*385,Pore-DAB*221,,,,,,,,12,10,,,,,,,,2,2
+LS10,La Seiva,Oropouche,Pore-DAB*434,Pore-DAB*353,Pore-DAB*336,,,,,,,14,10,2,,,,,,,3,3
+LS11,La Seiva,Oropouche,Pore-DAB*221,Pore-DAB*525,Pore-DAB*524,Pore-DAB*103,Pore-DAB*202,,,,,10,14,15,9,9,,,,,5,4
+LS12,La Seiva,Oropouche,Pore-DAB*207,Pore-DAB*432,,,,,,,,12,13,,,,,,,,2,2
+LS13,La Seiva,Oropouche,Pore-DAB*353,Pore-DAB*208,Pore-DAB*202,Pore-DAB*103,,,,,,10,4,9,9,,,,,,4,3
+LS14,La Seiva,Oropouche,Pore-DAB*345,Pore-DAB*221,,,,,,,,14,10,,,,,,,,2,2
+LS15,La Seiva,Oropouche,Pore-DAB*344,Pore-DAB*308,,,,,,,,14,12,,,,,,,,2,2
+LS16,La Seiva,Oropouche,Pore-DAB*225,,,,,,,,,11,,,,,,,,,1,1
+LS17,La Seiva,Oropouche,Pore-DAB*441,Pore-DAB*210,Pore-DAB*203,,,,,,,4,12,15,,,,,,,3,3
+LS18,La Seiva,Oropouche,Pore-DAB*216,Pore-DAB*353,Pore-DAB*120,,,,,,,11,10,8,,,,,,,3,3
+LS2,La Seiva,Oropouche,Pore-DAB*345,Pore-DAB*103,,,,,,,,14,9,,,,,,,,2,2
+LS20,La Seiva,Oropouche,Pore-DAB*207,Pore-DAB*373,Pore-DAB*271,,,,,,,12,9,9,,,,,,,3,2
+LS21,La Seiva,Oropouche,Pore-DAB*208,Pore-DAB*210,,,,,,,,4,12,,,,,,,,2,2
+LS22,La Seiva,Oropouche,Pore-DAB*312,Pore-DAB*338,,,,,,,,10,4,,,,,,,,2,2
+LS23,La Seiva,Oropouche,Pore-DAB*434,Pore-DAB*210,Pore-DAB*336,Pore-DAB*203,,,,,,14,12,2,15,,,,,,4,4
+LS24,La Seiva,Oropouche,Pore-DAB*208,Pore-DAB*353,,,,,,,,4,10,,,,,,,,2,2
+LS25,La Seiva,Oropouche,Pore-DAB*216,Pore-DAB*120,Pore-DAB*344,Pore-DAB*250,,,,,,11,8,14,3,,,,,,4,4
+LS26,La Seiva,Oropouche,Pore-DAB*208,Pore-DAB*384,,,,,,,,4,12,,,,,,,,2,2
+LS27,La Seiva,Oropouche,Pore-DAB*345,Pore-DAB*301,,,,,,,,14,8,,,,,,,,2,2
+LS3,La Seiva,Oropouche,Pore-DAB*312,Pore-DAB*435,Pore-DAB*373,Pore-DAB*335,,,,,,10,14,9,9,,,,,,4,3
+LS4,La Seiva,Oropouche,Pore-DAB*216,Pore-DAB*120,Pore-DAB*385,Pore-DAB*103,Pore-DAB*335,,,,,11,8,12,9,9,,,,,5,4
+LS5,La Seiva,Oropouche,Pore-DAB*434,,,,,,,,,14,,,,,,,,,1,1
+LS7,La Seiva,Oropouche,Pore-DAB*221,Pore-DAB*208,,,,,,,,10,4,,,,,,,,2,2
+LS8,La Seiva,Oropouche,Pore-DAB*221,Pore-DAB*322,Pore-DAB*271,,,,,,,10,3,9,,,,,,,3,3
+LS9,La Seiva,Oropouche,Pore-DAB*355,Pore-DAB*338,Pore-DAB*208,,,,,,,11,4,4,,,,,,,3,2
+Matura-p1_4F,Matura,NE,Pore-DAB*662,Pore-DAB*704,Pore-DAB*206,,,,,,,14,13,9,,,,,,,3,3
+Matura-p1_4H,Matura,NE,Pore-DAB*734,Pore-DAB*206,Pore-DAB*744,,,,,,,14,9,13,,,,,,,3,3
+Matura-p1_5A,Matura,NE,Pore-DAB*704,Pore-DAB*695,Pore-DAB*206,Pore-DAB*103,,,,,,13,13,9,9,,,,,,4,2
+Matura-p1_5B,Matura,NE,Pore-DAB*707,Pore-DAB*206,,,,,,,,14,9,,,,,,,,2,2
+Matura-p1_5C,Matura,NE,Pore-DAB*749,Pore-DAB*103,,,,,,,,12,9,,,,,,,,2,2
+Matura-p1_5D,Matura,NE,Pore-DAB*692,Pore-DAB*731,Pore-DAB*206,Pore-DAB*371,,,,,,13,13,9,9,,,,,,4,2
+Matura-p1_5E,Matura,NE,Pore-DAB*707,Pore-DAB*694,Pore-DAB*206,,,,,,,14,13,9,,,,,,,3,3
+Matura-p1_5F,Matura,NE,Pore-DAB*693,Pore-DAB*744,Pore-DAB*371,Pore-DAB*103,,,,,,13,13,9,9,,,,,,4,2
+Matura-p1_5G,Matura,NE,Pore-DAB*749,Pore-DAB*271,Pore-DAB*206,Pore-DAB*539,,,,,,12,9,9,13,,,,,,4,3
+Matura-p1_5H,Matura,NE,Pore-DAB*690,Pore-DAB*206,Pore-DAB*271,Pore-DAB*744,,,,,,13,9,9,13,,,,,,4,2
+Matura-p1_6A,Matura,NE,Pore-DAB*741,Pore-DAB*733,Pore-DAB*206,Pore-DAB*103,,,,,,12,13,9,9,,,,,,4,3
+Matura-p1_6B,Matura,NE,Pore-DAB*749,Pore-DAB*691,Pore-DAB*371,Pore-DAB*103,,,,,,12,13,9,9,,,,,,4,3
+Matura-p1_6C,Matura,NE,Pore-DAB*662,Pore-DAB*690,Pore-DAB*206,Pore-DAB*371,,,,,,14,13,9,9,,,,,,4,3
+Matura-p1_6D,Matura,NE,Pore-DAB*778,Pore-DAB*206,Pore-DAB*728,,,,,,,15,9,13,,,,,,,3,3
+Matura-p1_6E,Matura,NE,Pore-DAB*749,Pore-DAB*691,Pore-DAB*271,Pore-DAB*206,,,,,,12,13,9,9,,,,,,4,3
+Matura-p1_6F,Matura,NE,Pore-DAB*734,Pore-DAB*706,Pore-DAB*371,,,,,,,14,13,9,,,,,,,3,3
+Matura-p1_6G,Matura,NE,Pore-DAB*692,Pore-DAB*271,,,,,,,,13,9,,,,,,,,2,2
+Matura-p1_6H,Matura,NE,Pore-DAB*748,Pore-DAB*690,Pore-DAB*103,,,,,,,12,13,9,,,,,,,3,3
+Matura-p1_7A,Matura,NE,Pore-DAB*707,Pore-DAB*206,Pore-DAB*692,,,,,,,14,9,13,,,,,,,3,3
+Matura-p1_7B,Matura,NE,Pore-DAB*662,Pore-DAB*744,Pore-DAB*103,,,,,,,14,13,9,,,,,,,3,3
+Matura-p1_7C,Matura,NE,Pore-DAB*783,Pore-DAB*206,Pore-DAB*780,,,,,,,6,9,13,,,,,,,3,3
+Matura-p1_7D,Matura,NE,Pore-DAB*749,Pore-DAB*692,Pore-DAB*271,,,,,,,12,13,9,,,,,,,3,3
+Matura-p1_7E,Matura,NE,Pore-DAB*330,Pore-DAB*690,Pore-DAB*206,,,,,,,3,13,9,,,,,,,3,3
+Matura-p1_7F,Matura,NE,Pore-DAB*707,Pore-DAB*302,Pore-DAB*206,Pore-DAB*371,,,,,,14,14,9,9,,,,,,4,2
+Matura-p1_7G,Matura,NE,Pore-DAB*778,Pore-DAB*714,Pore-DAB*728,Pore-DAB*103,Pore-DAB*371,,,,,15,14,13,9,9,,,,,5,4
+Matura-p1_7H,Matura,NE,Pore-DAB*749,Pore-DAB*705,Pore-DAB*271,Pore-DAB*371,,,,,,12,13,9,9,,,,,,4,3
+Matura-p1_8A,Matura,NE,Pore-DAB*749,Pore-DAB*206,Pore-DAB*744,,,,,,,12,9,13,,,,,,,3,3
+Matura-p1_8B,Matura,NE,Pore-DAB*749,Pore-DAB*206,Pore-DAB*744,,,,,,,12,9,13,,,,,,,3,3
+Matura-p1_8C,Matura,NE,Pore-DAB*749,Pore-DAB*783,Pore-DAB*271,Pore-DAB*206,,,,,,12,6,9,9,,,,,,4,3
+Faecal Dump Road-p1_12D,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*740,Pore-DAB*660,Pore-DAB*788,,,,,,11,10,15,9,,,,,,4,4
+Faecal Dump Road-p1_12E,Faecal Dump Road,SE,Pore-DAB*757,Pore-DAB*104,Pore-DAB*371,,,,,,,6,9,9,,,,,,,3,2
+Faecal Dump Road-p1_12F,Faecal Dump Road,SE,Pore-DAB*740,Pore-DAB*356,Pore-DAB*660,Pore-DAB*276,,,,,,10,11,15,9,,,,,,4,4
+Faecal Dump Road-p1_12G,Faecal Dump Road,SE,Pore-DAB*356,Pore-DAB*649,Pore-DAB*757,Pore-DAB*788,,,,,,11,8,6,9,,,,,,4,4
+Faecal Dump Road-p1_12H,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*356,Pore-DAB*650,Pore-DAB*785,Pore-DAB*276,,,,,11,11,8,13,9,,,,,5,4
+Faecal Dump Road-p2_1A,Faecal Dump Road,SE,Pore-DAB*740,Pore-DAB*751,Pore-DAB*660,,,,,,,10,11,15,,,,,,,3,3
+Faecal Dump Road-p2_1B,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*664,Pore-DAB*276,,,,,,,11,4,9,,,,,,,3,3
+Faecal Dump Road-p2_1C,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*356,Pore-DAB*675,Pore-DAB*789,Pore-DAB*788,,,,,11,11,1,9,9,,,,,5,3
+Faecal Dump Road-p2_1D,Faecal Dump Road,SE,Pore-DAB*356,Pore-DAB*751,Pore-DAB*650,Pore-DAB*785,Pore-DAB*276,,,,,11,11,8,13,9,,,,,5,4
+Faecal Dump Road-p2_1E,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*664,Pore-DAB*791,Pore-DAB*276,Pore-DAB*806,Pore-DAB*805,,,,11,4,9,9,2,6,,,,6,5
+Faecal Dump Road-p2_1F,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*650,Pore-DAB*276,,,,,,,11,8,9,,,,,,,3,3
+Faecal Dump Road-p2_1G,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*649,Pore-DAB*256,,,,,,,11,8,9,,,,,,,3,3
+Faecal Dump Road-p2_1H,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*103,,,,,,,,11,9,,,,,,,,2,2
+Faecal Dump Road-p2_2A,Faecal Dump Road,SE,Pore-DAB*650,Pore-DAB*356,Pore-DAB*757,Pore-DAB*276,,,,,,8,11,6,9,,,,,,4,4
+Faecal Dump Road-p2_2C,Faecal Dump Road,SE,Pore-DAB*752,Pore-DAB*356,Pore-DAB*711,Pore-DAB*276,,,,,,11,11,6,9,,,,,,4,3
+Faecal Dump Road-p2_2D,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*652,Pore-DAB*271,Pore-DAB*788,,,,,,11,8,9,9,,,,,,4,3
+Faecal Dump Road-p2_2E,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*649,Pore-DAB*276,,,,,,,11,8,9,,,,,,,3,3
+Faecal Dump Road-p2_2F,Faecal Dump Road,SE,Pore-DAB*768,Pore-DAB*751,Pore-DAB*276,,,,,,,10,11,9,,,,,,,3,3
+Faecal Dump Road-p2_2H,Faecal Dump Road,SE,Pore-DAB*735,Pore-DAB*773,Pore-DAB*276,,,,,,,8,12,9,,,,,,,3,3
+Faecal Dump Road-p2_3A,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*650,Pore-DAB*276,Pore-DAB*103,,,,,,11,8,9,9,,,,,,4,3
+Faecal Dump Road-p2_3B,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*753,Pore-DAB*788,Pore-DAB*791,,,,,,11,13,9,9,,,,,,4,3
+Faecal Dump Road-p2_3D,Faecal Dump Road,SE,Pore-DAB*753,Pore-DAB*104,Pore-DAB*276,Pore-DAB*675,,,,,,13,9,9,1,,,,,,4,3
+Faecal Dump Road-p2_3E,Faecal Dump Road,SE,Pore-DAB*771,Pore-DAB*757,Pore-DAB*256,,,,,,,12,6,9,,,,,,,3,3
+Faecal Dump Road-p2_3F,Faecal Dump Road,SE,Pore-DAB*739,Pore-DAB*772,Pore-DAB*697,Pore-DAB*276,,,,,,10,12,15,9,,,,,,4,4
+Faecal Dump Road-p2_3G,Faecal Dump Road,SE,Pore-DAB*770,Pore-DAB*747,,,,,,,,12,12,,,,,,,,2,1
+Faecal Dump Road-p2_3H,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*757,Pore-DAB*788,Pore-DAB*103,,,,,,11,6,9,9,,,,,,4,3
+Faecal Dump Road-p2_4A,Faecal Dump Road,SE,Pore-DAB*777,Pore-DAB*747,Pore-DAB*788,,,,,,,15,12,9,,,,,,,3,3
+Faecal Dump Road-p2_4B,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*757,Pore-DAB*271,,,,,,,11,6,9,,,,,,,3,3
+Faecal Dump Road-p2_4C,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*665,Pore-DAB*104,Pore-DAB*276,,,,,,11,15,9,9,,,,,,4,3
+Faecal Dump Road-p2_4D,Faecal Dump Road,SE,Pore-DAB*751,Pore-DAB*757,Pore-DAB*788,,,,,,,11,6,9,,,,,,,3,3
+Poole River-p2_4E,Poole River,SE,Pore-DAB*751,Pore-DAB*651,Pore-DAB*276,Pore-DAB*788,,,,,,11,8,9,9,,,,,,4,3
+Poole River-p2_4F,Poole River,SE,Pore-DAB*735,Pore-DAB*773,Pore-DAB*103,Pore-DAB*276,,,,,,8,12,9,9,,,,,,4,3
+Poole River-p2_4G,Poole River,SE,Pore-DAB*740,Pore-DAB*665,Pore-DAB*660,,,,,,,10,15,15,,,,,,,3,2
+Poole River-p2_4H,Poole River,SE,Pore-DAB*762,Pore-DAB*766,Pore-DAB*736,Pore-DAB*256,,,,,,10,2,3,9,,,,,,4,4
+Poole River-p2_5A,Poole River,SE,Pore-DAB*750,Pore-DAB*679,Pore-DAB*796,Pore-DAB*371,,,,,,11,14,9,9,,,,,,4,3
+"Guayguayare Rd, pond-p3_6C","Guayguayare Rd, pond",SE,Pore-DAB*329,Pore-DAB*381,Pore-DAB*776,Pore-DAB*796,Pore-DAB*206,,,,,12,11,14,9,9,,,,,5,4
+"Guayguayare Rd, pond-p3_6D","Guayguayare Rd, pond",SE,Pore-DAB*796,Pore-DAB*686,Pore-DAB*774,,,,,,,9,1,6,,,,,,,3,3
+"Guayguayare Rd, pond-p3_6E","Guayguayare Rd, pond",SE,Pore-DAB*356,Pore-DAB*685,Pore-DAB*381,Pore-DAB*702,Pore-DAB*655,Pore-DAB*796,Pore-DAB*794,,,11,12,11,5,3,9,9,,,7,5
+"Guayguayare Rd, pond-p3_6F","Guayguayare Rd, pond",SE,Pore-DAB*658,Pore-DAB*656,Pore-DAB*271,Pore-DAB*794,,,,,,4,3,9,9,,,,,,4,3
+"Guayguayare Rd, pond-p3_6G","Guayguayare Rd, pond",SE,Pore-DAB*381,Pore-DAB*329,Pore-DAB*658,Pore-DAB*206,Pore-DAB*103,,,,,11,12,4,9,9,,,,,5,4
+"Guayguayare Rd, pond-p3_6H","Guayguayare Rd, pond",SE,Pore-DAB*779,Pore-DAB*702,Pore-DAB*655,Pore-DAB*103,,,,,,4,5,3,9,,,,,,4,4
+"Guayguayare Rd, pond-p3_7A","Guayguayare Rd, pond",SE,Pore-DAB*776,Pore-DAB*329,Pore-DAB*685,Pore-DAB*381,Pore-DAB*796,Pore-DAB*794,,,,14,12,12,11,9,9,,,,6,4
+"Guayguayare Rd, pond-p3_7B","Guayguayare Rd, pond",SE,Pore-DAB*329,Pore-DAB*742,Pore-DAB*732,Pore-DAB*381,Pore-DAB*794,,,,,12,11,15,11,9,,,,,5,4
+"Guayguayare Rd, pond-p3_7C","Guayguayare Rd, pond",SE,Pore-DAB*329,Pore-DAB*381,Pore-DAB*655,Pore-DAB*702,Pore-DAB*276,,,,,12,11,3,5,9,,,,,5,5
+"Guayguayare Rd, pond-p3_7D","Guayguayare Rd, pond",SE,Pore-DAB*356,Pore-DAB*329,Pore-DAB*776,Pore-DAB*702,Pore-DAB*655,Pore-DAB*276,,,,11,12,14,5,3,9,,,,6,6
+"Guayguayare Rd, pond-p3_7E","Guayguayare Rd, pond",SE,Pore-DAB*758,Pore-DAB*774,Pore-DAB*787,Pore-DAB*103,,,,,,11,6,9,9,,,,,,4,3
+"Guayguayare Rd, pond-p3_7F","Guayguayare Rd, pond",SE,Pore-DAB*682,Pore-DAB*702,Pore-DAB*655,Pore-DAB*104,,,,,,14,5,3,9,,,,,,4,4
+"Guayguayare Rd, pond-p3_7G","Guayguayare Rd, pond",SE,Pore-DAB*658,Pore-DAB*276,Pore-DAB*103,Pore-DAB*801,,,,,,4,9,9,3,,,,,,4,3
+"Guayguayare Rd, pond-p3_7H","Guayguayare Rd, pond",SE,Pore-DAB*356,Pore-DAB*776,Pore-DAB*329,Pore-DAB*702,Pore-DAB*655,Pore-DAB*206,Pore-DAB*796,,,11,14,12,5,3,9,9,,,7,6
+"Guayguayare Rd, pond-p3_8A","Guayguayare Rd, pond",SE,Pore-DAB*774,Pore-DAB*271,Pore-DAB*103,,,,,,,6,9,9,,,,,,,3,2
+"Guayguayare Rd, pond-p3_8B","Guayguayare Rd, pond",SE,Pore-DAB*655,Pore-DAB*702,Pore-DAB*206,Pore-DAB*103,,,,,,3,5,9,9,,,,,,4,3
+"Guayguayare Rd, pond-p3_8C","Guayguayare Rd, pond",SE,Pore-DAB*120,Pore-DAB*216,Pore-DAB*329,Pore-DAB*356,,,,,,8,11,12,11,,,,,,4,3
+"Guayguayare Rd, pond-p3_8D","Guayguayare Rd, pond",SE,Pore-DAB*685,Pore-DAB*381,Pore-DAB*686,Pore-DAB*103,Pore-DAB*796,,,,,12,11,1,9,9,,,,,5,4
+"Guayguayare Rd, pond-p3_8E","Guayguayare Rd, pond",SE,Pore-DAB*381,Pore-DAB*329,Pore-DAB*659,Pore-DAB*685,Pore-DAB*794,Pore-DAB*796,,,,11,12,4,12,9,9,,,,6,4
+"Guayguayare Rd, pond-p3_8F","Guayguayare Rd, pond",SE,Pore-DAB*742,Pore-DAB*732,Pore-DAB*774,Pore-DAB*787,Pore-DAB*206,,,,,11,15,6,9,9,,,,,5,4
+"Guayguayare Rd, pond-p3_8G","Guayguayare Rd, pond",SE,Pore-DAB*356,Pore-DAB*776,Pore-DAB*754,Pore-DAB*329,Pore-DAB*206,Pore-DAB*103,,,,11,14,8,12,9,9,,,,6,5
+"Guayguayare Rd, pond-p3_8H","Guayguayare Rd, pond",SE,Pore-DAB*729,Pore-DAB*686,,,,,,,,10,1,,,,,,,,2,2
+"Guayguayare Rd, pond-p3_9A","Guayguayare Rd, pond",SE,Pore-DAB*356,Pore-DAB*781,Pore-DAB*774,Pore-DAB*271,Pore-DAB*206,,,,,11,6,6,9,9,,,,,5,3
+"Guayguayare Rd, pond-p3_9B","Guayguayare Rd, pond",SE,Pore-DAB*776,Pore-DAB*685,Pore-DAB*356,Pore-DAB*381,Pore-DAB*271,Pore-DAB*276,,,,14,12,11,11,9,9,,,,6,4
+"Guayguayare Rd, pond-p3_9C","Guayguayare Rd, pond",SE,Pore-DAB*356,Pore-DAB*765,Pore-DAB*329,Pore-DAB*659,Pore-DAB*206,Pore-DAB*276,,,,11,5,12,4,9,9,,,,6,5
+"Guayguayare Rd, pond-p3_9D","Guayguayare Rd, pond",SE,Pore-DAB*685,Pore-DAB*381,Pore-DAB*689,Pore-DAB*654,Pore-DAB*796,Pore-DAB*103,,,,12,11,10,2,9,9,,,,6,5
+"Guayguayare Rd, pond-p3_9E","Guayguayare Rd, pond",SE,Pore-DAB*686,Pore-DAB*103,,,,,,,,1,9,,,,,,,,2,2
+"Guayguayare Rd, pond-p3_9F","Guayguayare Rd, pond",SE,Pore-DAB*765,Pore-DAB*329,Pore-DAB*381,Pore-DAB*796,,,,,,5,12,11,9,,,,,,4,4
+Brasse Terre-p2_10H,Basse Terre,SE,Pore-DAB*666,Pore-DAB*421,,,,,,,,4,6,,,,,,,,2,2
+Brasse Terre-p2_11A,Basse Terre,SE,Pore-DAB*666,,,,,,,,,4,,,,,,,,,1,1
+Brasse Terre-p2_11B,Basse Terre,SE,Pore-DAB*803,Pore-DAB*676,,,,,,,,12,7,,,,,,,,2,2
+Brasse Terre-p2_11C,Basse Terre,SE,Pore-DAB*717,Pore-DAB*683,,,,,,,,14,12,,,,,,,,2,2
+Brasse Terre-p2_11D,Basse Terre,SE,Pore-DAB*421,Pore-DAB*684,,,,,,,,6,12,,,,,,,,2,2
+Brasse Terre-p2_11E,Basse Terre,SE,Pore-DAB*806,Pore-DAB*421,,,,,,,,2,6,,,,,,,,2,2
+Brasse Terre-p2_11F,Basse Terre,SE,Pore-DAB*805,Pore-DAB*803,,,,,,,,6,12,,,,,,,,2,2
+Brasse Terre-p2_11G,Basse Terre,SE,Pore-DAB*666,Pore-DAB*717,,,,,,,,4,14,,,,,,,,2,2
+Brasse Terre-p2_11H,Basse Terre,SE,Pore-DAB*805,Pore-DAB*371,Pore-DAB*806,,,,,,,6,9,2,,,,,,,3,3
+Brasse Terre-p2_12A,Basse Terre,SE,Pore-DAB*806,Pore-DAB*421,,,,,,,,2,6,,,,,,,,2,2
+Brasse Terre-p2_12B,Basse Terre,SE,Pore-DAB*769,,,,,,,,,2,,,,,,,,,1,1
+Brasse Terre-p2_12C,Basse Terre,SE,Pore-DAB*421,,,,,,,,,6,,,,,,,,,1,1
+Brasse Terre-p2_12D,Basse Terre,SE,Pore-DAB*806,Pore-DAB*720,,,,,,,,2,6,,,,,,,,2,2
+Brasse Terre-p2_12E,Basse Terre,SE,Pore-DAB*803,Pore-DAB*421,,,,,,,,12,6,,,,,,,,2,2
+Brasse Terre-p2_12F,Basse Terre,SE,Pore-DAB*421,,,,,,,,,6,,,,,,,,,1,1
+Brasse Terre-p2_12G,Basse Terre,SE,Pore-DAB*803,Pore-DAB*769,,,,,,,,12,2,,,,,,,,2,2
+Brasse Terre-p2_12H,Basse Terre,SE,Pore-DAB*806,Pore-DAB*717,,,,,,,,2,14,,,,,,,,2,2
+Brasse Terre-p3_1A,Basse Terre,SE,Pore-DAB*755,Pore-DAB*666,Pore-DAB*782,,,,,,,1,4,6,,,,,,,3,3
+Brasse Terre-p3_1B,Basse Terre,SE,Pore-DAB*803,Pore-DAB*676,,,,,,,,12,7,,,,,,,,2,2
+Brasse Terre-p3_1C,Basse Terre,SE,Pore-DAB*803,Pore-DAB*421,,,,,,,,12,6,,,,,,,,2,2
+Brasse Terre-p3_1D,Basse Terre,SE,Pore-DAB*676,,,,,,,,,7,,,,,,,,,1,1
+Brasse Terre-p3_1E,Basse Terre,SE,Pore-DAB*805,Pore-DAB*756,,,,,,,,6,6,,,,,,,,2,1
+Brasse Terre-p3_1F,Basse Terre,SE,Pore-DAB*806,Pore-DAB*676,,,,,,,,2,7,,,,,,,,2,2
+Brasse Terre-p3_1G,Basse Terre,SE,Pore-DAB*805,Pore-DAB*806,,,,,,,,6,2,,,,,,,,2,2
+Brasse Terre-p3_2A,Basse Terre,SE,Pore-DAB*666,Pore-DAB*130,,,,,,,,4,13,,,,,,,,2,2
+Brasse Terre-p3_2B,Basse Terre,SE,Pore-DAB*676,Pore-DAB*421,,,,,,,,7,6,,,,,,,,2,2
+Brasse Terre-p3_2C,Basse Terre,SE,Pore-DAB*806,,,,,,,,,2,,,,,,,,,1,1
+Brasse Terre-p3_2D,Basse Terre,SE,Pore-DAB*806,Pore-DAB*676,,,,,,,,2,7,,,,,,,,2,2
+Brasse Terre-p3_2E,Basse Terre,SE,Pore-DAB*421,,,,,,,,,6,,,,,,,,,1,1
+Oropuche South-p2_10A,Oropuche South,SE,Pore-DAB*709,Pore-DAB*701,Pore-DAB*371,Pore-DAB*795,,,,,,10,13,9,9,,,,,,4,3
+Oropuche South-p2_10B,Oropuche South,SE,Pore-DAB*710,Pore-DAB*745,Pore-DAB*759,Pore-DAB*796,Pore-DAB*271,,,,,6,2,6,9,9,,,,,5,3
+Oropuche South-p2_10C,Oropuche South,SE,Pore-DAB*674,Pore-DAB*718,Pore-DAB*318,,,,,,,14,14,9,,,,,,,3,2
+Oropuche South-p2_10D,Oropuche South,SE,Pore-DAB*681,Pore-DAB*657,Pore-DAB*271,Pore-DAB*371,,,,,,6,3,9,9,,,,,,4,3
+Oropuche South-p2_10E,Oropuche South,SE,Pore-DAB*661,Pore-DAB*358,Pore-DAB*727,Pore-DAB*794,Pore-DAB*103,,,,,14,15,3,9,9,,,,,5,4
+Oropuche South-p2_10F,Oropuche South,SE,Pore-DAB*738,Pore-DAB*746,Pore-DAB*318,Pore-DAB*797,,,,,,3,2,9,9,,,,,,4,3
+Oropuche South-p2_10G,Oropuche South,SE,Pore-DAB*726,Pore-DAB*681,Pore-DAB*792,Pore-DAB*371,,,,,,3,6,9,9,,,,,,4,3
+Oropuche South-p2_7D,Oropuche South,SE,Pore-DAB*672,Pore-DAB*746,Pore-DAB*794,,,,,,,14,2,9,,,,,,,3,3
+Oropuche South-p2_7E,Oropuche South,SE,Pore-DAB*755,Pore-DAB*671,Pore-DAB*782,Pore-DAB*797,,,,,,1,14,6,9,,,,,,4,4
+Oropuche South-p2_7F,Oropuche South,SE,Pore-DAB*755,Pore-DAB*671,Pore-DAB*782,Pore-DAB*797,Pore-DAB*371,,,,,1,14,6,9,9,,,,,5,4
+Oropuche South-p2_7G,Oropuche South,SE,Pore-DAB*755,Pore-DAB*671,Pore-DAB*782,Pore-DAB*797,,,,,,1,14,6,9,,,,,,4,4
+Oropuche South-p2_7H,Oropuche South,SE,Pore-DAB*755,Pore-DAB*671,Pore-DAB*782,Pore-DAB*797,,,,,,1,14,6,9,,,,,,4,4
+Oropuche South-p2_8A,Oropuche South,SE,Pore-DAB*701,Pore-DAB*710,Pore-DAB*722,Pore-DAB*794,Pore-DAB*276,,,,,13,6,11,9,9,,,,,5,4
+Oropuche South-p2_8B,Oropuche South,SE,Pore-DAB*749,Pore-DAB*669,Pore-DAB*727,Pore-DAB*271,Pore-DAB*793,,,,,12,14,3,9,9,,,,,5,4
+Oropuche South-p2_8C,Oropuche South,SE,Pore-DAB*673,Pore-DAB*670,Pore-DAB*790,Pore-DAB*318,,,,,,14,7,9,9,,,,,,4,3
+Oropuche South-p2_8D,Oropuche South,SE,Pore-DAB*765,Pore-DAB*677,Pore-DAB*371,,,,,,,5,6,9,,,,,,,3,3
+Oropuche South-p2_8E,Oropuche South,SE,Pore-DAB*717,Pore-DAB*712,Pore-DAB*276,Pore-DAB*794,,,,,,14,2,9,9,,,,,,4,3
+Oropuche South-p2_8H,Oropuche South,SE,Pore-DAB*673,Pore-DAB*712,Pore-DAB*318,Pore-DAB*794,,,,,,14,2,9,9,,,,,,4,3
+Oropuche South-p2_9A,Oropuche South,SE,Pore-DAB*667,Pore-DAB*712,,,,,,,,4,2,,,,,,,,2,2
+Oropuche South-p2_9B,Oropuche South,SE,Pore-DAB*755,Pore-DAB*318,Pore-DAB*802,Pore-DAB*782,,,,,,1,9,8,6,,,,,,4,4
+Oropuche South-p2_9C,Oropuche South,SE,Pore-DAB*718,Pore-DAB*738,Pore-DAB*276,,,,,,,14,3,9,,,,,,,3,3
+Oropuche South-p2_9D,Oropuche South,SE,Pore-DAB*749,Pore-DAB*669,Pore-DAB*775,Pore-DAB*271,Pore-DAB*794,,,,,12,14,6,9,9,,,,,5,4
+Oropuche South-p2_9E,Oropuche South,SE,Pore-DAB*673,Pore-DAB*737,Pore-DAB*669,Pore-DAB*318,Pore-DAB*796,,,,,14,3,14,9,9,,,,,5,3
+Oropuche South-p2_9F,Oropuche South,SE,Pore-DAB*767,Pore-DAB*719,Pore-DAB*702,Pore-DAB*807,Pore-DAB*797,,,,,2,6,5,12,9,,,,,5,5
+Oropuche South-p2_9G,Oropuche South,SE,Pore-DAB*743,Pore-DAB*678,,,,,,,,2,6,,,,,,,,2,2
+Oropuche South-p2_9H,Oropuche South,SE,Pore-DAB*363,Pore-DAB*761,Pore-DAB*702,,,,,,,2,7,5,,,,,,,3,3
+5th Company-p2_5F,5th Company,SE,Pore-DAB*672,Pore-DAB*363,Pore-DAB*702,Pore-DAB*807,,,,,,14,2,5,12,,,,,,4,4
+5th Company-p2_5H,5th Company,SE,Pore-DAB*713,Pore-DAB*668,Pore-DAB*318,Pore-DAB*688,Pore-DAB*355,,,,,10,4,9,3,11,,,,,5,5
+5th Company-p2_6A,5th Company,SE,Pore-DAB*354,Pore-DAB*674,Pore-DAB*358,Pore-DAB*795,,,,,,14,14,15,9,,,,,,4,3
+5th Company-p2_6B,5th Company,SE,Pore-DAB*363,Pore-DAB*761,Pore-DAB*702,Pore-DAB*355,,,,,,2,7,5,11,,,,,,4,4
+5th Company-p2_6C,5th Company,SE,Pore-DAB*354,Pore-DAB*680,Pore-DAB*358,Pore-DAB*318,,,,,,14,15,15,9,,,,,,4,3
+5th Company-p2_6D,5th Company,SE,Pore-DAB*354,Pore-DAB*358,Pore-DAB*668,Pore-DAB*318,,,,,,14,15,4,9,,,,,,4,4
+5th Company-p2_6E,5th Company,SE,Pore-DAB*784,Pore-DAB*605,,,,,,,,14,1,,,,,,,,2,2
+5th Company-p2_6G,5th Company,SE,Pore-DAB*784,Pore-DAB*717,Pore-DAB*371,,,,,,,14,14,9,,,,,,,3,2
+5th Company-p2_7A,5th Company,SE,Pore-DAB*605,Pore-DAB*727,Pore-DAB*371,Pore-DAB*795,,,,,,1,3,9,9,,,,,,4,3
+5th Company-p2_7B,5th Company,SE,Pore-DAB*709,Pore-DAB*363,Pore-DAB*702,,,,,,,10,2,5,,,,,,,3,3
+G101777,Mondesir,SW,Pore-DAB*553,Pore-DAB*836,Pore-DAB*643,,,,,,,7,10,9,,,,,,,3,3
+G101778,Mondesir,SW,Pore-DAB*608,Pore-DAB*553,Pore-DAB*636,,,,,,,1,7,9,,,,,,,3,3
+G101781,Mondesir,SW,Pore-DAB*553,Pore-DAB*256,Pore-DAB*271,,,,,,,7,9,9,,,,,,,3,2
+G101782,Mondesir,SW,Pore-DAB*535,Pore-DAB*553,Pore-DAB*371,,,,,,,10,7,9,,,,,,,3,3
+G101783,Mondesir,SW,Pore-DAB*130,Pore-DAB*553,Pore-DAB*104,,,,,,,13,7,9,,,,,,,3,3
+G101784,Mondesir,SW,Pore-DAB*817,Pore-DAB*628,Pore-DAB*553,Pore-DAB*276,,,,,,9,6,7,9,,,,,,4,3
+G101785,Mondesir,SW,Pore-DAB*355,Pore-DAB*848,Pore-DAB*271,Pore-DAB*256,,,,,,11,10,9,9,,,,,,4,3
+G101786,Mondesir,SW,Pore-DAB*628,Pore-DAB*553,Pore-DAB*646,,,,,,,6,7,9,,,,,,,3,3
+G101787,Mondesir,SW,Pore-DAB*849,Pore-DAB*556,Pore-DAB*271,,,,,,,10,7,9,,,,,,,3,3
+G101794,Mondesir,SW,Pore-DAB*355,Pore-DAB*636,Pore-DAB*628,,,,,,,11,9,6,,,,,,,3,3
+G101795,Mondesir,SW,Pore-DAB*130,Pore-DAB*628,Pore-DAB*636,,,,,,,13,6,9,,,,,,,3,3
+G101800,Mondesir,SW,Pore-DAB*553,Pore-DAB*802,Pore-DAB*206,Pore-DAB*646,,,,,,7,8,9,9,,,,,,4,3
+G101802,Mondesir,SW,Pore-DAB*628,Pore-DAB*256,,,,,,,,6,9,,,,,,,,2,2
+G101803,Mondesir,SW,Pore-DAB*844,Pore-DAB*553,,,,,,,,10,7,,,,,,,,2,2
+G101738,Silver Stream,SW,Pore-DAB*355,Pore-DAB*368,Pore-DAB*842,,,,,,,11,15,6,,,,,,,3,3
+G101744,Silver Stream,SW,Pore-DAB*608,Pore-DAB*628,,,,,,,,1,6,,,,,,,,2,2
+G101759,Silver Stream,SW,Pore-DAB*628,Pore-DAB*553,Pore-DAB*643,Pore-DAB*206,,,,,,6,7,9,9,,,,,,4,3
+G101767,Silver Stream,SW,Pore-DAB*355,Pore-DAB*608,,,,,,,,11,1,,,,,,,,2,2
+G110049,Morne River,SW,Pore-DAB*849,Pore-DAB*553,Pore-DAB*817,,,,,,,10,7,9,,,,,,,3,3
+G110090,Morne River,SW,Pore-DAB*553,Pore-DAB*556,,,,,,,,7,7,,,,,,,,2,1
+G110091,Morne River,SW,Pore-DAB*553,Pore-DAB*355,Pore-DAB*636,,,,,,,7,11,9,,,,,,,3,3
+G110092,Morne River,SW,Pore-DAB*628,Pore-DAB*629,Pore-DAB*256,Pore-DAB*636,,,,,,6,14,9,9,,,,,,4,3
+G110093,Morne River,SW,Pore-DAB*355,Pore-DAB*553,Pore-DAB*256,Pore-DAB*850,,,,,,11,7,9,13,,,,,,4,4
+G110095,Morne River,SW,Pore-DAB*608,Pore-DAB*535,Pore-DAB*256,Pore-DAB*371,,,,,,1,10,9,9,,,,,,4,3
+G110096,Morne River,SW,Pore-DAB*355,Pore-DAB*604,Pore-DAB*628,Pore-DAB*272,,,,,,11,10,6,12,,,,,,4,4
+G110097,Morne River,SW,Pore-DAB*355,Pore-DAB*604,Pore-DAB*540,Pore-DAB*272,Pore-DAB*644,,,,,11,10,13,12,9,,,,,5,5
+G110098,Morne River,SW,Pore-DAB*457,Pore-DAB*540,Pore-DAB*256,,,,,,,1,13,9,,,,,,,3,3
+G110102,Morne River,SW,Pore-DAB*355,Pore-DAB*553,Pore-DAB*628,Pore-DAB*206,,,,,,11,7,6,9,,,,,,4,4
+G110103,Morne River,SW,Pore-DAB*604,Pore-DAB*272,Pore-DAB*628,Pore-DAB*643,,,,,,10,12,6,9,,,,,,4,4
+G110104,Morne River,SW,Pore-DAB*553,Pore-DAB*604,Pore-DAB*272,Pore-DAB*256,Pore-DAB*636,,,,,7,10,12,9,9,,,,,5,4
+G110110,Morne River,SW,Pore-DAB*355,Pore-DAB*555,Pore-DAB*604,Pore-DAB*272,,,,,,11,14,10,12,,,,,,4,4
+G110111,Morne River,SW,Pore-DAB*553,Pore-DAB*628,Pore-DAB*256,Pore-DAB*636,,,,,,7,6,9,9,,,,,,4,3
+G110113,Morne River,SW,Pore-DAB*553,Pore-DAB*371,,,,,,,,7,9,,,,,,,,2,2
+G110114,Morne River,SW,Pore-DAB*272,Pore-DAB*604,Pore-DAB*535,Pore-DAB*646,Pore-DAB*371,,,,,12,10,10,9,9,,,,,5,3
+G110115,Morne River,SW,Pore-DAB*627,Pore-DAB*553,Pore-DAB*206,Pore-DAB*256,,,,,,6,7,9,9,,,,,,4,3
+G110117,Morne River,SW,Pore-DAB*355,Pore-DAB*381,Pore-DAB*532,Pore-DAB*256,,,,,,11,11,12,9,,,,,,4,3
+G110118,Morne River,SW,Pore-DAB*608,Pore-DAB*628,,,,,,,,1,6,,,,,,,,2,2
+G110119,Morne River,SW,Pore-DAB*355,Pore-DAB*271,Pore-DAB*553,,,,,,,11,9,7,,,,,,,3,3
+G110120,Morne River,SW,Pore-DAB*553,Pore-DAB*256,,,,,,,,7,9,,,,,,,,2,2
+G110121,Morne River,SW,Pore-DAB*535,Pore-DAB*130,,,,,,,,10,13,,,,,,,,2,2
+G110122,Morne River,SW,Pore-DAB*355,Pore-DAB*381,Pore-DAB*608,Pore-DAB*532,Pore-DAB*643,,,,,11,11,1,12,9,,,,,5,4
+G110337,Morne River,SW,Pore-DAB*830,Pore-DAB*615,Pore-DAB*639,,,,,,,7,12,9,,,,,,,3,3
+G110338,Morne River,SW,Pore-DAB*552,Pore-DAB*619,Pore-DAB*635,Pore-DAB*103,,,,,,7,2,9,9,,,,,,4,3
+G110339,Morne River,SW,Pore-DAB*355,Pore-DAB*552,Pore-DAB*530,,,,,,,11,7,12,,,,,,,3,3
+G110362,Morne River,SW,Pore-DAB*552,Pore-DAB*851,Pore-DAB*636,,,,,,,7,15,9,,,,,,,3,3
+G110366,Morne River,SW,Pore-DAB*522,Pore-DAB*619,Pore-DAB*633,,,,,,,10,2,9,,,,,,,3,3
+G110367,Morne River,SW,Pore-DAB*857,Pore-DAB*421,,,,,,,,10,6,,,,,,,,2,2
+G110368,Morne River,SW,Pore-DAB*619,Pore-DAB*851,Pore-DAB*639,,,,,,,2,15,9,,,,,,,3,3
+G110369,Morne River,SW,Pore-DAB*843,Pore-DAB*571,Pore-DAB*256,Pore-DAB*276,,,,,,7,2,9,9,,,,,,4,3
+G110370,Morne River,SW,Pore-DAB*552,Pore-DAB*421,Pore-DAB*634,Pore-DAB*636,,,,,,7,6,9,9,,,,,,4,3
+G110385,Morne River,SW,Pore-DAB*823,Pore-DAB*553,Pore-DAB*643,Pore-DAB*256,,,,,,5,7,9,9,,,,,,4,3
+G110386,Morne River,SW,Pore-DAB*847,Pore-DAB*842,,,,,,,,10,6,,,,,,,,2,2
+G110387,Morne River,SW,Pore-DAB*355,Pore-DAB*845,Pore-DAB*604,Pore-DAB*628,Pore-DAB*371,Pore-DAB*272,,,,11,10,10,6,9,12,,,,6,5
+G110391,Morne River,SW,Pore-DAB*552,Pore-DAB*619,Pore-DAB*633,,,,,,,7,2,9,,,,,,,3,3
+G110392,Morne River,SW,Pore-DAB*618,Pore-DAB*619,Pore-DAB*851,Pore-DAB*636,,,,,,5,2,15,9,,,,,,4,4
+G110394,Morne River,SW,Pore-DAB*553,Pore-DAB*355,Pore-DAB*822,Pore-DAB*271,Pore-DAB*256,,,,,7,11,6,9,9,,,,,5,4
+G110395,Morne River,SW,Pore-DAB*848,Pore-DAB*536,Pore-DAB*636,Pore-DAB*256,,,,,,10,10,9,9,,,,,,4,2
+G110396,Morne River,SW,Pore-DAB*355,Pore-DAB*628,Pore-DAB*636,,,,,,,11,6,9,,,,,,,3,3
+G110397,Morne River,SW,Pore-DAB*130,Pore-DAB*553,Pore-DAB*256,,,,,,,13,7,9,,,,,,,3,3
+G110398,Morne River,SW,Pore-DAB*535,Pore-DAB*368,Pore-DAB*256,,,,,,,10,15,9,,,,,,,3,3
+G110399,Morne River,SW,Pore-DAB*608,Pore-DAB*628,Pore-DAB*817,Pore-DAB*636,,,,,,1,6,9,9,,,,,,4,3
+G110403,Morne River,SW,Pore-DAB*553,Pore-DAB*271,,,,,,,,7,9,,,,,,,,2,2
+G110405,Morne River,SW,Pore-DAB*523,Pore-DAB*619,Pore-DAB*276,,,,,,,10,2,9,,,,,,,3,3
+G110406,Morne River,SW,Pore-DAB*534,Pore-DAB*619,Pore-DAB*530,Pore-DAB*633,,,,,,10,2,12,9,,,,,,4,4
+G110407,Morne River,SW,Pore-DAB*421,Pore-DAB*636,Pore-DAB*371,,,,,,,6,9,9,,,,,,,3,2
+G110408,Morne River,SW,Pore-DAB*618,Pore-DAB*523,Pore-DAB*619,Pore-DAB*636,Pore-DAB*633,,,,,5,10,2,9,9,,,,,5,4
+PL1,Pitch Lake,SW,Pore-DAB*256,Pore-DAB*874,,,,,,,,9,6,,,,,,,,2,2
+PL10,Pitch lake,SW,Pore-DAB*368,Pore-DAB*256,Pore-DAB*377,,,,,,,15,9,3,,,,,,,3,3
+PL11,Pitch lake,SW,Pore-DAB*130,,,,,,,,,13,,,,,,,,,1,1
+PL12,Pitch lake,SW,Pore-DAB*365,Pore-DAB*256,,,,,,,,5,9,,,,,,,,2,2
+PL14,Pitch lake,SW,Pore-DAB*400,Pore-DAB*407,Pore-DAB*256,,,,,,,8,10,9,,,,,,,3,3
+PL15,Pitch lake,SW,Pore-DAB*423,Pore-DAB*256,,,,,,,,3,9,,,,,,,,2,2
+PL16,Pitch lake,SW,Pore-DAB*423,Pore-DAB*256,,,,,,,,3,9,,,,,,,,2,2
+PL17,Pitch lake,SW,Pore-DAB*366,Pore-DAB*328,Pore-DAB*377,Pore-DAB*256,,,,,,11,12,3,9,,,,,,4,4
+PL18,Pitch lake,SW,Pore-DAB*328,Pore-DAB*366,Pore-DAB*256,,,,,,,12,11,9,,,,,,,3,3
+PL19,Pitch lake,SW,Pore-DAB*377,Pore-DAB*256,,,,,,,,3,9,,,,,,,,2,2
+PL2,Pitch Lake,SW,Pore-DAB*256,Pore-DAB*423,Pore-DAB*377,,,,,,,9,3,3,,,,,,,3,2
+PL20,Pitch lake,SW,Pore-DAB*130,Pore-DAB*256,,,,,,,,13,9,,,,,,,,2,2
+PL21,Pitch lake,SW,Pore-DAB*328,Pore-DAB*366,Pore-DAB*256,,,,,,,12,11,9,,,,,,,3,3
+PL22,Pitch lake,SW,Pore-DAB*427,Pore-DAB*256,,,,,,,,6,9,,,,,,,,2,2
+PL23,Pitch lake,SW,Pore-DAB*256,,,,,,,,,9,,,,,,,,,1,1
+PL24,Pitch lake,SW,Pore-DAB*130,Pore-DAB*256,,,,,,,,13,9,,,,,,,,2,2
+PL25,Pitch Lake,SW,Pore-DAB*377,Pore-DAB*256,Pore-DAB*874,,,,,,,3,9,6,,,,,,,3,3
+PL26,Pitch Lake,SW,Pore-DAB*256,Pore-DAB*874,,,,,,,,9,6,,,,,,,,2,2
+PL27,Pitch Lake,SW,Pore-DAB*400,Pore-DAB*407,Pore-DAB*256,,,,,,,8,10,9,,,,,,,3,3
+PL28,Pitch Lake,SW,Pore-DAB*366,Pore-DAB*328,Pore-DAB*256,,,,,,,11,12,9,,,,,,,3,3
+PL29,Pitch Lake,SW,Pore-DAB*256,Pore-DAB*377,,,,,,,,9,3,,,,,,,,2,2
+PL3,Pitch Lake,SW,Pore-DAB*863,Pore-DAB*256,,,,,,,,13,9,,,,,,,,2,2
+PL30,Pitch Lake,SW,Pore-DAB*256,Pore-DAB*874,,,,,,,,9,6,,,,,,,,2,2
+PL31,Pitch Lake,SW,Pore-DAB*130,Pore-DAB*256,,,,,,,,13,9,,,,,,,,2,2
+PL32,Pitch Lake,SW,Pore-DAB*423,Pore-DAB*256,,,,,,,,3,9,,,,,,,,2,2
+PL4,Pitch Lake,SW,Pore-DAB*873,Pore-DAB*256,Pore-DAB*874,,,,,,,6,9,6,,,,,,,3,2
+PL5,Pitch Lake,SW,Pore-DAB*400,Pore-DAB*407,Pore-DAB*256,,,,,,,8,10,9,,,,,,,3,3
+PL6,Pitch Lake,SW,Pore-DAB*838,Pore-DAB*256,Pore-DAB*874,,,,,,,3,9,6,,,,,,,3,3
+PL8,Pitch Lake,SW,Pore-DAB*256,Pore-DAB*874,,,,,,,,9,6,,,,,,,,2,2
+PL9,Pitch lake,SW,Pore-DAB*256,,,,,,,,,9,,,,,,,,,1,1
+G110033,Vance River,SW,Pore-DAB*619,Pore-DAB*618,Pore-DAB*636,Pore-DAB*103,,,,,,2,5,9,9,,,,,,4,3
+G110034,Vance River,SW,Pore-DAB*355,Pore-DAB*534,Pore-DAB*530,Pore-DAB*619,Pore-DAB*634,,,,,11,10,12,2,9,,,,,5,5
+G110035,Vance River,SW,Pore-DAB*521,Pore-DAB*830,Pore-DAB*633,Pore-DAB*634,,,,,,10,7,9,9,,,,,,4,3
+G110036,Vance River,SW,Pore-DAB*522,Pore-DAB*567,Pore-DAB*633,,,,,,,10,6,9,,,,,,,3,3
+G110066,Vance River,SW,Pore-DAB*595,Pore-DAB*636,Pore-DAB*625,Pore-DAB*531,,,,,,5,9,11,12,,,,,,4,4
+G110135,Vance River,SW,Pore-DAB*619,Pore-DAB*523,Pore-DAB*634,,,,,,,2,10,9,,,,,,,3,3
+G110136,Vance River,SW,Pore-DAB*530,Pore-DAB*522,Pore-DAB*534,Pore-DAB*633,,,,,,12,10,10,9,,,,,,4,3
+G110137,Vance River,SW,Pore-DAB*624,Pore-DAB*103,Pore-DAB*549,,,,,,,5,9,7,,,,,,,3,3
+G110138,Vance River,SW,Pore-DAB*615,,,,,,,,,12,,,,,,,,,1,1
+G110140,Vance River,SW,Pore-DAB*636,Pore-DAB*421,Pore-DAB*422,,,,,,,9,6,6,,,,,,,3,2
+G110141,Vance River,SW,Pore-DAB*550,Pore-DAB*521,Pore-DAB*276,Pore-DAB*639,,,,,,7,10,9,9,,,,,,4,3
+G110143,Vance River,SW,Pore-DAB*523,,,,,,,,,10,,,,,,,,,1,1
+G110144,Vance River,SW,Pore-DAB*615,Pore-DAB*422,Pore-DAB*276,,,,,,,12,6,9,,,,,,,3,3
+G110145,Vance River,SW,Pore-DAB*519,Pore-DAB*619,,,,,,,,10,2,,,,,,,,2,2
+G110146,Vance River,SW,Pore-DAB*552,Pore-DAB*619,Pore-DAB*276,,,,,,,7,2,9,,,,,,,3,3
+G110147,Vance River,SW,Pore-DAB*625,Pore-DAB*528,Pore-DAB*619,Pore-DAB*371,,,,,,11,12,2,9,,,,,,4,4
+G110150,Vance River,SW,Pore-DAB*636,Pore-DAB*552,Pore-DAB*526,,,,,,,9,7,6,,,,,,,3,3
+G110153,Vance River,SW,Pore-DAB*618,Pore-DAB*553,Pore-DAB*619,Pore-DAB*636,Pore-DAB*276,,,,,5,7,2,9,9,,,,,5,4
+G110154,Vance River,SW,Pore-DAB*355,Pore-DAB*552,Pore-DAB*523,Pore-DAB*639,Pore-DAB*633,,,,,11,7,10,9,9,,,,,5,4
+G110156,Vance River,SW,Pore-DAB*534,Pore-DAB*530,Pore-DAB*619,Pore-DAB*276,Pore-DAB*633,,,,,10,12,2,9,9,,,,,5,4
+G110158,Vance River,SW,Pore-DAB*618,Pore-DAB*619,Pore-DAB*421,,,,,,,5,2,6,,,,,,,3,3
+G110160,Vance River,SW,Pore-DAB*552,Pore-DAB*421,Pore-DAB*633,,,,,,,7,6,9,,,,,,,3,3
+G110178,Vance River,SW,Pore-DAB*615,Pore-DAB*552,Pore-DAB*636,Pore-DAB*103,,,,,,12,7,9,9,,,,,,4,3
+G110179,Vance River,SW,Pore-DAB*619,Pore-DAB*256,,,,,,,,2,9,,,,,,,,2,2
+G110180,Vance River,SW,Pore-DAB*619,Pore-DAB*422,Pore-DAB*634,,,,,,,2,6,9,,,,,,,3,3
+G110181,Vance River,SW,Pore-DAB*355,Pore-DAB*534,Pore-DAB*530,Pore-DAB*619,Pore-DAB*256,,,,,11,10,12,2,9,,,,,5,5
+G110182,Vance River,SW,Pore-DAB*421,Pore-DAB*547,Pore-DAB*639,,,,,,,6,7,9,,,,,,,3,3
+G110183,Vance River,SW,Pore-DAB*547,Pore-DAB*551,Pore-DAB*256,,,,,,,7,7,9,,,,,,,3,2
+G110184,Vance River,SW,Pore-DAB*846,Pore-DAB*552,Pore-DAB*103,Pore-DAB*256,,,,,,10,7,9,9,,,,,,4,3
+G110186,Vance River,SW,Pore-DAB*422,Pore-DAB*625,Pore-DAB*530,Pore-DAB*636,,,,,,6,11,12,9,,,,,,4,4
+G110187,Vance River,SW,Pore-DAB*422,Pore-DAB*619,Pore-DAB*639,Pore-DAB*634,,,,,,6,2,9,9,,,,,,4,3
+G110188,Vance River,SW,Pore-DAB*355,Pore-DAB*625,Pore-DAB*553,Pore-DAB*531,Pore-DAB*636,,,,,11,11,7,12,9,,,,,5,4
+G110189,Vance River,SW,Pore-DAB*421,Pore-DAB*546,Pore-DAB*639,Pore-DAB*256,,,,,,6,7,9,9,,,,,,4,3
+G110190,Vance River,SW,Pore-DAB*615,Pore-DAB*633,,,,,,,,12,9,,,,,,,,2,2
+G110191,Vance River,SW,Pore-DAB*619,Pore-DAB*636,Pore-DAB*618,,,,,,,2,9,5,,,,,,,3,3
+G110192,Vance River,SW,Pore-DAB*422,Pore-DAB*522,,,,,,,,6,10,,,,,,,,2,2
+G110193,Vance River,SW,Pore-DAB*595,Pore-DAB*530,,,,,,,,5,12,,,,,,,,2,2
+G110256,Vance River,SW,Pore-DAB*522,Pore-DAB*618,Pore-DAB*619,Pore-DAB*276,,,,,,10,5,2,9,,,,,,4,4
+G110257,Vance River,SW,Pore-DAB*355,Pore-DAB*615,Pore-DAB*571,,,,,,,11,12,2,,,,,,,3,3
+G110258,Vance River,SW,Pore-DAB*422,Pore-DAB*619,Pore-DAB*636,,,,,,,6,2,9,,,,,,,3,3
+G110259,Vance River,SW,Pore-DAB*549,Pore-DAB*421,Pore-DAB*635,Pore-DAB*633,,,,,,7,6,9,9,,,,,,4,3
+G110270,Vance River,SW,Pore-DAB*523,Pore-DAB*615,Pore-DAB*636,,,,,,,10,12,9,,,,,,,3,3
+G110317,Vance River,SW,Pore-DAB*615,Pore-DAB*552,Pore-DAB*636,Pore-DAB*256,,,,,,12,7,9,9,,,,,,4,3
+G110318,Vance River,SW,Pore-DAB*519,Pore-DAB*619,Pore-DAB*256,Pore-DAB*276,,,,,,10,2,9,9,,,,,,4,3
+G110319,Vance River,SW,Pore-DAB*615,Pore-DAB*549,Pore-DAB*633,,,,,,,12,7,9,,,,,,,3,3
+G110320,Vance River,SW,Pore-DAB*521,Pore-DAB*328,Pore-DAB*632,,,,,,,10,12,9,,,,,,,3,3
+G110321,Vance River,SW,Pore-DAB*552,Pore-DAB*636,,,,,,,,7,9,,,,,,,,2,2
+G110322,Vance River,SW,Pore-DAB*619,Pore-DAB*636,,,,,,,,2,9,,,,,,,,2,2
+G110325,Vance River,SW,Pore-DAB*615,Pore-DAB*422,Pore-DAB*637,Pore-DAB*256,,,,,,12,6,9,9,,,,,,4,3
+G110326,Vance River,SW,Pore-DAB*571,Pore-DAB*552,Pore-DAB*633,,,,,,,2,7,9,,,,,,,3,3
+G110328,Vance River,SW,Pore-DAB*553,Pore-DAB*422,Pore-DAB*633,,,,,,,7,6,9,,,,,,,3,3
+G110329,Vance River,SW,Pore-DAB*355,Pore-DAB*530,Pore-DAB*421,Pore-DAB*534,Pore-DAB*639,,,,,11,12,6,10,9,,,,,5,5
+G110332,Vance River,SW,Pore-DAB*552,Pore-DAB*634,Pore-DAB*567,,,,,,,7,9,6,,,,,,,3,3
+G110346,Vance River,SW,Pore-DAB*549,Pore-DAB*552,Pore-DAB*103,,,,,,,7,7,9,,,,,,,3,2
+G110348,Vance River,SW,Pore-DAB*618,Pore-DAB*421,Pore-DAB*619,,,,,,,5,6,2,,,,,,,3,3
+G110349,Vance River,SW,Pore-DAB*625,Pore-DAB*355,Pore-DAB*421,Pore-DAB*531,,,,,,11,11,6,12,,,,,,4,3
+G110350,Vance River,SW,Pore-DAB*421,Pore-DAB*567,Pore-DAB*636,,,,,,,6,6,9,,,,,,,3,2
+G110351,Vance River,SW,Pore-DAB*421,Pore-DAB*619,Pore-DAB*636,Pore-DAB*634,,,,,,6,2,9,9,,,,,,4,3
+G110358,Vance River,SW,Pore-DAB*619,Pore-DAB*618,Pore-DAB*617,Pore-DAB*276,,,,,,2,5,5,9,,,,,,4,3
+G110401,Vance River,SW,Pore-DAB*628,Pore-DAB*355,Pore-DAB*556,,,,,,,6,11,7,,,,,,,3,3
+G110402,Vance River,SW,Pore-DAB*329,Pore-DAB*540,Pore-DAB*371,Pore-DAB*636,,,,,,12,13,9,9,,,,,,4,3
+G110411,Vance River,SW,Pore-DAB*630,Pore-DAB*536,Pore-DAB*371,,,,,,,13,10,9,,,,,,,3,3
+G101690 - Stol,Stollmeyer,SW,Pore-DAB*530,Pore-DAB*523,Pore-DAB*534,Pore-DAB*636,Pore-DAB*633,,,,,12,10,10,9,9,,,,,5,3
+G101691 - Stol,Stollmeyer,SW,Pore-DAB*550,Pore-DAB*619,Pore-DAB*639,Pore-DAB*256,,,,,,7,2,9,9,,,,,,4,3
+G101692 - Stol,Stollmeyer,SW,Pore-DAB*552,Pore-DAB*619,Pore-DAB*103,,,,,,,7,2,9,,,,,,,3,3
+G101693 - Stol,Stollmeyer,SW,Pore-DAB*610,Pore-DAB*616,Pore-DAB*421,Pore-DAB*639,,,,,,15,12,6,9,,,,,,4,4
+G101694 - Stol,Stollmeyer,SW,Pore-DAB*523,Pore-DAB*421,Pore-DAB*276,,,,,,,10,6,9,,,,,,,3,3
+G101695 - Stol,Stollmeyer,SW,Pore-DAB*553,Pore-DAB*530,Pore-DAB*534,Pore-DAB*103,Pore-DAB*639,,,,,7,12,10,9,9,,,,,5,4
+G101696 - Stol,Stollmeyer,SW,Pore-DAB*619,Pore-DAB*617,,,,,,,,2,5,,,,,,,,2,2
+G101697 - Stol,Stollmeyer,SW,Pore-DAB*421,Pore-DAB*636,,,,,,,,6,9,,,,,,,,2,2
+G101698 - Stol,Stollmeyer,SW,Pore-DAB*523,Pore-DAB*619,Pore-DAB*256,Pore-DAB*103,,,,,,10,2,9,9,,,,,,4,3
+G101699 - Stol,Stollmeyer,SW,Pore-DAB*619,Pore-DAB*522,Pore-DAB*633,,,,,,,2,10,9,,,,,,,3,3
+G101700 - Stol,Stollmeyer,SW,Pore-DAB*552,Pore-DAB*619,Pore-DAB*103,,,,,,,7,2,9,,,,,,,3,3
+G101708 - Stol,Stollmeyer,SW,Pore-DAB*355,Pore-DAB*530,Pore-DAB*421,Pore-DAB*639,Pore-DAB*636,,,,,11,12,6,9,9,,,,,5,4
+G101712 - Stol,Stollmeyer,SW,Pore-DAB*421,Pore-DAB*619,Pore-DAB*276,,,,,,,6,2,9,,,,,,,3,3
+G101719 - Stol,Stollmeyer,SW,Pore-DAB*548,Pore-DAB*523,,,,,,,,7,10,,,,,,,,2,2
+G101720 - Stol,Stollmeyer,SW,Pore-DAB*619,Pore-DAB*421,Pore-DAB*636,,,,,,,2,6,9,,,,,,,3,3
+G109127,Point Fortin 1,SW,Pore-DAB*427,Pore-DAB*104,Pore-DAB*256,Pore-DAB*824,,,,,,6,9,9,15,,,,,,4,3
+G109129,Point Fortin 1,SW,Pore-DAB*824,Pore-DAB*837,Pore-DAB*427,Pore-DAB*104,Pore-DAB*371,Pore-DAB*355,,,,15,10,6,9,9,11,,,,6,5
+G109131,Point Fortin 1,SW,Pore-DAB*824,Pore-DAB*837,,,,,,,,15,10,,,,,,,,2,2
+G109135,Point Fortin 1,SW,Pore-DAB*824,Pore-DAB*856,Pore-DAB*837,Pore-DAB*103,Pore-DAB*256,,,,,15,10,10,9,9,,,,,5,3
+G109137,Point Fortin 1,SW,Pore-DAB*824,Pore-DAB*837,Pore-DAB*567,Pore-DAB*202,Pore-DAB*256,,,,,15,10,6,9,9,,,,,5,4
+G109138,Point Fortin 1,SW,Pore-DAB*824,Pore-DAB*350,Pore-DAB*853,Pore-DAB*837,Pore-DAB*819,,,,,15,10,15,10,9,,,,,5,3
+G109140,Point Fortin 1,SW,Pore-DAB*824,Pore-DAB*837,,,,,,,,15,10,,,,,,,,2,2
+G109141,Point Fortin 2,SW,Pore-DAB*824,Pore-DAB*355,Pore-DAB*840,Pore-DAB*837,Pore-DAB*818,,,,,15,11,7,10,9,,,,,5,5
+G109142,Point Fortin 2,SW,Pore-DAB*567,Pore-DAB*256,Pore-DAB*104,,,,,,,6,9,9,,,,,,,3,2
+G109143,Point Fortin 2,SW,Pore-DAB*355,Pore-DAB*824,Pore-DAB*837,Pore-DAB*256,Pore-DAB*840,,,,,11,15,10,9,7,,,,,5,5
+G109145,Point Fortin 2,SW,Pore-DAB*824,Pore-DAB*840,Pore-DAB*837,Pore-DAB*256,,,,,,15,7,10,9,,,,,,4,4
+G109147,Point Fortin 2,SW,Pore-DAB*355,Pore-DAB*856,,,,,,,,11,10,,,,,,,,2,2
+G109148,Point Fortin 2,SW,Pore-DAB*854,Pore-DAB*831,Pore-DAB*271,Pore-DAB*819,,,,,,10,12,9,9,,,,,,4,3
+G109149,Point Fortin 2,SW,Pore-DAB*824,Pore-DAB*855,Pore-DAB*837,Pore-DAB*256,Pore-DAB*103,,,,,15,10,10,9,9,,,,,5,3
+G101638 - SR,Snake River,SW,Pore-DAB*545,Pore-DAB*612,Pore-DAB*596,Pore-DAB*591,Pore-DAB*271,Pore-DAB*256,,,,4,14,13,11,9,9,,,,6,5
+G101639 - SR,Snake River,SW,Pore-DAB*581,Pore-DAB*605,Pore-DAB*271,,,,,,,13,1,9,,,,,,,3,3
+G101640 - SR,Snake River,SW,Pore-DAB*271,Pore-DAB*609,Pore-DAB*573,Pore-DAB*581,,,,,,9,6,6,13,,,,,,4,3
+G101641 - SR,Snake River,SW,Pore-DAB*271,Pore-DAB*591,Pore-DAB*596,Pore-DAB*600,,,,,,9,11,13,14,,,,,,4,4
+G101642 - SR,Snake River,SW,Pore-DAB*421,Pore-DAB*605,Pore-DAB*271,,,,,,,6,1,9,,,,,,,3,3
+G101643 - SR,Snake River,SW,Pore-DAB*611,Pore-DAB*421,Pore-DAB*614,Pore-DAB*271,,,,,,14,6,11,9,,,,,,4,4
+G101646 - SR,Snake River,SW,Pore-DAB*573,Pore-DAB*581,Pore-DAB*609,Pore-DAB*271,Pore-DAB*642,,,,,6,13,6,9,9,,,,,5,3
+G101654 - SR,Snake River,SW,Pore-DAB*586,Pore-DAB*271,Pore-DAB*421,,,,,,,4,9,6,,,,,,,3,3
+G101655 - SR,Snake River,SW,Pore-DAB*597,Pore-DAB*580,Pore-DAB*271,,,,,,,8,6,9,,,,,,,3,3
+G101657 - SR,Snake River,SW,Pore-DAB*561,Pore-DAB*600,Pore-DAB*256,Pore-DAB*640,,,,,,5,14,9,9,,,,,,4,3
+G101661 - SR,Snake River,SW,Pore-DAB*562,Pore-DAB*271,Pore-DAB*642,,,,,,,8,9,9,,,,,,,3,2
+G101662 - SR,Snake River,SW,Pore-DAB*545,Pore-DAB*601,Pore-DAB*638,Pore-DAB*271,Pore-DAB*599,,,,,4,14,9,9,6,,,,,5,4
+Tobago1,Windward Rd.,Tobago,Pore-DAB*274,Pore-DAB*272,Pore-DAB*276,Pore-DAB*206,,,,,,6,12,9,9,,,,,,4,3
+Tobago2,Windward Rd.,Tobago,Pore-DAB*274,Pore-DAB*276,,,,,,,,6,9,,,,,,,,2,2
+Tobago4,Windward Rd.,Tobago,Pore-DAB*273,Pore-DAB*274,Pore-DAB*275,Pore-DAB*104,Pore-DAB*206,,,,,15,6,1,9,9,,,,,5,4
+Tobago5,Windward Rd.,Tobago,Pore-DAB*274,Pore-DAB*206,Pore-DAB*104,,,,,,,6,9,9,,,,,,,3,2
+BG1204,Barbados,Barbados,Pore-DAB*445,Pore-DAB*602,Pore-DAB*319,,,,,,,11,8,9,,,,,,,3,3
+BG1206,Barbados,Barbados,Pore-DAB*828,Pore-DAB*355,,,,,,,,6,11,,,,,,,,2,2
+BG1209,Barbados,Barbados,Pore-DAB*602,Pore-DAB*319,Pore-DAB*839,Pore-DAB*829,,,,,,8,9,7,13,,,,,,4,4
+BG1212,Barbados,Barbados,Pore-DAB*602,Pore-DAB*319,Pore-DAB*821,,,,,,,8,9,9,,,,,,,3,2
+BG1217,Barbados,Barbados,Pore-DAB*445,Pore-DAB*602,Pore-DAB*319,Pore-DAB*839,,,,,,11,8,9,7,,,,,,4,4
+P. picta-p3_11A,P. picta,Mid East,Pore-DAB*800,Pore-DAB*721,Pore-DAB*760,Pore-DAB*786,,,,,,9,13,15,2,,,,,,4,4
+P. picta-p3_11B,P. picta,Mid East,Pore-DAB*799,Pore-DAB*800,,,,,,,,9,9,,,,,,,,2,1
+P. picta-p3_11C,P. picta,Mid East,Pore-DAB*786,Pore-DAB*703,Pore-DAB*798,Pore-DAB*721,Pore-DAB*800,,,,,2,8,9,13,9,,,,,5,4
+P. picta-p3_11F,P. picta,Mid East,Pore-DAB*799,Pore-DAB*724,Pore-DAB*763,,,,,,,9,1,2,,,,,,,3,3
+P. picta-p3_11H,P. picta,Mid East,Pore-DAB*725,Pore-DAB*800,Pore-DAB*721,,,,,,,1,9,13,,,,,,,3,3
