@@ -1,0 +1,88 @@
+Gmacro
+STred1
+Note Runs after %ST1 to analyse co-evolutionary arms race
+Note with just 1 locus!!
+Note
+Note It selects parasites and host alleles in the right top corner
+Note of the grid (>900 x >900) and tallies their frequencies
+Note over generations.
+Note 
+Note It uses data in c800-c804 from %ST1;
+Note OUTPUT for "HP SigmaPlot" in c790-c792: 
+
+erase c749-c799
+name c790 'Generation for HP' c791 'p(ST)' c792 'p(parasite)'
+
+Note Which corner of the grid you want to investigate 
+Note HP co-evolution?
+Note Answer 900 for the >900 x 900 square.
+Note Answer 100 for the <100 x 100 square
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k444
+Note
+
+Note From which generation onwards do you want to analyse 
+Note HP co-evolution?
+Note Answer start number of simulations with t=1 intervals!
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k555
+
+brief 1
+
+# The hosts:
+copy c800-c801 c750-c751
+let k222=max(c750)/k100
+if k444>500			# Only keep genotypes with one locus with X > 900
+  RMaximum c751 c749.
+copy c749-c751 c749-c751;
+use c749=k444:1001.				
+else 				# Only keep genotypes with one locus with X < 100
+  RMinimum c751 c749.
+  copy c749-c751 c749-c751;
+  use c749=0:k444.				
+endif
+
+let c751=10000*(c751-round(c751))
+if k444>500
+  copy c749-c751 c749-c751;
+  use c749=k444:1001.			# Only keep genotypes with one locus with Y > 900
+else
+  copy c749-c751 c749-c751;  
+  use c749=0:k444.				# Only keep genotypes with one locus with Y < 100
+endif
+
+do k111=k555:k222
+  let k10=k111*k100
+  copy c750 c749;
+  use c750=k10.
+  N(c749) k333
+  stack (c790 c791) (k10 k333) (c790 c791)
+enddo
+
+# The parasites:
+copy c800 c804 c755 c756;
+use c804=k444:1001.
+let c756=10000*(c756-round(c756))
+copy c755 c756 c755 c756;
+use c756=k444:1001.
+do k111=k555:k222
+  let k10=k111*k100
+  copy c755 c749;
+  use c755=k10.
+  N(c749) k333
+  stack (c792) (k333) (c792)
+enddo
+
+brief 1
+
+Plot 'p(ST)'*'Generation for HP' 'p(parasite)'*'Generation for HP';
+  Connect;
+  Overlay;
+  ScFrame;
+  ScAnnotation.
+
+Endmacro
