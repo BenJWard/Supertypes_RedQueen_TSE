@@ -1,4 +1,4 @@
-# Supertypes_RedQueen_TSE
+# Supertype evolution model unifies the Red Queen hypothesis with trans-species evolution
 
 This repository houses work done as part of the project and publication:
 
