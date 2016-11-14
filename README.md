@@ -39,9 +39,9 @@ Ben J. Ward (Github: Ward9250).
 
 **2). Simulations of immune gene evolution in a host-parasite system.**
 
-The code provided in the src folder is for a Minitab 12.1 macro to study
-the evolution of immune genes in a host-parasite system, examining whether
-trans-species polymorphisms of STs can evolve in a Red Queen's arms race.
+The code provided as .mac files in the src folder is for a Minitab 12.1 macro
+to study the evolution of immune genes in a host-parasite system, examining
+whether trans-species polymorphisms of STs can evolve in a Red Queen's arms race.
 
 In particular, it analyses the adaptive evolutionary change in epitope
 recognition of immune alleles and STs (i.e. their paratope) during host
