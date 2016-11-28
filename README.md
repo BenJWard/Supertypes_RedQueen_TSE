@@ -91,6 +91,13 @@ another to produce the next generation of diploid offspring. This resulted in a
 Poisson distribution of offspring per parent (mean=variance=unity).
 Output is displayed in the Minitab 12.1 Data Window.
 
+**3). Plotting scripts**
+
+We also tried plotting Supertype evolution using R with different colour schemes
+for publication. Some of these plots, data used to make them, and the scripts
+are included in this repository.
+
+
 ## Repository Details:
 
 ### Folders
@@ -132,6 +139,9 @@ Columns are (left to right):
 24. Number of alleles in sample.
 25. Number of supertypes in sample.
 
+**Files:** *The .xls files, and ST_RQ_Dynamics.csv*
+
+These contain the data used for plotting the plots in results/plotting/
 
 ### Analysis
 
@@ -173,3 +183,8 @@ population, where each row is a supertype, and each column is a population.
 4. Calculate the pairwise Jost D for the matrix output from step 3.
 Also calculate the average of each column i.e. the mean Jost D for each
 population relative to all others.
+
+### Plotting
+The julia and R scripts called *RQ_Evo_Plotting.R*, and *RE_Evo_Plotting.jl*
+in the src/ directory are were used to process the data in *ST_RQ_Dynamics.csv*
+(which was saved from the .xls files), to make the plots in results/plotting.
