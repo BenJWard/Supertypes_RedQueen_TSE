@@ -1,5 +1,7 @@
 #!/usr/bin/env julia
 
+# Simple script that prepared the data Jackie gave me for plotting.
+
 using DataFrames, Plots, StatPlots
 
 dat = readtable("data/ST_RQ_Dynamics.csv")
