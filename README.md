@@ -1,9 +1,8 @@
-# Supertype evolution model unifies the Red Queen hypothesis with trans-species evolution
+# Evolutionary genetics of immunological supertypes reveals two faces of the Red Queen
 
 This repository houses work done as part of the project and publication:
 
-**"Supertype evolution model unifies the Red Queen Hypothesis with trans-species
-evolution"**
+[**"SEvolutionary genetics of immunological supertypes reveals two faces of the Red Queen"**](https://www.nature.com/articles/s41467-017-01183-2)
 
 by
 
@@ -16,6 +15,8 @@ by
 - Andrew P. Hendry
 - Paul Bentzen
 - Cock van Oosterhout
+
+[**DOI:**doi:10.1038/s41467-017-01183-2](doi:10.1038/s41467-017-01183-2)
 
 Two parts of the project are included in this repository:
 
