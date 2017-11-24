@@ -2,7 +2,7 @@
 
 This repository houses work done as part of the project and publication:
 
-[**"SEvolutionary genetics of immunological supertypes reveals two faces of the Red Queen"**](https://www.nature.com/articles/s41467-017-01183-2)
+[**"Evolutionary genetics of immunological supertypes reveals two faces of the Red Queen"**](https://www.nature.com/articles/s41467-017-01183-2)
 
 by
 
