@@ -16,7 +16,7 @@ by
 - Paul Bentzen
 - Cock van Oosterhout
 
-[**DOI:**doi:10.1038/s41467-017-01183-2](doi:10.1038/s41467-017-01183-2)
+[**DOI:** doi:10.1038/s41467-017-01183-2](doi:10.1038/s41467-017-01183-2)
 
 Two parts of the project are included in this repository:
 
