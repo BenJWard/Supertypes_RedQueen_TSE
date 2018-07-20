@@ -1,0 +1,489 @@
+Gmacro
+QOW
+
+	#########################
+	#   Minitab 12.1 macro	#
+	#   Cock van Oosterhout #
+	#   Date: 19-04-2018 	#
+	#########################
+
+Note Simulates ST evolution in Red Queens arms race
+Note but only for a single locus. 
+Note 
+Note Source metapopulation in c501-c505, c511, c521, c531.
+Note 
+Note Nm = 0.5 (Evolution, 60(12), 2006, pp. 2562–2574).
+Note 
+Note 				
+Note 
+Note Output for SigmaPlot is given in: 
+Note c810-c815 (for ST position)
+Note c790-c792 (for frequency and HP coevolution)
+brief 1
+
+Name k1 'N' k2 'R' k3 'R-1' k4 't' k12 '1%N' k14 'N-1' k101 'U'
+
+Note What is the start number of the random number generator? 
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k1000
+base k1000
+Note
+
+Note What is the size of the host population (N)? 
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 'N'
+Note
+
+Note What is the % of new parasites (1%N)? 
+Note Value between 0 and 100%
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 '1%N'
+let '1%N'=round(('N'*'1%N')/100)
+Note
+
+Note What is base of the mutation rate (U)? 
+Note Answer 0 for high mutation rate (i.e. 1 every time step).
+Note Use value U=-4 for realistic mutation rate appropriate for testing
+Note the effects of genetic drift on ST and allelic variation.
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 'U'
+let 'U'=10**('U')
+Note
+
+Note Individuals need to resist how many infections before reproducing (R)?
+Note (R=2, 3, 4, ...) 
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 'R'
+let 'R-1'='R'-1
+Note
+
+Note How many generations (t)?
+Note 1000 < t < 50,000 
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k5
+Note
+
+Note What is the generation interval (k100)?
+Note let k100=1, 10 or 100
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k100
+Note 
+
+Note Do you need allele and ST frequencies?
+Note (Slows down simulations; 0=no, 1=yes)
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k333
+
+Note
+Note Continue from a previous simulation?
+Note 0 = new simulation; 
+Note 1 = continue from previous simulation
+set c999;
+file 'terminal';
+nobs = 1.
+copy c999 k6
+Note
+ brief 0
+
+if k6 = 0					# For new simulations only
+
+  Erase c1-c500 c533-c1000
+  Erase k7-k11 k13 k15-k99 k102-k332 k334-k1000
+  
+  Name c1 'Haplo1' c2 'Haplo2' c3 'Age' c4 'Fitness' c5 'Broods'
+  Name c11 'H1.1' c12 'H1.2' c13 'H1.3' c21 'H2.1' c22 'H2.2' c23 'H2.3' c31 'Parasite'
+  Name c61 'Closest allele' c62 'Survive or dead?'
+  Name c201 'Generations' c202 'Haplotype' c203 'Locus'  c204 '%Haplotype'
+  Name c205 'mean X' c206 'min X' c207 'max X' c208 'mean Y' c209 'min Y' c210 'max Y'
+  Name c220 'Generation t' c221 'Freq. haplotype'
+  Name c501 'Source Haplo1' c502 'Source Haplo2' c503 'Source Age' c504 'Source W' c505 'Source broods'
+  Name c511 'Source H1.1' c521 'Source H2.1' c531 'Source parasites (3 spp.)' c532 'Source para survival'
+  Name c711 'ST1' c712 'ST2' c713 'ST3' c714 'Para at t' c715 'STs'
+  Name c720 'Gens' c721 'Nr of alleles in N=100' c722 'ne alleles' c723 'Nr of ST in N=100' c724 'ne ST' c725 'Effective size'
+  Name c800 'Generation'  c801 'ST locus 1' c802 'ST locus 2' c803 'ST locus 3' c804 'Parasites at time t'
+  Name c980 'Old parasites' c983 'New parasites'
+  
+  # Generate the 1000 x 1000 grid in c980:
+  Set c980
+  1( 1 : 1000 / 1 )1000
+  End.
+  Set c981
+  1000( 0.0001 : 0.1 / 0.0001 )1
+  End.
+  let c980=c980+c981
+  sample 1000 c980 c980
+  
+  # Generate the parasite mutation column (c990):
+  Set c990
+  1( -1 : 1 / 2 )1				# Low parasite step U
+  End.
+  
+  # Generate the host mutation column (c100):
+  Set c100
+  1( -1.0001 -1 -0.9999 -0.0001 0 0.0001 0.9999 1 1.0001 )1
+  End.
+  
+  # Generate N haplotypes in c1 and c2
+  # Haplo1 = 100,001 - 101,000 and Haplo2 = 200,001 - 201,000 
+  Set c1
+  1( 1 : 'N' / 1 )1
+  End.
+  let c1=c1+100000
+  let c2=c1+100000
+
+  # Use only 1 locus everywhere:
+  let k13=11
+  let k23=21
+  let k33=31
+  let k43=41
+  let k53=51
+  let k63=61
+  let k73=71
+  let k83=81
+  let k93=91
+  let k113=111
+  let k123=121
+  let k133=131
+  let k713=711
+
+  # Generate N alleles at k loci in c11-c13 (haplotype 1) and c21-c23 (haplotype 2)
+  # Each allele refers to a point on a 2D grid, e.g. 216.0781 = (216, 781).
+  do k1000=11:k13
+    sample 'N' c980 ck1000;
+    replace.
+  enddo
+  do k1000=21:k23
+    sample 'N' c980 ck1000;
+    replace.
+    let c983=c980
+  enddo
+  
+  # Generate N 'Age' values (=0), fitness values (=1), number of broods (=0), in c3-c5:
+  Set c3
+  1( 0 : 0 / 1 )'N'
+  End.
+  let c4=c3+1		# start fitness = 1
+  let c5=c3
+  let k7=1
+
+else
+
+  let k7=max('Generation')+1
+  let k5=k7+k5
+
+endif
+  
+do k4=k7:k5
+
+  # Generate N parasites in c31
+  let k666=N(c11)
+  sample k666 c983 c31;
+  replace.
+  
+  # Calculate minimum difference between allele and parasite:
+  do k11=11:k13
+    let k41=k11+30
+    let ck41=(( (round(ck11-0.5)-round(c31-0.5)) )**2 + (10000 * ((ck11-round(ck11-0.5)) - (c31-round(c31-0.5)) ))**2)**0.5
+  enddo
+  do k11=21:k23
+    let k41=k11+30
+    let ck41=(( (round(ck11-0.5)-round(c31-0.5)) )**2 + (10000 * ((ck11-round(ck11-0.5)) - (c31-round(c31-0.5)) ))**2)**0.5
+  enddo
+  
+  # Establish who fights off infection and who gets infected:
+  RMinimum c41-ck43 c51-ck53 c61.		# c61: closest allele
+  let k998=median(c61)				# let 50% of host be infected
+  code (0:k998) 1 (k998:9999) -1 c61 c62
+  let 'fitness'='fitness'+c62
+  
+  # Kill individuals with fitness=0; add +1 to 'Age' of survivors:
+  copy c1-c5 c11-ck13 c21-ck23 c1-c5 c11-ck13 c21-ck23;
+  omit 'Fitness'=0.
+  let 'Age'='Age'+1
+  
+  # Reproduce hosts with fitness='R', add +1 to their 'Broods', and make their fitness =1:
+  copy c1 c11-ck13 c2 c21-ck23 c70-ck73 c80-ck83;
+  use 'Fitness'='R'.
+  Code ('R') 1 (0: 'R-1') 0 'Fitness' c6
+  let 'Broods'='Broods'+c6
+  code ('R') 1 'Fitness' 'Fitness' 		# After reproduction, host fitness =0 (+1)
+  N(c71) k1000
+  if k1000>0					# Check if anyone reproduced:
+    stack (c70-ck73) (c80-ck83) (c90-ck93)
+    let k999='N'-count(c1)
+    if k999>0					# Check if population below carrying capacity:
+      sample k999 c90-ck93 c70-ck73;		# If so, reproduce as many young as carrying capacity allows:
+      replace.
+      sample k999 c90-ck93 c80-ck83;
+      replace.
+          
+      # Mutate host alleles:
+      do k71=71:k73
+        sample k999 c100 c99;
+        replace.
+        Random k999 c98;
+        Uniform 0.0 1.0.
+        Code (0:'U') 1 ('U':1) 0 c98 c98
+        let c99=c98*c99
+        let ck71=ck71+c99
+      enddo
+      do k81=81:k83
+        sample k999 c100 c99;
+        replace.
+        Random k999 c98;
+        Uniform 0.0 1.0.
+        Code (0:'U') 1 ('U':1) 0 c98 c98
+        let c99=c98*c99
+        let ck81=ck81+c99
+      enddo
+     
+      # Give newborns fitness=1 and age=0 and broods=0
+      Set c99
+      1( 0 : 0 / 1 )k999
+      End.
+      stack ('Age' 'Broods') (c99 c99) ('Age' 'Broods')
+      Set c99
+      1( 1 : 1 / 1 )k999
+      End.
+      stack 'Fitness' c99 'Fitness'
+      stack (c1 c11-ck13) (c70-ck73) (c1 c11-ck13)
+      stack (c2 c21-ck23) (c80-ck83) (c2 c21-ck23)
+    endif
+  endif
+  
+  # Migration into and from the source-sink metapopulation in c501-c505 c511 c521 c531 c532:
+  if k4>50
+    let k1000=(round(k4/2))*2=k4								# Nm=0.5 (based on Evolution 2006)  
+    if k1000=1 											# Start after burn-in of 50 generations
+      copy c1-c5 c11 c21 c401-c405 c411 c421;
+      use 1.											# Nm = 0.125
+      copy c31 c62 c431 c432;
+      use 1.
+      stack (c501-c505 c511 c521) (c401-c405 c411 c421) (c501-c505 c511 c521)			# Emigration
+      stack (c531 c532) (c431 c432) (c531 c532)
+      copy c1-c5 c11 c21 c31 c62 c1-c5 c11 c21 c31 c62;
+      omit 1.
+      let k1000=N(c501)
+      Set c1000
+      1( 1 : k1000 / 1 )1
+      End.
+      sample 1 c1000 c999
+      let k999=sum(c999)
+      copy c501-c505 c511 c521 c531 c532 c401-c405 c411 c421 c431 c432;
+      use k999.
+      stack (c1-c5 c11 c21) (c401-c405 c411 c421) (c1-c5 c11 c21)				# Immigration
+      stack (c31 c62) (c431 c432) (c31 c62)
+    endif			
+  endif
+  
+  # Reproduce the surviving parasites: 
+  copy 'Parasite' c981;		# c981: surviving parasites are c62=-1
+  use c62=-1.
+  if '1%N'=0
+    sample 'N' c981 c983;	# c983: only co-evolved parasites, no new emerging parasites
+    replace.
+  else
+    sample '1%N' c980 c982;	# c982: produce '1%N' of host population size N new parasites anywhere on grid:
+    replace.
+    if '1%N'='N'
+      let c983=c982		# c983: next generation of parasites are all emerging novel infections (no RQAR)
+    else
+      stack c981 c982 c983	# c983: next generation parasites (mixture of co-evolved and new)
+      sample 'N' c983 c983;
+      replace.
+    endif
+  endif
+    
+  # Mutate the parasites:
+  let c984=round(c983-0.5)
+  let c985=10000*(c983-c984)
+  sample 'N' c990 c991;			# Mutate X and Y coordinate of parasite by -1 or +1:
+  replace.
+  sample 'N' c990 c992;
+  replace.
+  let c984=c984+c991
+  let c985=c985+c992
+  code (-99999:0) 0 (1001:99999) 1000 c984 c984		# Keep parasites within 1000 x 1000 grid, and use a torus grid!
+  code (-99999:0) 0 (1001:99999) 1000 c985 c985
+  let c983=c984+(c985/10000)
+  
+  let k1000=(round(k4/k100))*k100=k4				
+  if k1000=1
+    brief 1
+    prin k4
+    if 'N'<1000
+      sample 100 c11-ck13 c711-ck713;				
+      replace.
+      sample 100 c981 c714;					# c714, c804 and c981: surviving parasites
+      replace.						
+    else
+      sample 100 c11-ck13 c711-ck713.       
+      sample 100 c981 c714.
+    endif
+    let c710=(c711/c711)*k4 
+    Convert 'H1.1' 'Haplo1' 'ST1' c715.				# c715: distinct supertypes
+    stack (c800 c801 c804) (c710 c711 c714) (c800 c801 c804)	################### CHANGED FROM %ST
+
+    brief 0
+    
+    if k333 =1
+        # Calculate the effective number of alleles in a sample of 100:
+        erase c716-c719
+        let k719=0						# k719: allele counter
+        copy c711 c716					
+      mlabel 3
+        let k716=min(c716)
+        copy c716 c717;
+        use c716=k716.
+        let k718=N(c717)
+        stack c718 k718 c718
+        let k719=k719+1
+        copy c716 c716;
+        omit c716=k716.
+        N(c716) k720
+        if k720>0
+      goto 3
+        endif
+        let k721=((sum((c718/sum(c718))**2))**0.5)**(-1)
+        stack (c720-c722) (k4 k719 k721) (c720-c722)
+        
+        # Calculate the effective number of supertypes in a sample of 100:
+        erase c716-c719
+        let k719=0						# k719: allele counter
+        copy c715 c716
+      mlabel 4
+        let k716=min(c716)
+        copy c716 c717;
+        use c716=k716.
+        let k718=N(c717)
+        stack c718 k718 c718
+        let k719=k719+1
+        copy c716 c716;
+        omit c716=k716.
+        N(c716) k720
+        if k720>0
+      goto 4
+        endif
+        let k721=((sum((c718/sum(c718))**2))**0.5)**(-1)
+        stack (c723 c724 c725) (k719 k721 'N') (c723 c724 c725)
+        erase c717 c718
+    endif
+    
+    # Determine centroid and range of each supertype:
+    copy c1 c2 c11-ck13 c21-ck23 c101 c102 c111-ck113 c121-ck123
+  mlabel 1
+    let k8=min(c101)
+    copy c111-ck113 c131-ck133;
+    use c101=k8.
+    do k9=131:k133
+      let k10=k9-130
+      let c141=round(ck9)		# X- coordinate ST(k8) locus k10
+      let c151=10000*(ck9-c141)	# Y- coordinate ST(k8) locus k10
+      let k140=100*(N(c141)/'N')
+      let k141=mean(c141)
+      let k142=min(c141)
+      let k143=max(c141)
+      let k151=mean(c151)
+      let k152=min(c151)
+      let k153=max(c151)
+      stack (c201-c210) (k4 k8 k10 k140 k141-k143 k151-k153) (c201-c210)
+    enddo
+    copy c101 c111-ck113 c101 c111-ck113;
+    omit c101=k8.
+    N(c111) k999
+    if k999>0
+  goto 1
+    endif
+    ######################################################################################
+    #                                                                                                                    			#
+    # 	CHANGE FILE NAME WHEN RUNNING NEW SIMULATIONS!                        			#
+    #                                                                                                                    			#
+    # Save  "C:\Users\Cock\Documents\My Documents\Jackie\ST model\1 locus N=10000, U-4 (base 2).MPJ";  	#
+    # Project;                                                                                                   				#
+    # Replace.                                                                                                       			#
+    #                                                                                                                    			#
+    #######################################################################################
+  endif
+Enddo
+
+erase c211-c300
+Name c200 'Generations*' c220 'Generation t' c221 'Freq. haplotype'
+
+# Track back the history of the contemporary haplotypes:
+let k1000=max('Generations')
+copy 'Haplotype' c199;
+use 'Generations'=k1000.
+let k221=220
+mlabel 2
+  let k221=k221+1
+  let k999=min(c199)
+  copy 'Generations' 'Locus' '%Haplotype' c211-c213;
+  use 'Haplotype'=k999.
+  copy c211-c213 c211-c213;
+  use c212=1.
+  stack ck221 c213 ck221
+  copy c199 c199;
+  omit c199=k999.
+  N(c199) k999
+  if k999>0
+goto 2
+  else
+    let 'Generation t'=c211
+  endif
+
+# For making graphs in SigmaPlot copy data to c810-c815:
+Name c810 '1st column for SigmaPlot' c815 'Last column for SigmaPlot'
+copy 'Generations' 'mean X' 'mean Y' c810-c812;
+use 'Generations'=1000:999999.
+copy 'Generation' 'Parasites at time t' c813 c814;
+use 'Generation'=1000:999999.
+let c815=round(10000*(c814-round(c814)))
+let c814=round(c814)
+
+# For making graphs in SigmaPlot of ST and parasite positions in the last generation (c601-c608):
+let c601=round(c711)
+let c602=round(10000*(c711-c601))
+let c607=round(c981)
+let c608=round(10000*(c981-c607))
+
+brief 1
+
+if k4>2000
+  Code (0:2000) '*' 'Generations' c200
+else
+  let c200='Generations'
+endif
+
+if k333=1
+  Plot 'Nr of ST in N=100'*'Gens' 'ne ST'*'Gens';
+  Connect;
+  Overlay;
+  Maximum 2 25;
+  ScFrame;
+  ScAnnotation.
+endif
+
+  Pltx 'mean X'*'mean Y'*'Generations*';
+  Symbol;
+  Title "Supertype position in 1000 x 1000 grid over time";
+  VProjection 1;
+  VAspect 3 3 2;
+  HSRemoval 3.
+
+Endmacro
